@@ -1,0 +1,16 @@
+sources:
+
+  - name: hackernews
+    url: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html
+
+  - name: politico
+    url: https://www.politico.com/newsletters/weekly-cybersecurity/2026/03/02/the-cyber-war-in-iran-00806706
+
+  - name: helpnet
+    url: https://www.helpnetsecurity.com/2026/03/01/week-in-review-self-spreading-npm-malware-hits-developers-cisco-sd-wan-0-day-exploited-since-2023/
+
+  - name: cyware
+    url: https://www.cyware.com/resources/threat-briefings/weekly-threat-briefing/cyware-weekly-threat-intelligence-february-23-27-2026
+
+  - name: linkedin
+    url: https://www.linkedin.com/pulse/through-lens-ismg-critical-care-risk-1xhpe/
