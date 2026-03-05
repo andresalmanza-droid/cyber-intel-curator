@@ -20,11 +20,14 @@ for s in config["sources"]:
 
         if title and len(title) > 40:
 
+            if not url.startswith("http"):
+                 continue
+                    
             news.append({
-                "title":title,
-                "url":href,
-                "source":s["name"]
-            })
+            "title": title,
+            "url": url,
+            "source": source
+           })
 
 with open("data/news_raw.json","w") as f:
     json.dump(news,f,indent=2)
