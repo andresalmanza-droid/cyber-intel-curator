@@ -34,6 +34,9 @@ jobs:
       - name: classify news
         run: python classifier.py
 
+      - name: select best news
+        run: python selector.py
+
       - name: build newsletter prompt
         run: python newsletter.py
 
