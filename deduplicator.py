@@ -1,7 +1,7 @@
 import json
 from difflib import SequenceMatcher
 
-with open("data/news_clean.json") as f:
+with open("data/news_raw.json") as f:
     news = json.load(f)
 
 unique = []
