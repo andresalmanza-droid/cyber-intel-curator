@@ -28,6 +28,9 @@ jobs:
       - name: run scraper
         run: python scraper.py
 
+      - name: clean news
+        run: python cleaner.py  
+
       - name: remove duplicates
         run: python deduplicator.py
 
