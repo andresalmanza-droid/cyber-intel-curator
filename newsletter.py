@@ -1,6 +1,5 @@
 from datetime import datetime
 
-
 HEADER_TITLE = "Cyber Intelligence Brief"
 HEADER_DESCRIPTION = "Curated cybersecurity signals of the week."
 
