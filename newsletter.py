@@ -3,7 +3,6 @@ from datetime import datetime
 HEADER_TITLE = "Cyber Intelligence Brief"
 HEADER_DESCRIPTION = "Curated cybersecurity signals of the week."
 
-
 def clean_title(title: str) -> str:
     """
     Cleans titles from ads, extra whitespace, or newsletter artifacts.
