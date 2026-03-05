@@ -2,7 +2,7 @@ import json
 from datetime import date
 
 # cargar noticias limpias
-with open("data/news_clean.json") as f:
+with open("data/news_selected.json") as f:
     news = json.load(f)
 
 today = date.today()
