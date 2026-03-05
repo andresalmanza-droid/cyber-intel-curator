@@ -1,11 +1,9 @@
 name: Cyber Intelligence Curator
 
 on:
-  schedule:
-    - cron: "0 12 * * 1"
-
   workflow_dispatch:
-
+  schedule:
+    - cron: '0 10 * * 1'
 jobs:
   run-agent:
 
