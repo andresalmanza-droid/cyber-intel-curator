@@ -1,16 +1,26 @@
 import json
+from datetime import date
 
+# cargar noticias limpias
 with open("data/news_clean.json") as f:
     news = json.load(f)
 
-text = "\n".join([n["title"] for n in news])
+today = date.today()
 
-prompt = f"""
-Actúa como curador de noticias de ciberseguridad.
+# construir el boletín
+newsletter = f"# Cyber Intelligence Brief\n"
+newsletter += f"Date: {today}\n\n"
+newsletter += "Curated cybersecurity signals of the week.\n\n"
 
-Con las siguientes noticias crea un boletín.
+for n in news:
+    newsletter += f"## {n['title']}\n"
+    newsletter += f"{n['summary']}\n\n"
+    newsletter += f"Source: {n['url']}\n\n"
 
-{text}
-"""
+# guardar boletín
+filename = f"newsletter/cyberintel-{today}.md"
 
-print(prompt)
+with open(filename, "w") as f:
+    f.write(newsletter)
+
+print("Newsletter created:", filename)
