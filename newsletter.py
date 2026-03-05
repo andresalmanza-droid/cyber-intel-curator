@@ -1,41 +1,115 @@
-import json
-from datetime import date
-import os
+from datetime import datetime
 
-# cargar noticias seleccionadas
-with open("data/news_selected.json") as f:
-    news = json.load(f)
 
-today = date.today()
+HEADER_TITLE = "Cyber Intelligence Brief"
+HEADER_DESCRIPTION = "Curated cybersecurity signals of the week."
 
-# construir el boletín
-newsletter = ""
-newsletter += "# Cyber Intelligence Brief\n"
-newsletter += f"Date: {today}\n\n"
-newsletter += "Curated cybersecurity signals of the week.\n\n"
 
-for n in news:
+def clean_title(title: str) -> str:
+    """
+    Cleans titles from ads, extra whitespace, or newsletter artifacts.
+    """
+    if not title:
+        return ""
 
-    title = n.get("title", "No title")
-    summary = n.get("summary", "")
-    url = n.get("url", "No source available")
-    category = n.get("category", "general")
+    # remove excessive whitespace
+    title = " ".join(title.split())
 
-    newsletter += f"## {title}\n"
+    # remove promotional phrases
+    blacklist = [
+        "request demo",
+        "demo",
+        "sponsored",
+        "advertisement",
+        "airia is the governance",
+    ]
 
-    if summary:
-        newsletter += f"{summary}\n\n"
+    lowered = title.lower()
+    for word in blacklist:
+        if word in lowered:
+            return ""
 
-    newsletter += f"Source: {url}\n"
-    newsletter += f"Category: {category}\n\n"
+    return title.strip()
 
-# asegurar que la carpeta newsletter exista
-os.makedirs("newsletter", exist_ok=True)
 
-# guardar boletín
-filename = f"newsletter/cyberintel-{today}.md"
+def is_valid_entry(entry: dict) -> bool:
+    """
+    Ensures the entry has the minimum fields required.
+    """
+    if not isinstance(entry, dict):
+        return False
 
-with open(filename, "w", encoding="utf-8") as f:
-    f.write(newsletter)
+    if not entry.get("title"):
+        return False
 
-print("Newsletter created:", filename)
+    if not entry.get("url"):
+        return False
+
+    if not entry.get("category"):
+        return False
+
+    return True
+
+
+def format_entry(entry: dict) -> str:
+    """
+    Formats one entry for the newsletter.
+    """
+    title = clean_title(entry["title"])
+
+    if not title:
+        return ""
+
+    url = entry["url"]
+    category = entry["category"]
+
+    return f"""{title}
+Source: {url} Category: {category}
+"""
+
+
+def build_newsletter(entries: list) -> str:
+    """
+    Builds the full newsletter text.
+    """
+    today = datetime.utcnow().strftime("%Y-%m-%d")
+
+    newsletter = f"""{HEADER_TITLE}
+Date: {today}
+
+{HEADER_DESCRIPTION}
+
+"""
+
+    for entry in entries:
+
+        if not is_valid_entry(entry):
+            continue
+
+        formatted = format_entry(entry)
+
+        if formatted:
+            newsletter += formatted + "\n"
+
+    return newsletter.strip()
+
+
+if __name__ == "__main__":
+
+    # Example structure expected from your pipeline
+    example_entries = [
+        {
+            "title": "Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More",
+            "url": "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html",
+            "category": "vulnerabilidades"
+        },
+        {
+            "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies",
+            "url": "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html",
+            "category": "ciberataques"
+        }
+    ]
+
+    newsletter_text = build_newsletter(example_entries)
+
+    print(newsletter_text)
