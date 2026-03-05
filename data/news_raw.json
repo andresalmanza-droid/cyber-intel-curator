@@ -1,10 +1,5 @@
 [
   {
-    "title": "\uf0e0\nReach out to get featured\u2014contact us to send your exclusive story idea, research, hacks, or ask us a question or leave a comment/feedback!",
-    "url": "/p/submit-news.html",
-    "source": "hackernews"
-  },
-  {
     "title": "\u26a1 Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More",
     "url": "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html",
     "source": "hackernews"
@@ -535,18 +530,13 @@
     "source": "helpnet"
   },
   {
-    "title": "EDR Malicious Process Detection & Response",
-    "url": "/use-cases/detect-analyze-and-act-on-edr-identified-malicious-processes",
-    "source": "cyware"
+    "title": "Webinar: The True State of Security 2026",
+    "url": "https://www.helpnetsecurity.com/2026/03/04/webinar-the-true-state-of-security-2026/",
+    "source": "helpnet"
   },
   {
     "title": "Threat Intelligence Platform Buyer's Guide",
     "url": "https://go.cyware.com/2025-threat-intelligence-buyers-guide",
-    "source": "cyware"
-  },
-  {
-    "title": "What is Threat Intelligence Operationalization?",
-    "url": "/resources/security-guides/what-is-threat-intelligence-operationalization-and-how-ai-enhances-it",
     "source": "cyware"
   },
   {
