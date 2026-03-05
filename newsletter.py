@@ -15,7 +15,7 @@ newsletter += "Curated cybersecurity signals of the week.\n\n"
 for n in news:
     newsletter += f"## {n['title']}\n"
     newsletter += f"{n.get('summary', n.get('title',''))}\n\n"
-    newsletter += f"Source: {n['url']}\n\n"
+    newsletter += f"Source: {n.get('url','No source')}\n\n"
 
 # guardar boletín
 filename = f"newsletter/cyberintel-{today}.md"
