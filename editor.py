@@ -1,22 +1,56 @@
 import json
-from collections import defaultdict
 
-with open("data/news_classified.json") as f:
+# cargar noticias limpias
+with open("data/news_clean.json", "r") as f:
     news = json.load(f)
 
-sections = defaultdict(list)
+items = []
 
 for n in news:
-    sections[n["category"]].append(n)
+    title = n.get("title", "")
+    source = n.get("source", "")
+    url = n.get("url", "")
 
-newsletter = ""
+    items.append(f"- {title} | Fuente: {source} | {url}")
 
-for sec,items in sections.items():
+news_text = "\n".join(items)
 
-    newsletter += f"\n\n{sec.upper()}\n"
+prompt = f"""
+Actuarás como un curador de noticias en el enfoque de ciberseguridad.
 
-    for i in items[:3]:
+La audiencia son profesionales de seguridad, ejecutivos y profesionales del área.
 
-        newsletter += f"- {i['title']} ({i['source']})\n"
+Con las noticias disponibles, construye un boletín con las siguientes reglas:
 
-print(newsletter)
+1. Para cada sección selecciona **las 3 noticias más relevantes**
+2. No repitas noticias entre secciones
+3. Usa múltiples fuentes si aplican
+
+Secciones:
+
+Geopolítica
+Ciberataques: ataques no ransomware
+Vulnerabilidades
+Ransomware
+Brechas de datos
+Para el CISO: consideraciones estratégicas
+Para el CISO: relación con equipos ejecutivos
+Ciberseguridad e IA
+Ciberresiliencia y riesgo cibernético
+Investigaciones sobre ciberseguridad
+Algo más
+
+Luego agrega:
+
+Pensamiento de la semana  
+(3 reflexiones tipo cita basadas en las noticias)
+
+Datos estadísticos de la semana  
+(3 datos relevantes, preferiblemente porcentuales)
+
+Noticias disponibles:
+
+{news_text}
+"""
+
+print(prompt)
