@@ -38,7 +38,7 @@ for n in clean_news:
     if summary:
         newsletter += f"{summary}\n\n"
 
-    newsletter += f"Source: {url}\n\n"
+    newsletter += f"Source: {n.get('url','No source')}\n\n"
 
 # guardar boletín
 filename = f"newsletter/cyberintel-{today}.md"
