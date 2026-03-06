@@ -1,0 +1,104 @@
+[
+  {
+    "title": "\u26a1 Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More",
+    "url": "https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "CVE-2025-40538, CVE-2025-40539, CVE-2025-40540, CVE-2025-40541",
+    "url": "https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "CVE-2026-20122, CVE-2026-20126, CVE-2026-20128",
+    "url": "https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-sdwan-authbp-qwCX8D4v",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "Control Your AI Agents Before They Control You\nAiria is the governance and orchestration layer for enterprise AI. Monitor drift, enforce policy, optimize inference cost, and generate audit-ready evidence\u2014so your AI scales securely, compliantly, and profitably.",
+    "url": "https://thehackernews.uk/airia-demo-req-ar",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Google Disrupts UNC2814 GRIDTIDE Campaign",
+    "url": "https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "When AI Agents Become Your New Attack Surface",
+    "url": "https://thehacker.news/ai-agents-attack-surface?source=recap",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Anthropic Accuses 3 Chinese Firms of Distillation Attacks",
+    "url": "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html",
+    "source": "hackernews",
+    "category": "ciberataques"
+  },
+  {
+    "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies",
+    "url": "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html",
+    "source": "hackernews",
+    "category": "ciberataques"
+  },
+  {
+    "title": "Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware",
+    "url": "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html",
+    "source": "hackernews",
+    "category": "ciberataques"
+  },
+  {
+    "title": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access",
+    "url": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html",
+    "source": "hackernews",
+    "category": "algo_mas"
+  },
+  {
+    "title": "UAT-10027 Targets U.S. Education and Healthcare Sectors",
+    "url": "https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html",
+    "source": "hackernews",
+    "category": "algo_mas"
+  },
+  {
+    "title": "Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration",
+    "url": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
+    "source": "hackernews",
+    "category": "algo_mas"
+  },
+  {
+    "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit and 15+ Stories",
+    "url": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
+    "source": "hackernews",
+    "category": "ransomware"
+  },
+  {
+    "title": "Ransomware activity peaks outside business hours",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/sophos-identity-driven-breaches-report/",
+    "source": "helpnet",
+    "category": "ransomware"
+  },
+  {
+    "title": "Europol goes after The Com\u2019s ransomware and extortion networks",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arrests/",
+    "source": "helpnet",
+    "category": "ransomware"
+  },
+  {
+    "title": "Industrial networks continue to leak onto the internet",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
+    "source": "helpnet",
+    "category": "brechas"
+  },
+  {
+    "title": "Jan 16, 2026\n\n\n\n            \n        Through the Lens of ISMG: Attacks, Outages and Stolen Data | Edition 151\n      \n          \n\n\n                  \n          This week\u2019s incidents made one thing clear: cyber risk is escalating at the infrastructure level. This cyber risk is\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    18\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
+    "url": "https://www.linkedin.com/pulse/through-lens-ismg-attacks-outages-stolen-fdl2e?trk=article-ssr-frontend-pulse",
+    "source": "linkedin",
+    "category": "riesgo"
+  }
+]
