@@ -39,6 +39,12 @@ jobs:
 
       - name: detect signals
         run: python signal_detector.py
+
+      - name: filter signals
+        run: python signal_filter.py
+
+      - name: build intelligence brief
+        run: python intel_brief.py
         
       - name: build newsletter prompt 
         run: python newsletter.py
