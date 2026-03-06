@@ -45,9 +45,9 @@ jobs:
          git config --global user.name "cyber-agent" 
          git config --global user.email "agent@github.com" 
          git add . 
-         git commit -m "weekly cyber intel update" 
-         git push
-          git config --global user.email "bot@github.com"
-          git add newsletter/
-          git commit -m "Auto newsletter"
-          git push
+         if git diff --staged --quiet; then
+              echo "No changes to commit"
+         else
+             git commit -m "weekly cyber intel update"
+             git push
+         fi
