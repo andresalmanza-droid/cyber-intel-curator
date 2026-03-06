@@ -87,7 +87,7 @@ Date: {today}
 if __name__ == "__main__":
 
     # cargar noticias del pipeline
-    with open("data/news_selected.json") as f:
+    with open("data/news_intel.json") as f:
         entries = json.load(f)
 
     newsletter_text = build_newsletter(entries)
