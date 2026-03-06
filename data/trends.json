@@ -1,0 +1,37 @@
+[
+  {
+    "type": "category_trend",
+    "category": "ia",
+    "mentions": 3
+  },
+  {
+    "type": "category_trend",
+    "category": "ciberataques",
+    "mentions": 3
+  },
+  {
+    "type": "category_trend",
+    "category": "algo_mas",
+    "mentions": 3
+  },
+  {
+    "type": "category_trend",
+    "category": "ransomware",
+    "mentions": 3
+  },
+  {
+    "type": "signal_trend",
+    "signal": "general_signal",
+    "mentions": 9
+  },
+  {
+    "type": "signal_trend",
+    "signal": "weak_signal",
+    "mentions": 3
+  },
+  {
+    "type": "signal_trend",
+    "signal": "emerging_threat",
+    "mentions": 3
+  }
+]
