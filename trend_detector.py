@@ -11,10 +11,15 @@ def load_news():
     with open(INPUT_FILE, encoding="utf-8") as f:
         return json.load(f)
 
+IGNORED_CATEGORIES = ["algo_mas"]
 
 def detect_category_trends(entries):
 
-    categories = [e.get("category") for e in entries if e.get("category")]
+    categories = [
+        e.get("category") 
+        for e in entries 
+        if e.get("category") and e.get("category") not in IGNORED_CATEGORIES
+    ]
     counter = Counter(categories)
 
     trends = []
