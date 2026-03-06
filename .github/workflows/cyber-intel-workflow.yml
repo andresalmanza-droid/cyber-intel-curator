@@ -42,6 +42,9 @@ jobs:
 
       - name: filter signals
         run: python signal_filter.py
+      
+      - name: detect trends
+        run: python trend_detector.py
 
       - name: build intelligence brief
         run: python intel_brief.py
