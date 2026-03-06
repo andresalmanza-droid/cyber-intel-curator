@@ -564,6 +564,12 @@
     "category": "algo_mas"
   },
   {
+    "title": "March 2026 Patch Tuesday forecast: Is AI security an oxymoron?",
+    "url": "https://www.helpnetsecurity.com/2026/03/06/march-2026-patch-tuesday-forecast/",
+    "source": "helpnet",
+    "category": "ia"
+  },
+  {
     "title": "Cisco warns of SD-WAN Manager exploitation, fixes 48 firewall vulnerabilities",
     "url": "https://www.helpnetsecurity.com/2026/03/05/cisco-cve-2026-20128-cve-2026-20122-exploited/",
     "source": "helpnet",
@@ -572,12 +578,6 @@
   {
     "title": "FreeScout vulnerability enables unauthenticated, zero-click RCE via email (CVE-2026-28289)",
     "url": "https://www.helpnetsecurity.com/2026/03/05/freescout-vulnerability-cve-2026-28289/",
-    "source": "helpnet",
-    "category": "ia"
-  },
-  {
-    "title": "As AI agents start making purchases, security teams must rethink risk",
-    "url": "https://www.helpnetsecurity.com/2026/03/05/donald-kossmann-chargebacks911-agentic-commerce-security-risks/",
     "source": "helpnet",
     "category": "ia"
   },
@@ -600,16 +600,22 @@
     "category": "algo_mas"
   },
   {
-    "title": "Engineering trust: A security blueprint for autonomous AI agents",
-    "url": "https://www.helpnetsecurity.com/2026/03/05/securing-autonomous-ai-agents/",
+    "title": "Iran-linked APT targets US critical sectors with new backdoors",
+    "url": "https://www.helpnetsecurity.com/2026/03/06/seedworm-muddywater-backdoors-victims/",
     "source": "helpnet",
-    "category": "ia"
+    "category": "geopolitica"
   },
   {
-    "title": "Webinar: The True State of Security 2026",
-    "url": "https://www.helpnetsecurity.com/2026/03/04/webinar-the-true-state-of-security-2026/",
+    "title": "Backup strategies are working, and ransomware gangs are responding with data theft",
+    "url": "https://www.helpnetsecurity.com/2026/03/06/cyber-claims-report-ransomware-gangs-data-theft/",
     "source": "helpnet",
-    "category": "algo_mas"
+    "category": "ransomware"
+  },
+  {
+    "title": "What happens when AI teams compete against human hackers",
+    "url": "https://www.helpnetsecurity.com/2026/03/06/cybersecurity-competition-ai-vs-human-hackers/",
+    "source": "helpnet",
+    "category": "ia"
   },
   {
     "title": "Threat Intelligence Platform Buyer's Guide",
@@ -678,6 +684,12 @@
     "category": "algo_mas"
   },
   {
+    "title": "Mar 6, 2026\n\n\n\n            \n        Through the Lens of ISMG: War in the Middle East Raises Global Cyber Stakes | Edition 158\n      \n          \n\n\n                  \n          Escalating tensions in the Middle East dominated headlines this week as the United States and Israel launched major\u2026\n      \n                \n\n\n\n\n\n\n\n                    6\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
+    "url": "https://www.linkedin.com/pulse/through-lens-ismg-war-middle-east-raises-akeqf?trk=article-ssr-frontend-pulse",
+    "source": "linkedin",
+    "category": "ia"
+  },
+  {
     "title": "Feb 21, 2026\n\n\n\n            \n        Through the Lens of ISMG: Ransomware, AI Malware and Infrastructure Exploits | Edition 156\n      \n          \n\n\n                  \n          This week\u2019s roundup reveals a cybersecurity landscape dominated by rapidly evolving attack techniques, where speed and\u2026\n      \n                \n\n\n\n\n\n\n\n                    10",
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-ransomware-ai-malware-hlzfe?trk=article-ssr-frontend-pulse",
     "source": "linkedin",
@@ -730,11 +742,5 @@
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-ai-identity-expanding-mfief?trk=article-ssr-frontend-pulse",
     "source": "linkedin",
     "category": "ia"
-  },
-  {
-    "title": "Dec 5, 2025\n\n\n\n            \n        Through the Lens of ISMG: Nation-State Pressure Tests Critical Infrastructure | Edition 147\n      \n          \n\n\n                  \n          Nation-state activity is increasingly targeting the core systems that keep societies running, and this week's coverage\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    13\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
-    "url": "https://www.linkedin.com/pulse/through-lens-ismg-nation-state-pressure-yioff?trk=article-ssr-frontend-pulse",
-    "source": "linkedin",
-    "category": "algo_mas"
   }
 ]
