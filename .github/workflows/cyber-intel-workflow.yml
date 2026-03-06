@@ -36,6 +36,9 @@ jobs:
         
       - name: select best news 
         run: python selector.py 
+
+      - name: detect signals
+        run: python signal_detector.py
         
       - name: build newsletter prompt 
         run: python newsletter.py
