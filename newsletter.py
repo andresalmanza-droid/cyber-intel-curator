@@ -48,6 +48,7 @@ def is_valid_entry(entry: dict) -> bool:
 def format_entry(entry: dict) -> str:
 
     title = clean_title(entry["title"])
+    signal = entry.get("signal", "")
 
     if not title:
         return ""
@@ -56,7 +57,7 @@ def format_entry(entry: dict) -> str:
     category = entry["category"]
 
     return f"""{title}
-Source: {url} Category: {category}
+Source: {url} Category: {category} Signal: {signal}
 """
 
 
