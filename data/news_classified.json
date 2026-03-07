@@ -564,6 +564,12 @@
     "category": "algo_mas"
   },
   {
+    "title": "Iran-linked APT targets US critical sectors with new backdoors",
+    "url": "https://www.helpnetsecurity.com/2026/03/06/seedworm-muddywater-backdoors-victims/",
+    "source": "helpnet",
+    "category": "geopolitica"
+  },
+  {
     "title": "March 2026 Patch Tuesday forecast: Is AI security an oxymoron?",
     "url": "https://www.helpnetsecurity.com/2026/03/06/march-2026-patch-tuesday-forecast/",
     "source": "helpnet",
@@ -574,12 +580,6 @@
     "url": "https://www.helpnetsecurity.com/2026/03/05/cisco-cve-2026-20128-cve-2026-20122-exploited/",
     "source": "helpnet",
     "category": "vulnerabilidades"
-  },
-  {
-    "title": "FreeScout vulnerability enables unauthenticated, zero-click RCE via email (CVE-2026-28289)",
-    "url": "https://www.helpnetsecurity.com/2026/03/05/freescout-vulnerability-cve-2026-28289/",
-    "source": "helpnet",
-    "category": "ia"
   },
   {
     "title": "Secure by Design: Building security in at the beginning",
@@ -598,12 +598,6 @@
     "url": "https://www.helpnetsecurity.com/2025/12/08/download-evaluating-password-monitoring-vendors/",
     "source": "helpnet",
     "category": "algo_mas"
-  },
-  {
-    "title": "Iran-linked APT targets US critical sectors with new backdoors",
-    "url": "https://www.helpnetsecurity.com/2026/03/06/seedworm-muddywater-backdoors-victims/",
-    "source": "helpnet",
-    "category": "geopolitica"
   },
   {
     "title": "Backup strategies are working, and ransomware gangs are responding with data theft",
@@ -684,7 +678,7 @@
     "category": "algo_mas"
   },
   {
-    "title": "Mar 6, 2026\n\n\n\n            \n        Through the Lens of ISMG: War in the Middle East Raises Global Cyber Stakes | Edition 158\n      \n          \n\n\n                  \n          Escalating tensions in the Middle East dominated headlines this week as the United States and Israel launched major\u2026\n      \n                \n\n\n\n\n\n\n\n                    11\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
+    "title": "Mar 6, 2026\n\n\n\n            \n        Through the Lens of ISMG: War in the Middle East Raises Global Cyber Stakes | Edition 158\n      \n          \n\n\n                  \n          Escalating tensions in the Middle East dominated headlines this week as the United States and Israel launched major\u2026\n      \n                \n\n\n\n\n\n\n\n                    12\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-war-middle-east-raises-akeqf?trk=article-ssr-frontend-pulse",
     "source": "linkedin",
     "category": "ia"

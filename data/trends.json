@@ -11,11 +11,6 @@
   },
   {
     "type": "category_trend",
-    "category": "algo_mas",
-    "mentions": 3
-  },
-  {
-    "type": "category_trend",
     "category": "ransomware",
     "mentions": 3
   },

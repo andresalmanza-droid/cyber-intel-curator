@@ -1,0 +1,42 @@
+[
+  {
+    "keyword": "cve",
+    "mentions": 7
+  },
+  {
+    "keyword": "your",
+    "mentions": 3
+  },
+  {
+    "keyword": "critical",
+    "mentions": 2
+  },
+  {
+    "keyword": "control",
+    "mentions": 2
+  },
+  {
+    "keyword": "agents",
+    "mentions": 2
+  },
+  {
+    "keyword": "google",
+    "mentions": 2
+  },
+  {
+    "keyword": "attacks",
+    "mentions": 2
+  },
+  {
+    "keyword": "malware",
+    "mentions": 2
+  },
+  {
+    "keyword": "api",
+    "mentions": 2
+  },
+  {
+    "keyword": "targets",
+    "mentions": 2
+  }
+]
