@@ -46,6 +46,9 @@ jobs:
       - name: detect trends
         run: python trend_detector.py
 
+      - name: detect keyword trends
+        run: python keyword_trends.py
+
       - name: build intelligence brief
         run: python intel_brief.py
         
