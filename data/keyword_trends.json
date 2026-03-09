@@ -5,6 +5,22 @@
   },
   {
     "keyword": "your",
+    "mentions": 4
+  },
+  {
+    "keyword": "attacks",
+    "mentions": 4
+  },
+  {
+    "keyword": "quantum",
+    "mentions": 4
+  },
+  {
+    "keyword": "ransomware",
+    "mentions": 3
+  },
+  {
+    "keyword": "risk",
     "mentions": 3
   },
   {
@@ -21,22 +37,6 @@
   },
   {
     "keyword": "google",
-    "mentions": 2
-  },
-  {
-    "keyword": "attacks",
-    "mentions": 2
-  },
-  {
-    "keyword": "malware",
-    "mentions": 2
-  },
-  {
-    "keyword": "api",
-    "mentions": 2
-  },
-  {
-    "keyword": "targets",
     "mentions": 2
   }
 ]

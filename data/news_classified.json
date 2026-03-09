@@ -84,94 +84,88 @@
     "category": "algo_mas"
   },
   {
-    "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies",
-    "url": "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html",
-    "source": "hackernews",
-    "category": "ciberataques"
-  },
-  {
-    "title": "\u26a1 Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware and More",
-    "url": "https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html",
+    "title": "ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket",
+    "url": "https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html",
     "source": "hackernews",
     "category": "ia"
   },
   {
-    "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit and 15+ Stories",
-    "url": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
-    "source": "hackernews",
-    "category": "ransomware"
-  },
-  {
-    "title": "Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access",
-    "url": "https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html",
-    "source": "hackernews",
-    "category": "vulnerabilidades"
-  },
-  {
-    "title": "Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model",
-    "url": "https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html",
+    "title": "Coruna iOS Exploit Kit Uses 23 Exploits Across Five Chains Targeting iOS 13\u201317.2.1",
+    "url": "https://thehackernews.com/2026/03/coruna-ios-exploit-kit-uses-23-exploits.html",
     "source": "hackernews",
     "category": "ia"
   },
   {
-    "title": "Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning",
-    "url": "https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html",
+    "title": "\u26a1 Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack and Vibe-Coded Malware",
+    "url": "https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html",
     "source": "hackernews",
     "category": "ia"
   },
   {
-    "title": "AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries",
-    "url": "https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware",
-    "url": "https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems",
-    "url": "https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence",
-    "url": "https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware",
-    "url": "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html",
-    "source": "hackernews",
-    "category": "ciberataques"
-  },
-  {
-    "title": "Dell RecoverPoint for VMs Zero-Day CVE-2026-22769 Exploited Since Mid-2024",
-    "url": "https://thehackernews.com/2026/02/dell-recoverpoint-for-vms-zero-day-cve.html",
-    "source": "hackernews",
-    "category": "vulnerabilidades"
-  },
-  {
-    "title": "Citizen Lab Finds Cellebrite Tool Used on Kenyan Activist\u2019s Phone in Police Custody",
-    "url": "https://thehackernews.com/2026/02/citizen-lab-finds-cellebrite-tool-used.html",
+    "title": "ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine and More",
+    "url": "https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html",
     "source": "hackernews",
     "category": "algo_mas"
   },
   {
-    "title": "Identity Prioritization isn't a Backlog Problem - It's a Risk Math Problem",
-    "url": "https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html",
-    "source": "hackernews",
-    "category": "algo_mas"
-  },
-  {
-    "title": "How Exposed Endpoints Increase Risk Across LLM Infrastructure",
-    "url": "https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html",
+    "title": "Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer",
+    "url": "https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html",
     "source": "hackernews",
     "category": "ia"
+  },
+  {
+    "title": "OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues",
+    "url": "https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model",
+    "url": "https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities",
+    "url": "https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict",
+    "url": "https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html",
+    "source": "hackernews",
+    "category": "ciberataques"
+  },
+  {
+    "title": "Open-Source CyberStrikeAI Deployed in AI-Driven FortiGate Attacks Across 55 Countries",
+    "url": "https://thehackernews.com/2026/03/open-source-cyberstrikeai-deployed-in.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Starkiller Phishing Suite Uses AitM Reverse Proxy to Bypass Multi-Factor Authentication",
+    "url": "https://thehackernews.com/2026/03/starkiller-phishing-suite-uses-aitm.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited",
+    "url": "https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel",
+    "url": "https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "APT28 Tied to CVE-2026-21513 MSHTML 0-Day Exploited Before Feb 2026 Patch Tuesday",
+    "url": "https://thehackernews.com/2026/03/apt28-tied-to-cve-2026-21513-mshtml-0.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
   },
   {
     "title": "100+ Domains Multiply Attack Risk 6\u00d7 - Download the CTEM Divide Research",
@@ -228,6 +222,12 @@
     "category": "algo_mas"
   },
   {
+    "title": "Why CVSS Scores Don't Tell the Real Story of Risk\n\n\ue802March 9, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/03/why-cvss-scores-dont-tell-real-story-of.html",
+    "source": "hackernews",
+    "category": "algo_mas"
+  },
+  {
     "title": "AI SOC Investigation Has Moved Beyond Triage: Two Cases That Show Where It Actually Matters\n\n\ue802March 2, 2026\nRead \u279d",
     "url": "https://thehackernews.com/expert-insights/2026/03/ai-soc-investigation-has-moved-beyond.html",
     "source": "hackernews",
@@ -244,12 +244,6 @@
     "url": "https://thehackernews.com/expert-insights/2026/03/demystifying-key-exchange-from.html",
     "source": "hackernews",
     "category": "algo_mas"
-  },
-  {
-    "title": "AI Won't Break Microsoft 365. Your Security Backlog Will\n\n\ue802February 23, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/02/ai-wont-break-microsoft-365-your.html",
-    "source": "hackernews",
-    "category": "ia"
   },
   {
     "title": "Identity verification systems are struggling with synthetic fraud",
@@ -564,22 +558,22 @@
     "category": "algo_mas"
   },
   {
-    "title": "Iran-linked APT targets US critical sectors with new backdoors",
-    "url": "https://www.helpnetsecurity.com/2026/03/06/seedworm-muddywater-backdoors-victims/",
+    "title": "Fake Claude Code install pages highlight rise of \u201cInstallFix\u201d attacks",
+    "url": "https://www.helpnetsecurity.com/2026/03/09/fake-claude-code-install-pages-installfix-attacks/",
     "source": "helpnet",
-    "category": "geopolitica"
+    "category": "ciberataques"
   },
   {
-    "title": "March 2026 Patch Tuesday forecast: Is AI security an oxymoron?",
-    "url": "https://www.helpnetsecurity.com/2026/03/06/march-2026-patch-tuesday-forecast/",
+    "title": "Decoding silence: How deaf and hard-of-hearing pros are breaking into cybersecurity",
+    "url": "https://www.helpnetsecurity.com/2026/03/09/deaf-hard-of-hearing-cybersecurity-careers/",
     "source": "helpnet",
-    "category": "ia"
+    "category": "algo_mas"
   },
   {
-    "title": "Cisco warns of SD-WAN Manager exploitation, fixes 48 firewall vulnerabilities",
-    "url": "https://www.helpnetsecurity.com/2026/03/05/cisco-cve-2026-20128-cve-2026-20122-exploited/",
+    "title": "Turning expertise into opportunity for women in cybersecurity",
+    "url": "https://www.helpnetsecurity.com/2026/03/09/erlend-andreas-shespeakscyber-women-cybersecurity-speakers/",
     "source": "helpnet",
-    "category": "vulnerabilidades"
+    "category": "algo_mas"
   },
   {
     "title": "Secure by Design: Building security in at the beginning",
@@ -600,16 +594,16 @@
     "category": "algo_mas"
   },
   {
-    "title": "Backup strategies are working, and ransomware gangs are responding with data theft",
-    "url": "https://www.helpnetsecurity.com/2026/03/06/cyber-claims-report-ransomware-gangs-data-theft/",
-    "source": "helpnet",
-    "category": "ransomware"
-  },
-  {
-    "title": "What happens when AI teams compete against human hackers",
-    "url": "https://www.helpnetsecurity.com/2026/03/06/cybersecurity-competition-ai-vs-human-hackers/",
+    "title": "Open-source tool Sage puts a security layer between AI agents and the OS",
+    "url": "https://www.helpnetsecurity.com/2026/03/09/open-source-tool-sage-security-layer-ai-agents/",
     "source": "helpnet",
     "category": "ia"
+  },
+  {
+    "title": "Iran-linked APT targets US critical sectors with new backdoors",
+    "url": "https://www.helpnetsecurity.com/2026/03/06/seedworm-muddywater-backdoors-victims/",
+    "source": "helpnet",
+    "category": "geopolitica"
   },
   {
     "title": "Threat Intelligence Platform Buyer's Guide",
@@ -678,7 +672,7 @@
     "category": "algo_mas"
   },
   {
-    "title": "Mar 6, 2026\n\n\n\n            \n        Through the Lens of ISMG: War in the Middle East Raises Global Cyber Stakes | Edition 158\n      \n          \n\n\n                  \n          Escalating tensions in the Middle East dominated headlines this week as the United States and Israel launched major\u2026\n      \n                \n\n\n\n\n\n\n\n                    12\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
+    "title": "Mar 6, 2026\n\n\n\n            \n        Through the Lens of ISMG: War in the Middle East Raises Global Cyber Stakes | Edition 158\n      \n          \n\n\n                  \n          Escalating tensions in the Middle East dominated headlines this week as the United States and Israel launched major\u2026\n      \n                \n\n\n\n\n\n\n\n                    14\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-war-middle-east-raises-akeqf?trk=article-ssr-frontend-pulse",
     "source": "linkedin",
     "category": "ia"

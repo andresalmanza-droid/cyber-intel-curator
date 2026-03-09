@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-03-07
+Date: 2026-03-09
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,8 +12,8 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
-Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware
-Source: https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html
+149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict
+Source: https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html
 
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
@@ -21,14 +21,14 @@ Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.h
 Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration
 Source: https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html
 
-ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit and 15+ Stories
-Source: https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html
+Industrial networks continue to leak onto the internet
+Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
 
 Europol goes after The Com’s ransomware and extortion networks
 Source: https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arrests/
 
-Industrial networks continue to leak onto the internet
-Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
+Hospitals at Risk of BeyondTrust Ransomware Hacks
+Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
 
 Jan 16, 2026
 
@@ -77,9 +77,6 @@ Source: https://thehackernews.uk/airia-demo-req-ar
 
 When AI Agents Become Your New Attack Surface
 Source: https://thehacker.news/ai-agents-attack-surface?source=recap
-
-Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies
-Source: https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html
 
 
 === EMERGING_THREAT ===

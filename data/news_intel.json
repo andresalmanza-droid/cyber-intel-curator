@@ -35,15 +35,8 @@
     "signal": "general_signal"
   },
   {
-    "title": "Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies",
-    "url": "https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html",
-    "source": "hackernews",
-    "category": "ciberataques",
-    "signal": "weak_signal"
-  },
-  {
-    "title": "Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware",
-    "url": "https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html",
+    "title": "149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict",
+    "url": "https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
@@ -70,10 +63,10 @@
     "signal": "general_signal"
   },
   {
-    "title": "ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit and 15+ Stories",
-    "url": "https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html",
-    "source": "hackernews",
-    "category": "ransomware",
+    "title": "Industrial networks continue to leak onto the internet",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
+    "source": "helpnet",
+    "category": "brechas",
     "signal": "general_signal"
   },
   {
@@ -91,10 +84,10 @@
     "signal": "general_signal"
   },
   {
-    "title": "Industrial networks continue to leak onto the internet",
-    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
-    "source": "helpnet",
-    "category": "brechas",
+    "title": "Hospitals at Risk of BeyondTrust Ransomware Hacks",
+    "url": "https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block",
+    "source": "linkedin",
+    "category": "ransomware",
     "signal": "general_signal"
   },
   {
