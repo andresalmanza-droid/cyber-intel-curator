@@ -42,6 +42,13 @@
     "signal": "general_signal"
   },
   {
+    "title": "Japanese chip-testing toolmaker Advantest suffers ransomware attack",
+    "url": "https://www.helpnetsecurity.com/2026/02/23/advantest-suffers-ransomware-attack/",
+    "source": "helpnet",
+    "category": "ciberataques",
+    "signal": "general_signal"
+  },
+  {
     "title": "Thousands of Public Google Cloud API Keys Exposed with Gemini Access",
     "url": "https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html",
     "source": "hackernews",
@@ -89,13 +96,6 @@
     "source": "linkedin",
     "category": "ransomware",
     "signal": "general_signal"
-  },
-  {
-    "title": "Iran-linked APT targets US critical sectors with new backdoors",
-    "url": "https://www.helpnetsecurity.com/2026/03/06/seedworm-muddywater-backdoors-victims/",
-    "source": "helpnet",
-    "category": "geopolitica",
-    "signal": "emerging_threat"
   },
   {
     "title": "Jan 16, 2026\n\n\n\n            \n        Through the Lens of ISMG: Attacks, Outages and Stolen Data | Edition 151\n      \n          \n\n\n                  \n          This week\u2019s incidents made one thing clear: cyber risk is escalating at the infrastructure level. This cyber risk is\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    18\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",

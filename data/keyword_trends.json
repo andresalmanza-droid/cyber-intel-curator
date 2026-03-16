@@ -4,28 +4,20 @@
     "mentions": 7
   },
   {
-    "keyword": "your",
+    "keyword": "ransomware",
     "mentions": 4
+  },
+  {
+    "keyword": "your",
+    "mentions": 3
   },
   {
     "keyword": "attacks",
-    "mentions": 4
-  },
-  {
-    "keyword": "quantum",
-    "mentions": 4
-  },
-  {
-    "keyword": "ransomware",
     "mentions": 3
   },
   {
     "keyword": "risk",
     "mentions": 3
-  },
-  {
-    "keyword": "critical",
-    "mentions": 2
   },
   {
     "keyword": "control",
@@ -37,6 +29,14 @@
   },
   {
     "keyword": "google",
+    "mentions": 2
+  },
+  {
+    "keyword": "attack",
+    "mentions": 2
+  },
+  {
+    "keyword": "api",
     "mentions": 2
   }
 ]

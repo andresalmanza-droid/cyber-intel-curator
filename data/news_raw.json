@@ -145,23 +145,23 @@
     "source": "hackernews"
   },
   {
-    "title": "100+ Domains Multiply Attack Risk 6\u00d7 - Download the CTEM Divide Research",
-    "url": "https://thehackernews.uk/ctem-market-insights",
+    "title": "Self-Hosted WAF: Block SQLi, XSS, and Bots Before They Reach Your Apps",
+    "url": "https://thn.news/safepoint-security",
     "source": "hackernews"
   },
   {
-    "title": "Boost SOC Efficiency with AI-Guided Triage \u2014 Download Investigator Overview",
-    "url": "https://thehackernews.uk/elite-investigator",
+    "title": "19,053 Confirmed Breaches in 2025 \u2013 Key Trends and Predictions for 2026",
+    "url": "https://thn.news/orange-cyber-defense",
     "source": "hackernews"
   },
   {
-    "title": "Silent Residency Is the New Threat Model \u2014 Download the Red Report",
-    "url": "https://thehackernews.uk/red-report-insights",
+    "title": "Read CYBER360 2026: From Zero Trust Limits to Data-Centric Security Paths",
+    "url": "https://thn.news/defend-cyber-event",
     "source": "hackernews"
   },
   {
-    "title": "Exposed Cloud Training Apps Are Letting Hackers In \u2014 Download the Research",
-    "url": "https://thehackernews.uk/lab-security-insights",
+    "title": "Identity Controls Checklist: Find Missing Protections in Apps",
+    "url": "https://thn.news/top-identity-risks",
     "source": "hackernews"
   },
   {
@@ -170,23 +170,33 @@
     "source": "hackernews"
   },
   {
-    "title": "Inside the Quantum Threat\nLearn Quantum-Safe Practices to Stop Future Decrypt Attacks\nQuantum computers could soon break today\u2019s encryption\u2014join Zscaler\u2019s webinar to learn how post-quantum cryptography keeps your data safe for the future.\nRegister",
-    "url": "https://thehacker.news/post-quantum-cryptography?source=below",
+    "title": "Pressure-Test Your Defenses\nAutomate Security Posture Validation with CTI-Driven Testing\nSee exactly where your controls stand against today\u2019s threats\u2014automated, accurate, approachable.\nRegister",
+    "url": "https://thehacker.news/automate-testing-security-posture?source=below",
     "source": "hackernews"
   },
   {
-    "title": "Zero Trust + AI: Thrive in the AI Era and Remain ResilientZero Trust Everywhere - protection across your workforce, branches, and clouds, and GenAI..",
-    "url": "https://thehackernews.uk/better-security-tips",
+    "title": "The CISO's Guide: From VPN Replacement to Comprehensive ZTNAModernize secure access and eliminate lateral movement by connecting users directly to applications.",
+    "url": "https://thehackernews.uk/vpn-replacement-n",
     "source": "hackernews"
   },
   {
-    "title": "Stop AI-Powered Threats and Protect Sensitive Data with Zscaler Zero Trust + AICompanies must replace legacy firewalls, VPNs, and exposed IPs with a Zero Trust + AI security model to protect AI usage and stop AI-driven attacks.",
-    "url": "https://thehackernews.uk/modern-sec-transform",
+    "title": "See What AI Really Means for Cyber DefendersThis SANS-expert keynote will change how you view AI security.",
+    "url": "https://thehackernews.uk/sans-west-training",
     "source": "hackernews"
   },
   {
     "title": "Earn a Master's in Cybersecurity Risk ManagementLead the future of cybersecurity risk management with an online Master\u2019s from Georgetown.",
     "url": "https://thehackernews.uk/cyber-risk-program",
+    "source": "hackernews"
+  },
+  {
+    "title": "A Unified Identity Defense Layer: Why PAM with ITDR Is the Foundation for 2026 Security\n\n\ue802March 16, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/03/a-unified-identity-defense-layer-why.html",
+    "source": "hackernews"
+  },
+  {
+    "title": "The Firewall Isn't Blind \u2014 It Just Needs to See Inside the Session\n\n\ue802March 16, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/03/the-firewall-isnt-blind-it-just-needs.html",
     "source": "hackernews"
   },
   {
@@ -197,16 +207,6 @@
   {
     "title": "AI SOC Investigation Has Moved Beyond Triage: Two Cases That Show Where It Actually Matters\n\n\ue802March 2, 2026\nRead \u279d",
     "url": "https://thehackernews.com/expert-insights/2026/03/ai-soc-investigation-has-moved-beyond.html",
-    "source": "hackernews"
-  },
-  {
-    "title": "AI in Cybersecurity: Is It Worth the Effort for Lean Security Teams?\n\n\ue802March 2, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/03/ai-in-cybersecurity-is-it-worth-effort.html",
-    "source": "hackernews"
-  },
-  {
-    "title": "Demystifying Key Exchange: From Classical Elliptic Curve Cryptography to a Post-Quantum Future\n\n\ue802March 2, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/03/demystifying-key-exchange-from.html",
     "source": "hackernews"
   },
   {
@@ -470,18 +470,18 @@
     "source": "helpnet"
   },
   {
-    "title": "Fake Claude Code install pages highlight rise of \u201cInstallFix\u201d attacks",
-    "url": "https://www.helpnetsecurity.com/2026/03/09/fake-claude-code-install-pages-installfix-attacks/",
+    "title": "Certificate lifespans are shrinking and most organizations aren\u2019t ready",
+    "url": "https://www.helpnetsecurity.com/2026/03/16/globalsign-tls-certificate-lifecycle-management/",
     "source": "helpnet"
   },
   {
-    "title": "Decoding silence: How deaf and hard-of-hearing pros are breaking into cybersecurity",
-    "url": "https://www.helpnetsecurity.com/2026/03/09/deaf-hard-of-hearing-cybersecurity-careers/",
+    "title": "What smart factories keep getting wrong about cybersecurity",
+    "url": "https://www.helpnetsecurity.com/2026/03/16/troy-rydman-packsize-smart-factory-cybersecurity-risks/",
     "source": "helpnet"
   },
   {
-    "title": "Turning expertise into opportunity for women in cybersecurity",
-    "url": "https://www.helpnetsecurity.com/2026/03/09/erlend-andreas-shespeakscyber-women-cybersecurity-speakers/",
+    "title": "VulHunt: Open-source vulnerability detection framework",
+    "url": "https://www.helpnetsecurity.com/2026/03/16/vulhunt-open-source-vulnerability-detection-framework/",
     "source": "helpnet"
   },
   {
@@ -500,28 +500,28 @@
     "source": "helpnet"
   },
   {
-    "title": "Fake Claude Code install pages highlight rise of \u201cInstallFix\u201d attacks",
-    "url": "https://www.helpnetsecurity.com/2026/03/09/fake-claude-code-install-pages-installfix-attacks/",
+    "title": "Certificate lifespans are shrinking and most organizations aren\u2019t ready",
+    "url": "https://www.helpnetsecurity.com/2026/03/16/globalsign-tls-certificate-lifecycle-management/",
     "source": "helpnet"
   },
   {
-    "title": "Decoding silence: How deaf and hard-of-hearing pros are breaking into cybersecurity",
-    "url": "https://www.helpnetsecurity.com/2026/03/09/deaf-hard-of-hearing-cybersecurity-careers/",
+    "title": "What smart factories keep getting wrong about cybersecurity",
+    "url": "https://www.helpnetsecurity.com/2026/03/16/troy-rydman-packsize-smart-factory-cybersecurity-risks/",
     "source": "helpnet"
   },
   {
-    "title": "Turning expertise into opportunity for women in cybersecurity",
-    "url": "https://www.helpnetsecurity.com/2026/03/09/erlend-andreas-shespeakscyber-women-cybersecurity-speakers/",
+    "title": "VulHunt: Open-source vulnerability detection framework",
+    "url": "https://www.helpnetsecurity.com/2026/03/16/vulhunt-open-source-vulnerability-detection-framework/",
     "source": "helpnet"
   },
   {
-    "title": "Open-source tool Sage puts a security layer between AI agents and the OS",
-    "url": "https://www.helpnetsecurity.com/2026/03/09/open-source-tool-sage-security-layer-ai-agents/",
+    "title": "AI coding agents keep repeating decade-old security mistakes",
+    "url": "https://www.helpnetsecurity.com/2026/03/13/claude-code-openai-codex-google-gemini-ai-coding-agent-security/",
     "source": "helpnet"
   },
   {
-    "title": "Iran-linked APT targets US critical sectors with new backdoors",
-    "url": "https://www.helpnetsecurity.com/2026/03/06/seedworm-muddywater-backdoors-victims/",
+    "title": "Passwords, MFA, and why neither is enough",
+    "url": "https://www.helpnetsecurity.com/2026/03/13/mfa-security-limitations-video/",
     "source": "helpnet"
   },
   {
@@ -580,6 +580,11 @@
     "source": "linkedin"
   },
   {
+    "title": "Mar 13, 2026\n\n\n\n            \n        Through the Lens of ISMG: Key Highlights from Nullcon Goa 2026 | Edition 159\n      \n          \n\n\n                  \n          Nullcon, Asia\u2019s leading hacker-first cybersecurity conference, returned to Goa for its 16th edition, bringing together\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    6\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
+    "url": "https://www.linkedin.com/pulse/through-lens-ismg-key-highlights-from-5fmwe?trk=article-ssr-frontend-pulse",
+    "source": "linkedin"
+  },
+  {
     "title": "Mar 6, 2026\n\n\n\n            \n        Through the Lens of ISMG: War in the Middle East Raises Global Cyber Stakes | Edition 158\n      \n          \n\n\n                  \n          Escalating tensions in the Middle East dominated headlines this week as the United States and Israel launched major\u2026\n      \n                \n\n\n\n\n\n\n\n                    14\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-war-middle-east-raises-akeqf?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
@@ -622,11 +627,6 @@
   {
     "title": "Dec 19, 2025\n\n\n\n            \n        Through the Lens of ISMG: Nation-State Intrusions, AI-Fueled Threats and the Expanding Attack Surface | Edition 149\n      \n          \n\n\n                  \n          Nation-state cyber operations are no longer confined to government networks or traditional battlefields. This week's\u2026\n      \n                \n\n\n\n\n\n\n\n                    16\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-nation-state-intrusions-sbeuf?trk=article-ssr-frontend-pulse",
-    "source": "linkedin"
-  },
-  {
-    "title": "Dec 12, 2025\n\n\n\n            \n        Through the Lens of ISMG: AI, Identity and the Expanding Frontlines of Cyber Conflict | Edition 148\n      \n          \n\n\n                  \n          As global cyber conflict intensifies, governments, tech giants and enterprises alike are confronting new battlegrounds\u2026\n      \n                \n\n\n\n\n\n\n\n                    14\n              \n\n\n \n\n \n\n\n\n\n\n        \n                2 Comments",
-    "url": "https://www.linkedin.com/pulse/through-lens-ismg-ai-identity-expanding-mfief?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
   }
 ]

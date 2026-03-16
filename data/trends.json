@@ -6,13 +6,18 @@
   },
   {
     "type": "category_trend",
+    "category": "ciberataques",
+    "mentions": 3
+  },
+  {
+    "type": "category_trend",
     "category": "ransomware",
     "mentions": 3
   },
   {
     "type": "signal_trend",
     "signal": "general_signal",
-    "mentions": 9
+    "mentions": 10
   },
   {
     "type": "signal_trend",
@@ -22,6 +27,6 @@
   {
     "type": "signal_trend",
     "signal": "emerging_threat",
-    "mentions": 3
+    "mentions": 2
   }
 ]
