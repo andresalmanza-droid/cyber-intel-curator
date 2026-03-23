@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-03-16
+Date: 2026-03-23
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,17 +12,20 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
-149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict
-Source: https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html
+Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets
+Source: https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html
 
-Japanese chip-testing toolmaker Advantest suffers ransomware attack
-Source: https://www.helpnetsecurity.com/2026/02/23/advantest-suffers-ransomware-attack/
+Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware
+Source: https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html
 
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
 
 Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration
 Source: https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html
+
+CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths
+Source: https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html
 
 Industrial networks continue to leak onto the internet
 Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/

@@ -35,16 +35,16 @@
     "signal": "general_signal"
   },
   {
-    "title": "149 Hacktivist DDoS Attacks Hit 110 Organizations in 16 Countries After Middle East Conflict",
-    "url": "https://thehackernews.com/2026/03/149-hacktivist-ddos-attacks-hit-110.html",
+    "title": "Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets",
+    "url": "https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
   {
-    "title": "Japanese chip-testing toolmaker Advantest suffers ransomware attack",
-    "url": "https://www.helpnetsecurity.com/2026/02/23/advantest-suffers-ransomware-attack/",
-    "source": "helpnet",
+    "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
+    "url": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
+    "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
@@ -67,6 +67,13 @@
     "url": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
     "source": "hackernews",
     "category": "algo_mas",
+    "signal": "general_signal"
+  },
+  {
+    "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
+    "url": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html",
+    "source": "hackernews",
+    "category": "brechas",
     "signal": "general_signal"
   },
   {
