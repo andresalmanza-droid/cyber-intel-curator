@@ -42,14 +42,14 @@
     "category": "ciberataques"
   },
   {
-    "title": "Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets",
-    "url": "https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html",
+    "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks",
+    "url": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html",
     "source": "hackernews",
     "category": "ciberataques"
   },
   {
-    "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
-    "url": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
+    "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
+    "url": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
     "source": "hackernews",
     "category": "ciberataques"
   },
@@ -72,8 +72,26 @@
     "category": "algo_mas"
   },
   {
-    "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
-    "url": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html",
+    "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
+    "url": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html",
+    "source": "hackernews",
+    "category": "geopolitica"
+  },
+  {
+    "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns",
+    "url": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html",
+    "source": "hackernews",
+    "category": "riesgo"
+  },
+  {
+    "title": "Jan 16, 2026\n\n\n\n            \n        Through the Lens of ISMG: Attacks, Outages and Stolen Data | Edition 151\n      \n          \n\n\n                  \n          This week\u2019s incidents made one thing clear: cyber risk is escalating at the infrastructure level. This cyber risk is\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    18\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
+    "url": "https://www.linkedin.com/pulse/through-lens-ismg-attacks-outages-stolen-fdl2e?trk=article-ssr-frontend-pulse",
+    "source": "linkedin",
+    "category": "riesgo"
+  },
+  {
+    "title": "Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks",
+    "url": "https://thehackernews.com/2026/03/citrix-urges-patching-critical.html",
     "source": "hackernews",
     "category": "brechas"
   },
@@ -100,11 +118,5 @@
     "url": "https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block",
     "source": "linkedin",
     "category": "ransomware"
-  },
-  {
-    "title": "Jan 16, 2026\n\n\n\n            \n        Through the Lens of ISMG: Attacks, Outages and Stolen Data | Edition 151\n      \n          \n\n\n                  \n          This week\u2019s incidents made one thing clear: cyber risk is escalating at the infrastructure level. This cyber risk is\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    18\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
-    "url": "https://www.linkedin.com/pulse/through-lens-ismg-attacks-outages-stolen-fdl2e?trk=article-ssr-frontend-pulse",
-    "source": "linkedin",
-    "category": "riesgo"
   }
 ]

@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-03-23
+Date: 2026-03-30
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,11 +12,11 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
-Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets
-Source: https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html
+Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks
+Source: https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html
 
-Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware
-Source: https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html
+FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks
+Source: https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html
 
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
@@ -24,17 +24,11 @@ Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.h
 Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration
 Source: https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html
 
-CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths
-Source: https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html
+China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks
+Source: https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html
 
-Industrial networks continue to leak onto the internet
-Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
-
-Europol goes after The Com’s ransomware and extortion networks
-Source: https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arrests/
-
-Hospitals at Risk of BeyondTrust Ransomware Hacks
-Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
+FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns
+Source: https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html
 
 Jan 16, 2026
 
@@ -73,6 +67,18 @@ Jan 16, 2026
         
                 1 Comment
 Source: https://www.linkedin.com/pulse/through-lens-ismg-attacks-outages-stolen-fdl2e?trk=article-ssr-frontend-pulse
+
+Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks
+Source: https://thehackernews.com/2026/03/citrix-urges-patching-critical.html
+
+Industrial networks continue to leak onto the internet
+Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
+
+Europol goes after The Com’s ransomware and extortion networks
+Source: https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arrests/
+
+Hospitals at Risk of BeyondTrust Ransomware Hacks
+Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
 
 
 === WEAK_SIGNAL ===

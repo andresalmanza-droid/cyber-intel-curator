@@ -84,134 +84,134 @@
     "category": "algo_mas"
   },
   {
-    "title": "FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials",
-    "url": "https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html",
+    "title": "Citrix NetScaler Under Active Recon for CVE-2026-3055 (CVSS 9.3) Memory Overread Bug",
+    "url": "https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html",
     "source": "hackernews",
     "category": "vulnerabilidades"
   },
   {
-    "title": "Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days",
-    "url": "https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html",
+    "title": "CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation",
+    "url": "https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html",
     "source": "hackernews",
     "category": "vulnerabilidades"
   },
   {
-    "title": "Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials",
-    "url": "https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html",
+    "title": "TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files",
+    "url": "https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html",
     "source": "hackernews",
     "category": "algo_mas"
   },
   {
-    "title": "Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets",
-    "url": "https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html",
+    "title": "China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks",
+    "url": "https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html",
+    "source": "hackernews",
+    "category": "geopolitica"
+  },
+  {
+    "title": "ThreatsDay Bulletin: PQC Push, AI Vuln Hunting, Pirated Traps, Phishing Kits and 20 More Stories",
+    "url": "https://thehackernews.com/2026/03/threatsday-bulletin-pqc-push-ai-vuln.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Coruna iOS Kit Reuses 2023 Triangulation Exploit Code in Recent Mass Attacks",
+    "url": "https://thehackernews.com/2026/03/coruna-ios-kit-reuses-2023.html",
     "source": "hackernews",
     "category": "ciberataques"
   },
   {
-    "title": "Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit",
-    "url": "https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html",
+    "title": "FCC Bans New Foreign-Made Routers Over Supply Chain and Cyber Risk Concerns",
+    "url": "https://thehackernews.com/2026/03/fcc-bans-new-foreign-made-routers-over.html",
     "source": "hackernews",
-    "category": "vulnerabilidades"
+    "category": "riesgo"
   },
   {
-    "title": "ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack and More",
-    "url": "https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "Veeam Patches 7 Critical Backup and Replication Flaws Allowing Remote Code Execution",
-    "url": "https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html",
-    "source": "hackernews",
-    "category": "vulnerabilidades"
-  },
-  {
-    "title": "Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation",
-    "url": "https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8",
-    "url": "https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html",
-    "source": "hackernews",
-    "category": "vulnerabilidades"
-  },
-  {
-    "title": "Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware",
-    "url": "https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html",
-    "source": "hackernews",
-    "category": "ciberataques"
-  },
-  {
-    "title": "Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026",
-    "url": "https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html",
-    "source": "hackernews",
-    "category": "algo_mas"
-  },
-  {
-    "title": "Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse",
-    "url": "https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html",
-    "source": "hackernews",
-    "category": "ciberataques"
-  },
-  {
-    "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
-    "url": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "\u26a1 Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents and More",
-    "url": "https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths",
-    "url": "https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html",
+    "title": "Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks",
+    "url": "https://thehackernews.com/2026/03/citrix-urges-patching-critical.html",
     "source": "hackernews",
     "category": "brechas"
   },
   {
-    "title": "Apple Fixes WebKit Vulnerability Enabling Same-Origin Policy Bypass on iOS and macOS",
-    "url": "https://thehackernews.com/2026/03/apple-fixes-webkit-vulnerability.html",
+    "title": "TeamPCP Backdoors LiteLLM Versions 1.82.7\u20131.82.8 via Trivy CI/CD Compromise",
+    "url": "https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html",
     "source": "hackernews",
-    "category": "vulnerabilidades"
+    "category": "ia"
   },
   {
-    "title": "Webinar - Identify Key Attack Paths to Your Crown Jewels with CSMA",
-    "url": "https://thehackernews.uk/CSMA-webinar",
+    "title": "FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks",
+    "url": "https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html",
     "source": "hackernews",
     "category": "ciberataques"
   },
   {
-    "title": "Guide - Discover How to Validate AI Risks With Adversarial Testing",
-    "url": "https://thehackernews.uk/pentera-exposure",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "Get the 2026 ASV Report to Benchmark Top Validation Tools",
-    "url": "https://thehackernews.uk/security-validation",
+    "title": "Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets",
+    "url": "https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html",
     "source": "hackernews",
     "category": "algo_mas"
   },
   {
-    "title": "Fix Security Noise by Focusing Only on Validated Exposures",
-    "url": "https://thehackernews.uk/security-leaders",
-    "source": "hackernews",
-    "category": "algo_mas"
-  },
-  {
-    "title": "Hidden Attack Paths You\u2019re Missing\nLearn to Find Hidden Vulnerabilities in Autonomous AI Agents\nA practical deep dive into securing AI agents against real-world attack paths beyond the model itself.\nRegister",
-    "url": "https://thehacker.news/ai-agents-attack-surface?source=below",
+    "title": "Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams",
+    "url": "https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html",
     "source": "hackernews",
     "category": "ia"
   },
   {
-    "title": "Pressure-Test Your Defenses\nAutomate Security Posture Validation with CTI-Driven Testing\nSee exactly where your controls stand against today\u2019s threats\u2014automated, accurate, approachable.\nRegister",
-    "url": "https://thehacker.news/automate-testing-security-posture?source=below",
+    "title": "Apple Warns Older iPhones Vulnerable to Coruna, DarkSword Exploit Kit Attacks",
+    "url": "https://thehackernews.com/2026/03/apple-warns-older-iphones-vulnerable-to.html",
+    "source": "hackernews",
+    "category": "ciberataques"
+  },
+  {
+    "title": "54 EDR Killers Use BYOVD to Exploit 35 Signed Vulnerable Drivers and Disable Security",
+    "url": "https://thehackernews.com/2026/03/54-edr-killers-use-byovd-to-exploit-34.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "New Perseus Android Banking Malware Monitors Notes Apps to Extract Sensitive Data",
+    "url": "https://thehackernews.com/2026/03/new-perseus-android-banking-malware.html",
+    "source": "hackernews",
+    "category": "ciberataques"
+  },
+  {
+    "title": "\u26a1 Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers and More",
+    "url": "https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html",
+    "source": "hackernews",
+    "category": "algo_mas"
+  },
+  {
+    "title": "Detect AI-Driven Threats Faster With Full Network Visibility",
+    "url": "https://thehackernews.uk/elite-network-defense",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "[Demo] Discover SaaS Risks and Monitor Every App in Your Environment",
+    "url": "https://thehackernews.uk/demo-reco",
+    "source": "hackernews",
+    "category": "algo_mas"
+  },
+  {
+    "title": "[Guide] Learn How to Govern AI Agents With Proven Market Guidance",
+    "url": "https://thehackernews.uk/market-guardian-guide",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "SANS SEC401: Get Hands On Skills to Detect and Respond to Cyber Threats",
+    "url": "https://thehackernews.uk/sans-sec401",
+    "source": "hackernews",
+    "category": "algo_mas"
+  },
+  {
+    "title": "Findings + Fixes from 600+ Leaders\nHow to Measure, Prioritize, and Close Identity Gaps in 2026\nNew 2026 Ponemon research reveals where mature identity programs still fall short and what leading organizations are doing to close the gap.\nRegister",
+    "url": "https://thehacker.news/identity-maturity-2026?source=below",
+    "source": "hackernews",
+    "category": "algo_mas"
+  },
+  {
+    "title": "RIdentity Framework for AI Agents\nHow to Deploy an Identity Layer for AI Agents in Production\nAI agents need identity, but most teams are still figuring out how to implement it. This session cuts through the noise with a practical, production-ready framework.\nRegister",
+    "url": "https://thehacker.news/ghost-in-the-machine?source=below",
     "source": "hackernews",
     "category": "ia"
   },
@@ -234,6 +234,18 @@
     "category": "algo_mas"
   },
   {
+    "title": "Which Code Vulnerabilities Actually Get Fixed? New Code Security Data from 50,000+ Repos\n\n\ue802March 30, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/03/which-code-vulnerabilities-actually-get.html",
+    "source": "hackernews",
+    "category": "algo_mas"
+  },
+  {
+    "title": "The Real Problem Isn't That AI Can't Write Secure Code - It's That It's Expanding Attack Surface\n\n\ue802March 30, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/03/the-real-problem-isnt-that-ai-cant.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
     "title": "Telegram's Crackdown Changed How Threat Actors Act, But Not Where They Act\n\n\ue802March 23, 2026\nRead \u279d",
     "url": "https://thehackernews.com/expert-insights/2026/03/telegrams-crackdown-changed-how-threat.html",
     "source": "hackernews",
@@ -242,18 +254,6 @@
   {
     "title": "Why Institutions of Higher Education Face Unique Identity Security and Management Risk\n\n\ue802March 23, 2026\nRead \u279d",
     "url": "https://thehackernews.com/expert-insights/2026/03/why-institutions-of-higher-education.html",
-    "source": "hackernews",
-    "category": "algo_mas"
-  },
-  {
-    "title": "The Curated Catalog: The Biggest Defense Against Shai-Hulud 3.0\n\n\ue802March 17, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/03/the-curated-catalog-biggest-defense.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "The Firewall Isn't Blind \u2014 It Just Needs to See Inside the Session\n\n\ue802March 16, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/03/the-firewall-isnt-blind-it-just-needs.html",
     "source": "hackernews",
     "category": "algo_mas"
   },
@@ -570,28 +570,28 @@
     "category": "algo_mas"
   },
   {
-    "title": "Quantum threats are already active and the defense response remains fragmented",
-    "url": "https://www.helpnetsecurity.com/2026/03/23/ciso-post-quantum-crypto-agility/",
-    "source": "helpnet",
-    "category": "ia"
-  },
-  {
-    "title": "Oracle issues emergency fix for pre-auth RCE in Identity Manager (CVE-2026-21992)",
-    "url": "https://www.helpnetsecurity.com/2026/03/23/oracle-emergency-fix-cve-2026-21992/",
-    "source": "helpnet",
-    "category": "vulnerabilidades"
-  },
-  {
-    "title": "Your AI agents are moving sensitive data. Do you know where?",
-    "url": "https://www.helpnetsecurity.com/2026/03/23/gidi-cohen-bonfy-ai-agent-security/",
-    "source": "helpnet",
-    "category": "ia"
-  },
-  {
-    "title": "Secure by Design: Building security in at the beginning",
-    "url": "https://helpnet.short.gy/Ij4ls5",
+    "title": "ShipSec Studio brings open-source workflow orchestration to security operations",
+    "url": "https://www.helpnetsecurity.com/2026/03/30/shipsec-studio-security-workflow-automation-platform/",
     "source": "helpnet",
     "category": "algo_mas"
+  },
+  {
+    "title": "Attackers are exploiting RCE vulnerability in BIG-IP APM systems (CVE-2025-53521)",
+    "url": "https://www.helpnetsecurity.com/2026/03/28/big-ip-apm-vulnerability-cve-2025-53521-exploited/",
+    "source": "helpnet",
+    "category": "ciberataques"
+  },
+  {
+    "title": "TeamPCP strikes again: Backdoored Telnyx PyPI package delivers malware",
+    "url": "https://www.helpnetsecurity.com/2026/03/27/teampcp-telnyx-supply-chain-compromise/",
+    "source": "helpnet",
+    "category": "ia"
+  },
+  {
+    "title": "The Guide for\r\nBreach and Attack Simulation & Automated Penetration Testing",
+    "url": "https://helpnet.short.gy/FCPm1C",
+    "source": "helpnet",
+    "category": "ciberataques"
   },
   {
     "title": "Webinar: The True State of Security 2026",
@@ -606,9 +606,15 @@
     "category": "algo_mas"
   },
   {
-    "title": "Plumber: Open-source scanner of GitLab CI/CD pipelines for compliance gaps",
-    "url": "https://www.helpnetsecurity.com/2026/03/23/plumber-open-source-gitlab-ci-cd-compliance-scanner/",
+    "title": "CISA sounds alarm on Langflow RCE, Trivy supply chain compromise after rapid exploitation",
+    "url": "https://www.helpnetsecurity.com/2026/03/27/cve-2026-33017-cve-2026-33634-exploited/",
     "source": "helpnet",
+    "category": "ia"
+  },
+  {
+    "title": "Meet Cyware at FinCyber Today Canada 2026",
+    "url": "https://www.cyware.com/resources/events-and-conferences/join-cyware-at-2026-fincyber-today-canada",
+    "source": "cyware",
     "category": "algo_mas"
   },
   {
