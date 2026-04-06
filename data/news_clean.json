@@ -180,8 +180,8 @@
     "source": "hackernews"
   },
   {
-    "title": "The CISO's Guide: From VPN Replacement to Comprehensive ZTNAModernize secure access and eliminate lateral movement by connecting users directly to applications.",
-    "url": "https://thehackernews.uk/vpn-replacement-n",
+    "title": "Zscaler ThreatLabz 2026 VPN Risk Report with Cybersecurity Insiders.AI collapsed human response window and turned remote access into fastest path to breach.",
+    "url": "https://thehackernews.uk/vpn-risk-zscaler-2026-native",
     "source": "hackernews"
   },
   {
@@ -195,6 +195,16 @@
     "source": "hackernews"
   },
   {
+    "title": "Why AI Does Not Need to be Innovative to be Dangerous\n\n\ue802April 06, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/04/why-ai-does-not-need-to-be-innovative.html",
+    "source": "hackernews"
+  },
+  {
+    "title": "AI Will Change Cybersecurity. Humans Will Define Its Success. A Lesson No Algorithm Can Teach\n\n\ue802April 06, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/04/ai-will-change-cybersecurity-humans.html",
+    "source": "hackernews"
+  },
+  {
     "title": "Which Code Vulnerabilities Actually Get Fixed? New Code Security Data from 50,000+ Repos\n\n\ue802March 30, 2026\nRead \u279d",
     "url": "https://thehackernews.com/expert-insights/2026/03/which-code-vulnerabilities-actually-get.html",
     "source": "hackernews"
@@ -202,16 +212,6 @@
   {
     "title": "The Real Problem Isn't That AI Can't Write Secure Code - It's That It's Expanding Attack Surface\n\n\ue802March 30, 2026\nRead \u279d",
     "url": "https://thehackernews.com/expert-insights/2026/03/the-real-problem-isnt-that-ai-cant.html",
-    "source": "hackernews"
-  },
-  {
-    "title": "Telegram's Crackdown Changed How Threat Actors Act, But Not Where They Act\n\n\ue802March 23, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/03/telegrams-crackdown-changed-how-threat.html",
-    "source": "hackernews"
-  },
-  {
-    "title": "Why Institutions of Higher Education Face Unique Identity Security and Management Risk\n\n\ue802March 23, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/03/why-institutions-of-higher-education.html",
     "source": "hackernews"
   },
   {
@@ -475,18 +475,18 @@
     "source": "helpnet"
   },
   {
-    "title": "ShipSec Studio brings open-source workflow orchestration to security operations",
-    "url": "https://www.helpnetsecurity.com/2026/03/30/shipsec-studio-security-workflow-automation-platform/",
+    "title": "FortiClient EMS zero-day exploited, emergency hotfixes available (CVE-2026-35616)",
+    "url": "https://www.helpnetsecurity.com/2026/04/04/forticlient-ems-zero-day-cve-2026-35616/",
     "source": "helpnet"
   },
   {
-    "title": "Attackers are exploiting RCE vulnerability in BIG-IP APM systems (CVE-2025-53521)",
-    "url": "https://www.helpnetsecurity.com/2026/03/28/big-ip-apm-vulnerability-cve-2025-53521-exploited/",
+    "title": "Claude Code source leak exploited to spread malware",
+    "url": "https://www.helpnetsecurity.com/2026/04/03/claude-code-leak-github-malware/",
     "source": "helpnet"
   },
   {
-    "title": "TeamPCP strikes again: Backdoored Telnyx PyPI package delivers malware",
-    "url": "https://www.helpnetsecurity.com/2026/03/27/teampcp-telnyx-supply-chain-compromise/",
+    "title": "Trivy supply chain attack enabled European Commission cloud breach",
+    "url": "https://www.helpnetsecurity.com/2026/04/03/european-commission-cloud-breach/",
     "source": "helpnet"
   },
   {
@@ -505,8 +505,13 @@
     "source": "helpnet"
   },
   {
-    "title": "CISA sounds alarm on Langflow RCE, Trivy supply chain compromise after rapid exploitation",
-    "url": "https://www.helpnetsecurity.com/2026/03/27/cve-2026-33017-cve-2026-33634-exploited/",
+    "title": "Cisco IMC auth bypass vulnerability allows attackers to alter user passwords (CVE-2026-20093)",
+    "url": "https://www.helpnetsecurity.com/2026/04/03/cisco-imc-vulnerability-cve-2026-20093/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Microsoft releases open-source toolkit to govern autonomous AI agents",
+    "url": "https://www.helpnetsecurity.com/2026/04/03/microsoft-ai-agent-governance-toolkit/",
     "source": "helpnet"
   },
   {
@@ -570,6 +575,11 @@
     "source": "linkedin"
   },
   {
+    "title": "Apr 3, 2026\n\n\n\n            \n        Through the Lens of ISMG: RSAC 2026 Reflects a Turning Point for AI and Cybersecurity | Edition 161\n      \n          \n\n\n                  \n          This week, we dove deep into a curated set of expert conversations from RSAC 2026, and one theme is unmistakable: AI is\u2026\n      \n                \n\n\n\n\n\n\n\n                    7",
+    "url": "https://www.linkedin.com/pulse/through-lens-ismg-rsac-2026-reflects-wf9qf?trk=article-ssr-frontend-pulse",
+    "source": "linkedin"
+  },
+  {
     "title": "Mar 20, 2026\n\n\n\n            \n        Through the Lens of ISMG: ISMG Studio at Gartner IAM London | Key Takeaways| Edition 160\n      \n          \n\n\n                  \n          At Gartner IAM London, discussions reflected how identity is rapidly evolving under the influence of AI-driven\u2026\n      \n                \n\n\n\n\n\n\n\n                    7",
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-studio-gartner-iam-v32af?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
@@ -612,11 +622,6 @@
   {
     "title": "Jan 16, 2026\n\n\n\n            \n        Through the Lens of ISMG: Attacks, Outages and Stolen Data | Edition 151\n      \n          \n\n\n                  \n          This week\u2019s incidents made one thing clear: cyber risk is escalating at the infrastructure level. This cyber risk is\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    18\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-attacks-outages-stolen-fdl2e?trk=article-ssr-frontend-pulse",
-    "source": "linkedin"
-  },
-  {
-    "title": "Jan 9, 2026\n\n\n\n            \n        Through the Lens of ISMG: Cybersecurity Trends to Watch in 2026 | Edition 150\n      \n          \n\n\n                  \n          2025 was a defining year for cybersecurity, shaped by persistent cyberattacks, nation-state hacking and intensifying\u2026\n      \n                \n\n\n\n\n\n\n\n                    21\n              \n\n\n \n\n \n\n\n\n\n\n        \n                3 Comments",
-    "url": "https://www.linkedin.com/pulse/through-lens-ismg-cybersecurity-trends-fdnee?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
   }
 ]
