@@ -4,11 +4,7 @@
     "mentions": 7
   },
   {
-    "keyword": "attacks",
-    "mentions": 4
-  },
-  {
-    "keyword": "risk",
+    "keyword": "ransomware",
     "mentions": 4
   },
   {
@@ -16,27 +12,31 @@
     "mentions": 3
   },
   {
-    "keyword": "code",
-    "mentions": 3
-  },
-  {
-    "keyword": "networks",
-    "mentions": 3
-  },
-  {
-    "keyword": "cyber",
-    "mentions": 3
-  },
-  {
-    "keyword": "ransomware",
-    "mentions": 3
-  },
-  {
-    "keyword": "critical",
+    "keyword": "control",
     "mentions": 2
   },
   {
-    "keyword": "control",
+    "keyword": "agents",
+    "mentions": 2
+  },
+  {
+    "keyword": "google",
+    "mentions": 2
+  },
+  {
+    "keyword": "attacks",
+    "mentions": 2
+  },
+  {
+    "keyword": "api",
+    "mentions": 2
+  },
+  {
+    "keyword": "code",
+    "mentions": 2
+  },
+  {
+    "keyword": "networks",
     "mentions": 2
   }
 ]
