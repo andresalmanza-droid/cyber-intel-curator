@@ -49,16 +49,16 @@
     "signal": "general_signal"
   },
   {
-    "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
-    "url": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
+    "title": "Learn How to Block Breached Passwords in Active Directory Before Attacks",
+    "url": "https://thehackernews.uk/password-policy-hn-referral",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
   {
-    "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
-    "url": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
-    "source": "hackernews",
+    "title": "Japanese chip-testing toolmaker Advantest suffers ransomware attack",
+    "url": "https://www.helpnetsecurity.com/2026/02/23/advantest-suffers-ransomware-attack/",
+    "source": "helpnet",
     "category": "ciberataques",
     "signal": "general_signal"
   },
@@ -84,10 +84,10 @@
     "signal": "general_signal"
   },
   {
-    "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
-    "url": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html",
-    "source": "hackernews",
-    "category": "ransomware",
+    "title": "Industrial networks continue to leak onto the internet",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
+    "source": "helpnet",
+    "category": "brechas",
     "signal": "general_signal"
   },
   {
@@ -105,10 +105,10 @@
     "signal": "general_signal"
   },
   {
-    "title": "Industrial networks continue to leak onto the internet",
-    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
-    "source": "helpnet",
-    "category": "brechas",
+    "title": "Hospitals at Risk of BeyondTrust Ransomware Hacks",
+    "url": "https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block",
+    "source": "linkedin",
+    "category": "ransomware",
     "signal": "general_signal"
   }
 ]

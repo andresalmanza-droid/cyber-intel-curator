@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-04-13
+Date: 2026-04-20
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,11 +12,11 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
-Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass
-Source: https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html
+Learn How to Block Breached Passwords in Active Directory Before Attacks
+Source: https://thehackernews.uk/password-policy-hn-referral
 
-BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks
-Source: https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html
+Japanese chip-testing toolmaker Advantest suffers ransomware attack
+Source: https://www.helpnetsecurity.com/2026/02/23/advantest-suffers-ransomware-attack/
 
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
@@ -24,14 +24,14 @@ Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.h
 Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration
 Source: https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html
 
-China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware
-Source: https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html
+Industrial networks continue to leak onto the internet
+Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
 
 Europol goes after The Com’s ransomware and extortion networks
 Source: https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arrests/
 
-Industrial networks continue to leak onto the internet
-Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
+Hospitals at Risk of BeyondTrust Ransomware Hacks
+Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
 
 
 === WEAK_SIGNAL ===

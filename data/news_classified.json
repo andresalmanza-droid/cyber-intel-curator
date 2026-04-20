@@ -84,100 +84,100 @@
     "category": "algo_mas"
   },
   {
-    "title": "Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass",
-    "url": "https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html",
-    "source": "hackernews",
-    "category": "ciberataques"
-  },
-  {
-    "title": "New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation \u2014 Patch Released",
-    "url": "https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html",
-    "source": "hackernews",
-    "category": "vulnerabilidades"
-  },
-  {
-    "title": "Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit",
-    "url": "https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html",
-    "source": "hackernews",
-    "category": "vulnerabilidades"
-  },
-  {
-    "title": "Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials",
-    "url": "https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html",
-    "source": "hackernews",
-    "category": "vulnerabilidades"
-  },
-  {
-    "title": "New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images",
-    "url": "https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html",
+    "title": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users",
+    "url": "https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html",
     "source": "hackernews",
     "category": "algo_mas"
   },
   {
-    "title": "Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers",
-    "url": "https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS",
-    "url": "https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html",
-    "source": "hackernews",
-    "category": "vulnerabilidades"
-  },
-  {
-    "title": "Block the Prompt, Not the Work: The End of \"Doctor No\"",
-    "url": "https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html",
+    "title": "Mirax Android RAT Turns Devices into SOCKS5 Proxies, Reaching 220,000 via Meta Ads",
+    "url": "https://thehackernews.com/2026/04/mirax-android-rat-turns-devices-into.html",
     "source": "hackernews",
     "category": "algo_mas"
   },
   {
-    "title": "BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks",
-    "url": "https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html",
-    "source": "hackernews",
-    "category": "ciberataques"
-  },
-  {
-    "title": "\u26a1 Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More",
-    "url": "https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html",
+    "title": "New PHP Composer Flaws Enable Arbitrary Command Execution \u2014 Patches Released",
+    "url": "https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html",
     "source": "hackernews",
     "category": "vulnerabilidades"
   },
   {
-    "title": "China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware",
-    "url": "https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html",
-    "source": "hackernews",
-    "category": "ransomware"
-  },
-  {
-    "title": "New GPUBreach Attack Enables Full CPU Privilege Escalation via GDDR6 Bit-Flips",
-    "url": "https://thehackernews.com/2026/04/new-gpubreach-attack-enables-full-cpu.html",
-    "source": "hackernews",
-    "category": "ciberataques"
-  },
-  {
-    "title": "Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access",
-    "url": "https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html",
+    "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
+    "url": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html",
     "source": "hackernews",
     "category": "ia"
   },
   {
-    "title": "Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems",
-    "url": "https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html",
+    "title": "Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities",
+    "url": "https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "Actively Exploited nginx-ui Flaw (CVE-2026-33032) Enables Full Nginx Server Takeover",
+    "url": "https://thehackernews.com/2026/04/critical-nginx-ui-vulnerability-cve.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "n8n Webhooks Abused Since October 2025 to Deliver Malware via Phishing Emails",
+    "url": "https://thehackernews.com/2026/04/n8n-webhooks-abused-since-october-2025.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
+    "url": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
+    "url": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched",
+    "url": "https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
+    "url": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
+    "url": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Why Security Leaders Are Layering Email Defense on Top of Secure Email Gateways",
+    "url": "https://thehackernews.com/expert-insights/2026/04/why-security-leaders-are-layering-email.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Why Threat Intelligence Is the Missing Link in CTEM Prioritization and Validation",
+    "url": "https://thehackernews.com/expert-insights/2026/04/why-threat-intelligence-is-missing-link.html",
     "source": "hackernews",
     "category": "algo_mas"
   },
   {
-    "title": "AI Will Change Cybersecurity. Humans Will Define Its Success. A Lesson No Algorithm Can Teach",
-    "url": "https://thehackernews.com/expert-insights/2026/04/ai-will-change-cybersecurity-humans.html",
+    "title": "The Hidden Security Risks of Shadow AI in Enterprises",
+    "url": "https://thehackernews.com/2026/04/the-hidden-security-risks-of-shadow-ai.html",
     "source": "hackernews",
     "category": "ia"
   },
   {
-    "title": "The AI Arms Race \u2013 Why Unified Exposure Management Is Becoming a Boardroom Priority",
-    "url": "https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html",
+    "title": "Your MTTD Looks Great. Your Post-Alert Gap Doesn't",
+    "url": "https://thehackernews.com/2026/04/your-mttd-looks-great-your-post-alert.html",
     "source": "hackernews",
-    "category": "ia"
+    "category": "algo_mas"
   },
   {
     "title": "Learn How to Block Breached Passwords in Active Directory Before Attacks",
@@ -204,14 +204,14 @@
     "category": "ia"
   },
   {
-    "title": "Findings + Fixes from 600+ Leaders\nHow to Measure, Prioritize, and Close Identity Gaps in 2026\nNew 2026 Ponemon research reveals where mature identity programs still fall short and what leading organizations are doing to close the gap.\nRegister",
-    "url": "https://thehacker.news/identity-maturity-2026?source=below",
+    "title": "Building Stronger AppSec\nHow to Defend Against Automated Exploitation at AI Speed\nRethink AppSec for AI driven attacks. Learn how to close patch gaps and prioritize vulnerabilities against automated exploitation at scale.\nRegister",
+    "url": "https://thehacker.news/state-of-ai-security?source=below",
     "source": "hackernews",
-    "category": "algo_mas"
+    "category": "ia"
   },
   {
-    "title": "RIdentity Framework for AI Agents\nHow to Deploy an Identity Layer for AI Agents in Production\nAI agents need identity, but most teams are still figuring out how to implement it. This session cuts through the noise with a practical, production-ready framework.\nRegister",
-    "url": "https://thehacker.news/ghost-in-the-machine?source=below",
+    "title": "Stop Autonomous AI Adversaries\nHow to Validate Real Attack Paths in Minutes\nLearn how to validate real attack paths and reduce exploitable risk with continuous agentic security validation.\nRegister",
+    "url": "https://thehacker.news/agentic-exposure-validation?source=below",
     "source": "hackernews",
     "category": "ia"
   },
@@ -232,12 +232,6 @@
     "url": "https://thehackernews.uk/cyber-risk-program",
     "source": "hackernews",
     "category": "algo_mas"
-  },
-  {
-    "title": "Why Security Leaders Are Layering Email Defense on Top of Secure Email Gateways\n\n\ue802April 13, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/04/why-security-leaders-are-layering-email.html",
-    "source": "hackernews",
-    "category": "ia"
   },
   {
     "title": "Session Cookie Theft: You Showed Your ID at the Door. But Someone Else Has Your Room Key\n\n\ue802April 13, 2026\nRead \u279d",
@@ -564,20 +558,20 @@
     "category": "algo_mas"
   },
   {
-    "title": "Hackers hijacked CPUID downloads, served STX RAT to victims",
-    "url": "https://www.helpnetsecurity.com/2026/04/13/cpuid-download-malware/",
+    "title": "AI platform ATHR makes voice phishing a one-person job",
+    "url": "https://www.helpnetsecurity.com/2026/04/20/athr-voice-phishing-ai-platform/",
     "source": "helpnet",
-    "category": "algo_mas"
+    "category": "ia"
   },
   {
-    "title": "Adobe issues emergency fix for Acrobat Reader flaw exploited in the wild (CVE-2026-34621)",
-    "url": "https://www.helpnetsecurity.com/2026/04/13/adobe-acrobat-reader-cve-2026-34621-emergency-fix/",
+    "title": "Researcher drops two more Microsoft Defender zero-days, all three now exploited in the wild",
+    "url": "https://www.helpnetsecurity.com/2026/04/17/microsoft-defender-zero-days-exploited/",
     "source": "helpnet",
     "category": "vulnerabilidades"
   },
   {
-    "title": "Fixing vulnerability data quality requires fixing the architecture first",
-    "url": "https://www.helpnetsecurity.com/2026/04/13/art-manion-tharros-vulnerability-data-quality/",
+    "title": "NIST admits defeat on NVD backlog, will enrich only highest-risk CVEs going forward",
+    "url": "https://www.helpnetsecurity.com/2026/04/16/nist-national-vulnerability-database-nvd-enrichment/",
     "source": "helpnet",
     "category": "vulnerabilidades"
   },
@@ -600,20 +594,26 @@
     "category": "algo_mas"
   },
   {
-    "title": "ZeroID: Open-source identity platform for autonomous AI agents",
-    "url": "https://www.helpnetsecurity.com/2026/04/13/zeroid-open-source-identity-platform-autonomous-ai-agents/",
-    "source": "helpnet",
-    "category": "ia"
-  },
-  {
-    "title": "MITRE releases a shared fraud-cyber framework built from real attack data",
-    "url": "https://www.helpnetsecurity.com/2026/04/13/mitre-fight-fraud-framework-f3/",
+    "title": "SmokedMeat: Open-source tool shows what attackers do inside CI/CD pipelines",
+    "url": "https://www.helpnetsecurity.com/2026/04/20/smokedmeat-ci-cd-pipeline-attacks/",
     "source": "helpnet",
     "category": "ciberataques"
   },
   {
-    "title": "Meet Cyware at FinCyber Today Canada 2026",
-    "url": "https://www.cyware.com/resources/events-and-conferences/join-cyware-at-2026-fincyber-today-canada",
+    "title": "How to spot a North Korean fake in a job interview",
+    "url": "https://www.helpnetsecurity.com/2026/04/20/north-korean-job-interview-infiltration-video/",
+    "source": "helpnet",
+    "category": "algo_mas"
+  },
+  {
+    "title": "Workplace stress in 2026 is still worse than before the pandemic",
+    "url": "https://www.helpnetsecurity.com/2026/04/17/workplace-stress-report-2026/",
+    "source": "helpnet",
+    "category": "algo_mas"
+  },
+  {
+    "title": "Meet Cyware at the Health-ISAC 2026 Spring Americas Summit",
+    "url": "https://www.cyware.com/resources/events-and-conferences/meet-cyware-at-the-health-isac-2026-spring-americas-summit",
     "source": "cyware",
     "category": "algo_mas"
   },
@@ -684,7 +684,13 @@
     "category": "algo_mas"
   },
   {
-    "title": "Apr 10, 2026\n\n\n\n            \n        Through the Lens of ISMG: Mythos & defensive security| Edition 162\n      \n          \n\n\n                  \n          Anthropic\u2019s Mythos marks an inflection point in cybersecurity, where vulnerability discovery begins to scale faster\u2026\n      \n                \n\n\n\n\n\n\n\n\n\n                    8",
+    "title": "Apr 17, 2026\n\n\n\n            \n        From Vulnerability to Exploit in Hours: Inside the AI-Driven Cybersecurity Shift\n      \n          \n\n\n                  \n          The latest set of stories highlights a defining shift in cybersecurity driven by AI particularly the emergence of\u2026\n      \n                \n\n\n\n\n\n\n\n                    15\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
+    "url": "https://www.linkedin.com/pulse/from-vulnerability-exploit-hours-inside-2pa4e?trk=article-ssr-frontend-pulse",
+    "source": "linkedin",
+    "category": "ia"
+  },
+  {
+    "title": "Apr 10, 2026\n\n\n\n            \n        Through the Lens of ISMG: Mythos & defensive security| Edition 162\n      \n          \n\n\n                  \n          Anthropic\u2019s Mythos marks an inflection point in cybersecurity, where vulnerability discovery begins to scale faster\u2026\n      \n                \n\n\n\n\n\n\n\n\n\n                    10",
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-mythos-defensive-o96nf?trk=article-ssr-frontend-pulse",
     "source": "linkedin",
     "category": "vulnerabilidades"
@@ -736,11 +742,5 @@
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-key-threats-vulnerabilities-nvvpf?trk=article-ssr-frontend-pulse",
     "source": "linkedin",
     "category": "ciberataques"
-  },
-  {
-    "title": "Jan 24, 2026\n\n\n\n            \n        Through the Lens of ISMG: Laws, Policies and Scrutiny for Securing AI Agents| Edition 152\n      \n          \n\n\n                  \n          U.S.\n      \n                \n\n\n\n\n\n\n\n\n                    18\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
-    "url": "https://www.linkedin.com/pulse/through-lens-ismg-laws-policies-scrutiny-q22ee?trk=article-ssr-frontend-pulse",
-    "source": "linkedin",
-    "category": "ia"
   }
 ]
