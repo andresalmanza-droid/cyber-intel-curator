@@ -35,16 +35,16 @@
     "signal": "general_signal"
   },
   {
-    "title": "Learn How to Block Breached Passwords in Active Directory Before Attacks",
-    "url": "https://thehackernews.uk/password-policy-hn-referral",
+    "title": "Building Stronger Defenses\nStop Patient Zero Attacks Before They Bypass Detection\nLearn how to stop patient zero attacks before they bypass detection and compromise your systems at entry points.\nRegister",
+    "url": "https://thehacker.news/patient-zero-playbook?source=below",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
   {
-    "title": "Japanese chip-testing toolmaker Advantest suffers ransomware attack",
-    "url": "https://www.helpnetsecurity.com/2026/02/23/advantest-suffers-ransomware-attack/",
-    "source": "helpnet",
+    "title": "Reduce AppSec Risk\nValidate Real Attack Paths Before Attackers Exploit Them\nLearn how to validate real attack paths and reduce exploitable risk with continuous agentic security validation.\nRegister",
+    "url": "https://thehacker.news/top-attack-paths-appsec?source=below",
+    "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
@@ -70,10 +70,10 @@
     "signal": "general_signal"
   },
   {
-    "title": "Industrial networks continue to leak onto the internet",
-    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
-    "source": "helpnet",
-    "category": "brechas",
+    "title": "Why Your Backups Might Not Save You When Ransomware Hits\n\n\ue802April 21, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/04/why-your-backups-might-not-save-you.html",
+    "source": "hackernews",
+    "category": "ransomware",
     "signal": "general_signal"
   },
   {
@@ -91,10 +91,10 @@
     "signal": "general_signal"
   },
   {
-    "title": "Hospitals at Risk of BeyondTrust Ransomware Hacks",
-    "url": "https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block",
-    "source": "linkedin",
-    "category": "ransomware",
+    "title": "Industrial networks continue to leak onto the internet",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
+    "source": "helpnet",
+    "category": "brechas",
     "signal": "general_signal"
   }
 ]

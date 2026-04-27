@@ -150,33 +150,33 @@
     "source": "hackernews"
   },
   {
-    "title": "Learn How to Block Breached Passwords in Active Directory Before Attacks",
-    "url": "https://thehackernews.uk/password-policy-hn-referral",
+    "title": "Discover Key AI Security Gaps CISOs Face in 2026",
+    "url": "https://thehackernews.uk/ai-sec-survey-2026",
     "source": "hackernews"
   },
   {
-    "title": "Get Full Visibility into Vendor and Internal Risk in One Platform",
-    "url": "https://thehackernews.uk/third-party-tpr-guide",
+    "title": "Fix Rising Application Security Risks Driven by AI Development",
+    "url": "https://thehackernews.uk/appsec-2026-report",
     "source": "hackernews"
   },
   {
-    "title": "[Guide] Get Practical Steps to Govern AI Agents with Runtime Controls",
-    "url": "https://thehackernews.uk/guardian-agents-2026-guide",
+    "title": "Automate Alert Triage and Investigations Across Every Threat",
+    "url": "https://thehackernews.uk/prophet-ai-platform",
     "source": "hackernews"
   },
   {
-    "title": "Secure Your AI Systems Across the Full Lifecycle of Risks",
-    "url": "https://thehackernews.uk/ai-protect-sygnia",
+    "title": "How to Identify Risky Browser Extensions in Your Organization",
+    "url": "https://thehackernews.uk/layerx-sec-report",
     "source": "hackernews"
   },
   {
-    "title": "Building Stronger AppSec\nHow to Defend Against Automated Exploitation at AI Speed\nRethink AppSec for AI driven attacks. Learn how to close patch gaps and prioritize vulnerabilities against automated exploitation at scale.\nRegister",
-    "url": "https://thehacker.news/state-of-ai-security?source=below",
+    "title": "Building Stronger Defenses\nStop Patient Zero Attacks Before They Bypass Detection\nLearn how to stop patient zero attacks before they bypass detection and compromise your systems at entry points.\nRegister",
+    "url": "https://thehacker.news/patient-zero-playbook?source=below",
     "source": "hackernews"
   },
   {
-    "title": "Stop Autonomous AI Adversaries\nHow to Validate Real Attack Paths in Minutes\nLearn how to validate real attack paths and reduce exploitable risk with continuous agentic security validation.\nRegister",
-    "url": "https://thehacker.news/agentic-exposure-validation?source=below",
+    "title": "Reduce AppSec Risk\nValidate Real Attack Paths Before Attackers Exploit Them\nLearn how to validate real attack paths and reduce exploitable risk with continuous agentic security validation.\nRegister",
+    "url": "https://thehacker.news/top-attack-paths-appsec?source=below",
     "source": "hackernews"
   },
   {
@@ -195,13 +195,18 @@
     "source": "hackernews"
   },
   {
-    "title": "Session Cookie Theft: You Showed Your ID at the Door. But Someone Else Has Your Room Key\n\n\ue802April 13, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/04/session-cookie-theft-you-showed-your-id.html",
+    "title": "CTM360 Exposes Global GovTrap Campaign With 11,000+ Fake Government Portals Targeting Citizens Worldwide\n\n\ue802April 27, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/04/ctm360-exposes-global-govtrap-campaign.html",
     "source": "hackernews"
   },
   {
-    "title": "Why AI Does Not Need to be Innovative to be Dangerous\n\n\ue802April 06, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/04/why-ai-does-not-need-to-be-innovative.html",
+    "title": "Work Moved Into the Browser. Security Didn't. AI Is Exposing the Gap\n\n\ue802April 27, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/04/work-moved-into-browser-security-didnt.html",
+    "source": "hackernews"
+  },
+  {
+    "title": "Why Your Backups Might Not Save You When Ransomware Hits\n\n\ue802April 21, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/04/why-your-backups-might-not-save-you.html",
     "source": "hackernews"
   },
   {
@@ -465,18 +470,18 @@
     "source": "helpnet"
   },
   {
-    "title": "AI platform ATHR makes voice phishing a one-person job",
-    "url": "https://www.helpnetsecurity.com/2026/04/20/athr-voice-phishing-ai-platform/",
+    "title": "The AI criminal mastermind is already hiring on gig platforms",
+    "url": "https://www.helpnetsecurity.com/2026/04/27/ai-criminal-mastermind-gig-platforms/",
     "source": "helpnet"
   },
   {
-    "title": "Researcher drops two more Microsoft Defender zero-days, all three now exploited in the wild",
-    "url": "https://www.helpnetsecurity.com/2026/04/17/microsoft-defender-zero-days-exploited/",
+    "title": "Indirect prompt injection is taking hold in the wild",
+    "url": "https://www.helpnetsecurity.com/2026/04/24/indirect-prompt-injection-in-the-wild/",
     "source": "helpnet"
   },
   {
-    "title": "NIST admits defeat on NVD backlog, will enrich only highest-risk CVEs going forward",
-    "url": "https://www.helpnetsecurity.com/2026/04/16/nist-national-vulnerability-database-nvd-enrichment/",
+    "title": "New Cisco firewall malware can only be killed by pulling the plug",
+    "url": "https://www.helpnetsecurity.com/2026/04/24/cisco-firepower-firestarter-backdoor/",
     "source": "helpnet"
   },
   {
@@ -495,18 +500,13 @@
     "source": "helpnet"
   },
   {
-    "title": "SmokedMeat: Open-source tool shows what attackers do inside CI/CD pipelines",
-    "url": "https://www.helpnetsecurity.com/2026/04/20/smokedmeat-ci-cd-pipeline-attacks/",
+    "title": "OpenAI\u2019s GPT-5.5 is out with expanded cybersecurity safeguards",
+    "url": "https://www.helpnetsecurity.com/2026/04/24/openai-gpt-5-5-cybersecurity-safeguards/",
     "source": "helpnet"
   },
   {
-    "title": "How to spot a North Korean fake in a job interview",
-    "url": "https://www.helpnetsecurity.com/2026/04/20/north-korean-job-interview-infiltration-video/",
-    "source": "helpnet"
-  },
-  {
-    "title": "Workplace stress in 2026 is still worse than before the pandemic",
-    "url": "https://www.helpnetsecurity.com/2026/04/17/workplace-stress-report-2026/",
+    "title": "AI is speeding up nation-state cyber programs",
+    "url": "https://www.helpnetsecurity.com/2026/04/24/kaja-ciglic-microsoft-nation-state-cyber-programs/",
     "source": "helpnet"
   },
   {
@@ -570,6 +570,11 @@
     "source": "linkedin"
   },
   {
+    "title": "Apr 24, 2026\n\n\n\n            \n        AI, Nation-States and the Expanding Attack Surface\n      \n          \n\n\n                  \n          This week\u2019s stories reflect a cybersecurity landscape being reshaped by two converging forces: nation-state\u2026\n      \n                \n\n\n\n\n\n\n\n                    10",
+    "url": "https://www.linkedin.com/pulse/ai-nation-states-expanding-attack-surface-liwhe?trk=article-ssr-frontend-pulse",
+    "source": "linkedin"
+  },
+  {
     "title": "Apr 17, 2026\n\n\n\n            \n        From Vulnerability to Exploit in Hours: Inside the AI-Driven Cybersecurity Shift\n      \n          \n\n\n                  \n          The latest set of stories highlights a defining shift in cybersecurity driven by AI particularly the emergence of\u2026\n      \n                \n\n\n\n\n\n\n\n                    15\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
     "url": "https://www.linkedin.com/pulse/from-vulnerability-exploit-hours-inside-2pa4e?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
@@ -612,11 +617,6 @@
   {
     "title": "Feb 6, 2026\n\n\n\n            \n        Through the Lens of ISMG: Cybersecurity Funding and Strategic Acquisitions Shaping 2026| Edition 154\n      \n          \n\n\n                  \n          The cybersecurity industry is seeing a surge in strategic investments and acquisitions as vendors and startups race to\u2026\n      \n                \n\n\n\n\n\n\n\n                    9\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-cybersecurity-funding-hjpse?trk=article-ssr-frontend-pulse",
-    "source": "linkedin"
-  },
-  {
-    "title": "Jan 30, 2026\n\n\n\n            \n        Through the Lens of ISMG: Key Threats & Vulnerabilities to Watch | Edition 153\n      \n          \n\n\n                  \n          Security teams are confronting a widening attack surface, from a one-click remote code execution flaw in IDIS\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    10\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
-    "url": "https://www.linkedin.com/pulse/through-lens-ismg-key-threats-vulnerabilities-nvvpf?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
   }
 ]

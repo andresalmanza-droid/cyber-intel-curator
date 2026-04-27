@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-04-20
+Date: 2026-04-27
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,11 +12,17 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
-Learn How to Block Breached Passwords in Active Directory Before Attacks
-Source: https://thehackernews.uk/password-policy-hn-referral
+Building Stronger Defenses
+Stop Patient Zero Attacks Before They Bypass Detection
+Learn how to stop patient zero attacks before they bypass detection and compromise your systems at entry points.
+Register
+Source: https://thehacker.news/patient-zero-playbook?source=below
 
-Japanese chip-testing toolmaker Advantest suffers ransomware attack
-Source: https://www.helpnetsecurity.com/2026/02/23/advantest-suffers-ransomware-attack/
+Reduce AppSec Risk
+Validate Real Attack Paths Before Attackers Exploit Them
+Learn how to validate real attack paths and reduce exploitable risk with continuous agentic security validation.
+Register
+Source: https://thehacker.news/top-attack-paths-appsec?source=below
 
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
@@ -24,14 +30,17 @@ Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.h
 Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration
 Source: https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html
 
-Industrial networks continue to leak onto the internet
-Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
+Why Your Backups Might Not Save You When Ransomware Hits
+
+April 21, 2026
+Read ➝
+Source: https://thehackernews.com/expert-insights/2026/04/why-your-backups-might-not-save-you.html
 
 Europol goes after The Com’s ransomware and extortion networks
 Source: https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arrests/
 
-Hospitals at Risk of BeyondTrust Ransomware Hacks
-Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
+Industrial networks continue to leak onto the internet
+Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
 
 
 === WEAK_SIGNAL ===
