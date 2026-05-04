@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-04-27
+Date: 2026-05-04
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,17 +12,8 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
-Building Stronger Defenses
-Stop Patient Zero Attacks Before They Bypass Detection
-Learn how to stop patient zero attacks before they bypass detection and compromise your systems at entry points.
-Register
-Source: https://thehacker.news/patient-zero-playbook?source=below
-
-Reduce AppSec Risk
-Validate Real Attack Paths Before Attackers Exploit Them
-Learn how to validate real attack paths and reduce exploitable risk with continuous agentic security validation.
-Register
-Source: https://thehacker.news/top-attack-paths-appsec?source=below
+Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack
+Source: https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html
 
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
@@ -30,17 +21,17 @@ Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.h
 Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration
 Source: https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html
 
-Why Your Backups Might Not Save You When Ransomware Hits
-
-April 21, 2026
-Read ➝
-Source: https://thehackernews.com/expert-insights/2026/04/why-your-backups-might-not-save-you.html
+Industrial networks continue to leak onto the internet
+Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
 
 Europol goes after The Com’s ransomware and extortion networks
 Source: https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arrests/
 
-Industrial networks continue to leak onto the internet
-Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
+Hospitals at Risk of BeyondTrust Ransomware Hacks
+Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
+
+Spotting third-party cyber risk before attackers do
+Source: https://www.helpnetsecurity.com/2026/05/04/spotting-third-party-cyber-risk-video/
 
 
 === WEAK_SIGNAL ===
@@ -51,6 +42,9 @@ Source: https://thehackernews.uk/airia-demo-req-ar
 
 When AI Agents Become Your New Attack Surface
 Source: https://thehacker.news/ai-agents-attack-surface?source=recap
+
+Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software
+Source: https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html
 
 
 === EMERGING_THREAT ===

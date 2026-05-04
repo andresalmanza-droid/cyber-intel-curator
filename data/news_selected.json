@@ -42,14 +42,14 @@
     "category": "ciberataques"
   },
   {
-    "title": "Building Stronger Defenses\nStop Patient Zero Attacks Before They Bypass Detection\nLearn how to stop patient zero attacks before they bypass detection and compromise your systems at entry points.\nRegister",
-    "url": "https://thehacker.news/patient-zero-playbook?source=below",
+    "title": "Researchers Uncover Pre-Stuxnet \u2018fast16\u2019 Malware Targeting Engineering Software",
+    "url": "https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html",
     "source": "hackernews",
     "category": "ciberataques"
   },
   {
-    "title": "Reduce AppSec Risk\nValidate Real Attack Paths Before Attackers Exploit Them\nLearn how to validate real attack paths and reduce exploitable risk with continuous agentic security validation.\nRegister",
-    "url": "https://thehacker.news/top-attack-paths-appsec?source=below",
+    "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
+    "url": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
     "source": "hackernews",
     "category": "ciberataques"
   },
@@ -72,10 +72,10 @@
     "category": "algo_mas"
   },
   {
-    "title": "Why Your Backups Might Not Save You When Ransomware Hits\n\n\ue802April 21, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/04/why-your-backups-might-not-save-you.html",
-    "source": "hackernews",
-    "category": "ransomware"
+    "title": "Industrial networks continue to leak onto the internet",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
+    "source": "helpnet",
+    "category": "brechas"
   },
   {
     "title": "Ransomware activity peaks outside business hours",
@@ -90,9 +90,15 @@
     "category": "ransomware"
   },
   {
-    "title": "Industrial networks continue to leak onto the internet",
-    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
+    "title": "Hospitals at Risk of BeyondTrust Ransomware Hacks",
+    "url": "https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block",
+    "source": "linkedin",
+    "category": "ransomware"
+  },
+  {
+    "title": "Spotting third-party cyber risk before attackers do",
+    "url": "https://www.helpnetsecurity.com/2026/05/04/spotting-third-party-cyber-risk-video/",
     "source": "helpnet",
-    "category": "brechas"
+    "category": "riesgo"
   }
 ]
