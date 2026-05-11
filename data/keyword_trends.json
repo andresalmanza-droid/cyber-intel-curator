@@ -5,10 +5,26 @@
   },
   {
     "keyword": "your",
+    "mentions": 4
+  },
+  {
+    "keyword": "before",
+    "mentions": 4
+  },
+  {
+    "keyword": "they",
     "mentions": 3
   },
   {
-    "keyword": "ransomware",
+    "keyword": "attack",
+    "mentions": 3
+  },
+  {
+    "keyword": "attacks",
+    "mentions": 3
+  },
+  {
+    "keyword": "risk",
     "mentions": 3
   },
   {
@@ -20,23 +36,7 @@
     "mentions": 2
   },
   {
-    "keyword": "before",
-    "mentions": 2
-  },
-  {
     "keyword": "google",
-    "mentions": 2
-  },
-  {
-    "keyword": "attack",
-    "mentions": 2
-  },
-  {
-    "keyword": "api",
-    "mentions": 2
-  },
-  {
-    "keyword": "code",
     "mentions": 2
   }
 ]
