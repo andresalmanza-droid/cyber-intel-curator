@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-05-11
+Date: 2026-05-18
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,26 +12,61 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
-Building Stronger Defenses
-Stop Patient Zero Attacks Before They Bypass Detection
-Learn how to stop patient zero attacks before they bypass detection and compromise your systems at entry points.
-Register
-Source: https://thehacker.news/patient-zero-playbook?source=below
-
-Reduce AppSec Risk
-Validate Real Attack Paths Before Attackers Exploit Them
-Learn how to validate real attack paths and reduce exploitable risk with continuous agentic security validation.
-Register
-Source: https://thehacker.news/top-attack-paths-appsec?source=below
-
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
 
 Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration
 Source: https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html
 
+Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak
+Source: https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html
+
+Industrial networks continue to leak onto the internet
+Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
+
+Europol goes after The Com’s ransomware and extortion networks
+Source: https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arrests/
+
 Hospitals at Risk of BeyondTrust Ransomware Hacks
 Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
+
+May 15, 2026
+
+
+
+            
+        Through the Lens of ISMG: Cybersecurity in the Age of AI Conflict: Resilience, Infrastructure and Geopolitical Risk | Edition 166
+      
+          
+
+
+                  
+          This week’s stories highlight how cyber operations are increasingly being used not just to disrupt systems, but to…
+      
+                
+
+
+
+
+
+
+
+
+                    7
+              
+
+
+ 
+
+ 
+
+
+
+
+
+        
+                1 Comment
+Source: https://www.linkedin.com/pulse/through-lens-ismg-cybersecurity-age-brije?trk=article-ssr-frontend-pulse
 
 
 === WEAK_SIGNAL ===
@@ -43,6 +78,9 @@ Source: https://thehackernews.uk/airia-demo-req-ar
 When AI Agents Become Your New Attack Surface
 Source: https://thehacker.news/ai-agents-attack-surface?source=recap
 
+Identify Internal Attack Surfaces More Efficiently With a Free Assessment
+Source: https://thehackernews.uk/bitdefender-phasr-assessment
+
 
 === EMERGING_THREAT ===
 
@@ -51,4 +89,10 @@ Source: https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html
 
 UAT-10027 Targets U.S. Education and Healthcare Sectors
 Source: https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html
+
+
+=== CONSOLIDATED_THREAT ===
+
+Ransomware activity peaks outside business hours
+Source: https://www.helpnetsecurity.com/2026/02/27/sophos-identity-driven-breaches-report/
 

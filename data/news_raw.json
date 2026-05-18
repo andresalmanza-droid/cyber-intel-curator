@@ -75,98 +75,103 @@
     "source": "hackernews"
   },
   {
-    "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
-    "url": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
+    "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
+    "url": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
     "source": "hackernews"
   },
   {
-    "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
-    "url": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
+    "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
+    "url": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
     "source": "hackernews"
   },
   {
-    "title": "\u26a1 Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE and More",
-    "url": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html",
+    "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
+    "url": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
     "source": "hackernews"
   },
   {
-    "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
-    "url": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html",
+    "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
+    "url": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
     "source": "hackernews"
   },
   {
-    "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
-    "url": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html",
+    "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
+    "url": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
     "source": "hackernews"
   },
   {
-    "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
-    "url": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
+    "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
+    "url": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
     "source": "hackernews"
   },
   {
-    "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution",
-    "url": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html",
+    "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
+    "url": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
     "source": "hackernews"
   },
   {
-    "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' \u2014 Submissions Now Open",
-    "url": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
+    "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
+    "url": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
     "source": "hackernews"
   },
   {
-    "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
-    "url": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
+    "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
+    "url": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
     "source": "hackernews"
   },
   {
-    "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
-    "url": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html",
+    "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
+    "url": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
     "source": "hackernews"
   },
   {
-    "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
-    "url": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html",
+    "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
+    "url": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
     "source": "hackernews"
   },
   {
-    "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials",
-    "url": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html",
+    "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
+    "url": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
     "source": "hackernews"
   },
   {
-    "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
-    "url": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
+    "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI and More Packages",
+    "url": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
     "source": "hackernews"
   },
   {
-    "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
-    "url": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html",
+    "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
+    "url": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
     "source": "hackernews"
   },
   {
-    "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
-    "url": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
+    "title": "\u26a1 Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
+    "url": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html",
     "source": "hackernews"
   },
   {
-    "title": "[Webinar] Learn How Autonomous Validation Keeps Pace With AI Attacks",
-    "url": "https://thehackernews.uk/auto-validation-2026",
+    "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
+    "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
     "source": "hackernews"
   },
   {
-    "title": "[Guide] Get Practical AI SOC Insights to Improve Threat Detection",
-    "url": "https://thehackernews.uk/ciso-soc-ai-report",
+    "title": "[Webinar] Learn How to Handle Critical SOC Alerts With AI Support",
+    "url": "https://thehackernews.uk/cirosec-radiant-soc",
     "source": "hackernews"
   },
   {
-    "title": "[Demo] Discover How to Control Autonomous Identity Risks Effectively",
-    "url": "https://thehackernews.uk/auto-identity-guards",
+    "title": "Identify Internal Attack Surfaces More Efficiently With a Free Assessment",
+    "url": "https://thehackernews.uk/bitdefender-phasr-assessment",
     "source": "hackernews"
   },
   {
-    "title": "[Demo] Stop Email Attacks and Protect Cloud Workspace Data Faster",
-    "url": "https://thehackernews.uk/google-m365-email-security",
+    "title": "[eBook] Get the 3-Number SOC Diagnostic to Reduce Queue Risk",
+    "url": "https://thehackernews.uk/prophet-queue-breach",
+    "source": "hackernews"
+  },
+  {
+    "title": "[Guide] Stop Email Fraud Before It Turns Into Ransomware Damage",
+    "url": "https://thehackernews.uk/kaseya-phishing-ransomware",
     "source": "hackernews"
   },
   {
@@ -180,8 +185,8 @@
     "source": "hackernews"
   },
   {
-    "title": "The Room Where Security Actually Gets Done \u2014 SANSFIRE 2026D.C., July 13\u201318. Elite instructors, 50+ courses, NetWars, and peers who operate at your level.",
-    "url": "https://thehackernews.uk/sansfire-cyber-training",
+    "title": "AI Is Reshaping Every Attack Surface. Train for What's NextSANSFIRE 2026 in D.C. brings 50+ courses, AI-focused sessions, and NetWars. July 13\u201318. Save $500.",
+    "url": "https://thehackernews.uk/sans-training-fire",
     "source": "hackernews"
   },
   {
@@ -195,24 +200,339 @@
     "source": "hackernews"
   },
   {
-    "title": "From Phishing to Recovery: Breaking the Ransomware Attack Chain\n\n\ue802May 04, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/05/from-phishing-to-recovery-breaking.html",
+    "title": "Time-to-Revoke: The Metric CISOs Need in the AI Exploit Era\n\n\ue802May 18, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/05/time-to-revoke-metric-cisos-need-in-ai.html",
     "source": "hackernews"
   },
   {
-    "title": "Mythos is Coming: What the Next Six Months Require\n\n\ue802May 04, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/05/mythos-is-coming-what-next-six-months.html",
+    "title": "Agentic Attacks Arrived Over a Year Ago. Your Remediation Hasn't Caught Up.\n\n\ue802May 18, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/05/agentic-attacks-arrived-over-year-ago.html",
     "source": "hackernews"
   },
   {
-    "title": "Your Biggest Security Risk Isn\u2019t Malware \u2014 It's What You Already Trust\n\n\ue802May 04, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/05/your-biggest-security-risk-isnt-malware.html",
+    "title": "7 Signs Your Organization Is Vulnerable to Business Email Compromise\n\n\ue802May 18, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/05/7-signs-your-organization-is-vulnerable.html",
     "source": "hackernews"
   },
   {
-    "title": "CTM360 Exposes Global GovTrap Campaign With 11,000+ Fake Government Portals Targeting Citizens Worldwide\n\n\ue802April 27, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/04/ctm360-exposes-global-govtrap-campaign.html",
+    "title": "The Non-Human Identity Crisis: Why Your Machine Identities Are Your Biggest Governance Gap\n\n\ue802May 18, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/05/the-non-human-identity-crisis-why-your.html",
     "source": "hackernews"
+  },
+  {
+    "title": "Identity verification systems are struggling with synthetic fraud",
+    "url": "https://www.helpnetsecurity.com/2026/02/23/analysis-identity-verification-fraud-report/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Enterprises are racing to secure agentic AI deployments",
+    "url": "https://www.helpnetsecurity.com/2026/02/23/ai-agent-security-risks-enterprise/",
+    "source": "helpnet"
+  },
+  {
+    "title": "The hidden security cost of treating labs like data centers",
+    "url": "https://www.helpnetsecurity.com/2026/02/23/rich-kellen-iff-ot-lab-cybersecurity/",
+    "source": "helpnet"
+  },
+  {
+    "title": "AI is becoming part of everyday criminal workflows",
+    "url": "https://www.helpnetsecurity.com/2026/02/24/ai-in-cybercrime-research/",
+    "source": "helpnet"
+  },
+  {
+    "title": "AI-driven DAST reduces manual setup and surfaces exploitable vulnerabilities",
+    "url": "https://www.helpnetsecurity.com/2026/02/26/joni-klippert-ceo-stackhawk-ai-driven-dast-testing/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Review: Digital Forensics, Investigation, and Response, 5th Edition",
+    "url": "https://www.helpnetsecurity.com/2026/02/26/review-digital-forensics-investigation-and-response-5th-edition/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Open-source security debt grows across commercial software",
+    "url": "https://www.helpnetsecurity.com/2026/02/26/open-source-vulnerability-surge-risk-analysis/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Industrial networks continue to leak onto the internet",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
+    "source": "helpnet"
+  },
+  {
+    "title": "DeVry University\u2019s CISO on higher education cybersecurity risk",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/fred-kwong-devry-university-higher-education-cybersecurity-risk/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Japanese chip-testing toolmaker Advantest suffers ransomware attack",
+    "url": "https://www.helpnetsecurity.com/2026/02/23/advantest-suffers-ransomware-attack/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Fake troubleshooting tip on ClawHub leads to infostealer infection",
+    "url": "https://www.helpnetsecurity.com/2026/02/23/clawhub-malicious-comment-infostealer/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Self-spreading npm malware targets developers in new supply chain attack",
+    "url": "https://www.helpnetsecurity.com/2026/02/24/npm-worm-sandworm-mode-supply-cain-attack/",
+    "source": "helpnet"
+  },
+  {
+    "title": "CISA flags exploited FileZen command injection bug, patch now! (CVE-2026-25108)",
+    "url": "https://www.helpnetsecurity.com/2026/02/25/cve-2026-25108-filezen-vulnerability-exploited/",
+    "source": "helpnet"
+  },
+  {
+    "title": "SolarWinds Serv-U hit by four critical RCE-level vulnerabilities",
+    "url": "https://www.helpnetsecurity.com/2026/02/25/solarwinds-serv-u-vulnerabilities-cve-2025-40538-to-cve-2025-40541/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Threat actor leveraged Cisco SD-WAN zero-day since 2023 (CVE-2026-20127)",
+    "url": "https://www.helpnetsecurity.com/2026/02/25/cisco-sd-wan-zero-day-cve-2026-20127/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Scattered Lapsus$ Hunters seeks women for vishing attacks",
+    "url": "https://www.helpnetsecurity.com/2026/02/26/slh-seeks-women-for-vishing-attacks/",
+    "source": "helpnet"
+  },
+  {
+    "title": "IronCurtain: An open-source, safeguard layer for autonomous AI assistants",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/ironcurtain-open-source-ai-agent-security/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Why SOCs are moving toward autonomous security operations in 2026",
+    "url": "https://www.helpnetsecurity.com/2026/02/24/socs-autonomous-security-operations-strategies/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Binding Operational Directive 26-02 sets deadlines for edge device replacement",
+    "url": "https://www.helpnetsecurity.com/2026/02/24/cisa-binding-operational-directive-26-02-edge-device-video/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Police seize 100,000 stolen Facebook credentials in cybercrime raid",
+    "url": "https://www.helpnetsecurity.com/2026/02/23/poland-cybercrime-facebook-phishing-ring/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Spanish police arrest suspected Anonymous members over DDoS attacks on government sites",
+    "url": "https://www.helpnetsecurity.com/2026/02/23/spain-guardia-civil-arrests-anonymous-fenix-ddos-attacks/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Security and complexity slow the next phase of enterprise AI agent adoption",
+    "url": "https://www.helpnetsecurity.com/2026/02/24/ai-agents-business-processes-security-complexity/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Microsoft extends security patching for three Windows products at a price",
+    "url": "https://www.helpnetsecurity.com/2026/02/24/windows-extended-security-updates-program-deadlines/",
+    "source": "helpnet"
+  },
+  {
+    "title": "International operation dismantles fraud network, \u20ac400,000 seized",
+    "url": "https://www.helpnetsecurity.com/2026/02/24/eurojust-international-action-fraudulent-call-centre-takedown/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Teenagers charged over public bike service breach that exposed 4.62 million records",
+    "url": "https://www.helpnetsecurity.com/2026/02/24/south-korean-teens-bike-service-cyberattack-charges/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Airline brands become launchpads for phishing, crypto fraud",
+    "url": "https://www.helpnetsecurity.com/2026/02/25/airline-phishing-campaigns-crypto-fraud/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Cyber valuations climb as capital concentrates, AI security expands",
+    "url": "https://www.helpnetsecurity.com/2026/02/25/cybersecurity-venture-funding-ai-security-expands/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Ex-L3Harris executive sentenced to 87 months for selling stolen cyber-exploit trade secrets",
+    "url": "https://www.helpnetsecurity.com/2026/02/25/peter-williams-l3harris-executive-sentenced-trade-secrets-theft-russia/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Anthropic\u2019s Remote Control feature brings Claude Code to mobile devices",
+    "url": "https://www.helpnetsecurity.com/2026/02/25/anthropic-remote-control-claude-code-feature/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Samsung\u2019s Galaxy S26 turns privacy into a visible and invisible feature",
+    "url": "https://www.helpnetsecurity.com/2026/02/26/samsung-galaxy-s26-privacy-display-security-feature/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Telegram rises to top spot in job scam activity",
+    "url": "https://www.helpnetsecurity.com/2026/02/26/telegram-job-scams-activity/",
+    "source": "helpnet"
+  },
+  {
+    "title": "NATO greenlights iPhone and iPad for classified information handling",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/apple-iphone-ipad-nato-classified-information/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Microsoft taps ASUS and Dell for the Windows 365 Cloud PC strategy",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/windows-365-cloud-pc-devices-asus-and-dell/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Coroot: Open-source observability and APM tool",
+    "url": "https://www.helpnetsecurity.com/2026/02/23/coroot-open-source-observability-apm-tool/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Perplexity AI lands on Samsung\u2019s next Galaxy lineup",
+    "url": "https://www.helpnetsecurity.com/2026/02/23/samsung-galaxy-perplexity-ai-agent-expansion/",
+    "source": "helpnet"
+  },
+  {
+    "title": "WhatsApp is adding another lock to your account",
+    "url": "https://www.helpnetsecurity.com/2026/02/23/whatsapp-account-password-feature-beta/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Windows 365 for Agents brings managed cloud PCs to autonomous workflows",
+    "url": "https://www.helpnetsecurity.com/2026/02/24/microsoft-windows-365-for-agents/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Microsoft expands Sovereign Cloud security with governance, local productivity and AI",
+    "url": "https://www.helpnetsecurity.com/2026/02/24/microsoft-sovereign-cloud-updates-ai-capabilities/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Edge systems take the brunt of internet-wide exploitation attempts",
+    "url": "https://www.helpnetsecurity.com/2026/02/25/edge-infrastructure-attacks-internet-wide-exploitation/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Microsoft adds domain libraries and Copilot integration to the quantum development kit",
+    "url": "https://www.helpnetsecurity.com/2026/02/25/microsoft-quantum-development-kit-qdk/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Apple blocks 18+ app downloads in select markets",
+    "url": "https://www.helpnetsecurity.com/2026/02/25/apple-expands-age-verification-controls/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Reddit fined $19.5 million for failing to protect children\u2019s personal data",
+    "url": "https://www.helpnetsecurity.com/2026/02/25/uk-reddit-children-privacy-fine/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Hottest cybersecurity open-source tools of the month: February 2026",
+    "url": "https://www.helpnetsecurity.com/2026/02/26/hottest-cybersecurity-open-source-tools-of-the-month-february-2026/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Wireshark 4.6.4 resolves dissector flaws, plugin compatibility issue",
+    "url": "https://www.helpnetsecurity.com/2026/02/26/wireshark-4-6-4-released/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Fraudsters integrate ChatGPT into global scam campaigns",
+    "url": "https://www.helpnetsecurity.com/2026/02/26/openai-malicious-chatgpt-use-report/",
+    "source": "helpnet"
+  },
+  {
+    "title": "AWS Security Hub Extended brings enterprise security under one roof",
+    "url": "https://www.helpnetsecurity.com/2026/02/26/aws-security-hub-extended-plan/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Android app uses Bluetooth signals to detect nearby smart glasses",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/nearby-glasses-android-app-detect-smart-glasses/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Ransomware activity peaks outside business hours",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/sophos-identity-driven-breaches-report/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Android 17 second beta expands privacy controls for contacts, SMS and local networks",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/android-17-beta-privacy-updates/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Europol goes after The Com\u2019s ransomware and extortion networks",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arrests/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Cybersecurity jobs available right now: February 24, 2026",
+    "url": "https://www.helpnetsecurity.com/2026/02/24/cybersecurity-jobs-available-right-now-february-24-2026/",
+    "source": "helpnet"
+  },
+  {
+    "title": "New infosec products of the month: February 2026",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/new-infosec-products-of-the-month-february-2026/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Cisco patches another actively exploited SD-WAN zero-day (CVE-2026-20182)",
+    "url": "https://www.helpnetsecurity.com/2026/05/15/cisco-sd-wan-zero-day-cve-2026-20182/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Unpatched Microsoft Exchange Server vulnerability exploited (CVE-2026-42897)",
+    "url": "https://www.helpnetsecurity.com/2026/05/15/exchange-server-cve-2026-42897-exploited/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Fragnesia: New Linux kernel LPE bug was spawned by Dirty Frag patch (CVE-2026-46300)",
+    "url": "https://www.helpnetsecurity.com/2026/05/14/fragnesia-cve-2026-46300-linux-lpe-vulnerability/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Download: The IT and security field guide to AI adoption",
+    "url": "https://helpnet.short.gy/cjp1xo",
+    "source": "helpnet"
+  },
+  {
+    "title": "Download: Secure Foundations for AI Workloads on AWS",
+    "url": "https://www.helpnetsecurity.com/2026/05/05/cis-download-secure-foundations-for-ai-workloads-on-aws/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Download: Automating Pentest Delivery Guide",
+    "url": "https://www.helpnetsecurity.com/2026/05/01/plextrac-download-automating-pentest-delivery-guide/",
+    "source": "helpnet"
+  },
+  {
+    "title": "The AI backdoor your security stack is not built to see",
+    "url": "https://www.helpnetsecurity.com/2026/05/18/metabackdoor-llm-backdoor-attack/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Lyrie: Open-source autonomous pentesting agent",
+    "url": "https://www.helpnetsecurity.com/2026/05/18/lyrie-ai-autonomous-pentesting-agent/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Cisco patches another actively exploited SD-WAN zero-day (CVE-2026-20182)",
+    "url": "https://www.helpnetsecurity.com/2026/05/15/cisco-sd-wan-zero-day-cve-2026-20182/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Unpatched Microsoft Exchange Server vulnerability exploited (CVE-2026-42897)",
+    "url": "https://www.helpnetsecurity.com/2026/05/15/exchange-server-cve-2026-42897-exploited/",
+    "source": "helpnet"
+  },
+  {
+    "title": "Deepfake detection is losing ground to generative models",
+    "url": "https://www.helpnetsecurity.com/2026/05/15/research-deepfake-detection-limitations/",
+    "source": "helpnet"
   },
   {
     "title": "Threat Intelligence Platform Buyer's Guide",
@@ -280,6 +600,11 @@
     "source": "linkedin"
   },
   {
+    "title": "May 15, 2026\n\n\n\n            \n        Through the Lens of ISMG: Cybersecurity in the Age of AI Conflict: Resilience, Infrastructure and Geopolitical Risk | Edition 166\n      \n          \n\n\n                  \n          This week\u2019s stories highlight how cyber operations are increasingly being used not just to disrupt systems, but to\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    7\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
+    "url": "https://www.linkedin.com/pulse/through-lens-ismg-cybersecurity-age-brije?trk=article-ssr-frontend-pulse",
+    "source": "linkedin"
+  },
+  {
     "title": "May 8, 2026\n\n\n\n            \n        Through the Lens of ISMG: AI Risk, Critical Infrastructure & Lessons From Modern Breaches | Edition 165\n      \n          \n\n\n                  \n          This week\u2019s cybersecurity headlines reveal a defining shift in the threat landscape: AI systems are becoming both the\u2026\n      \n                \n\n\n\n\n\n\n\n                    11",
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-ai-risk-critical-bktde?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
@@ -322,11 +647,6 @@
   {
     "title": "Feb 21, 2026\n\n\n\n            \n        Through the Lens of ISMG: Ransomware, AI Malware and Infrastructure Exploits | Edition 156\n      \n          \n\n\n                  \n          This week\u2019s roundup reveals a cybersecurity landscape dominated by rapidly evolving attack techniques, where speed and\u2026\n      \n                \n\n\n\n\n\n\n\n                    10",
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-ransomware-ai-malware-hlzfe?trk=article-ssr-frontend-pulse",
-    "source": "linkedin"
-  },
-  {
-    "title": "Feb 13, 2026\n\n\n\n            \n        Through the Lens of ISMG: Escalating Nation-State Activity and Defensive Mobilization | Edition 155\n      \n          \n\n\n                  \n          This week\u2019s developments reflect a sustained escalation in state-aligned cyber activity targeting critical\u2026\n      \n                \n\n\n\n\n\n\n\n                    6\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
-    "url": "https://www.linkedin.com/pulse/through-lens-ismg-escalating-nation-state-azspe?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
   }
 ]
