@@ -1,22 +1,14 @@
 [
   {
     "keyword": "cve",
-    "mentions": 7
+    "mentions": 9
   },
   {
     "keyword": "your",
-    "mentions": 3
+    "mentions": 4
   },
   {
-    "keyword": "attack",
-    "mentions": 3
-  },
-  {
-    "keyword": "code",
-    "mentions": 3
-  },
-  {
-    "keyword": "ransomware",
+    "keyword": "how",
     "mentions": 3
   },
   {
@@ -32,11 +24,19 @@
     "mentions": 2
   },
   {
-    "keyword": "how",
+    "keyword": "attack",
     "mentions": 2
   },
   {
-    "keyword": "cloud",
+    "keyword": "targets",
+    "mentions": 2
+  },
+  {
+    "keyword": "api",
+    "mentions": 2
+  },
+  {
+    "keyword": "code",
     "mentions": 2
   }
 ]

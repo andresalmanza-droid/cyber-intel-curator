@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-05-18
+Date: 2026-05-25
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,23 +12,32 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
+The New Phishing Click: How OAuth Consent Bypasses MFA
+Source: https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html
+
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
 
 Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration
 Source: https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html
 
-Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak
-Source: https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html
+DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability
+Source: https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html
+
+How to Test Ransomware Recovery Without Reinfecting Your Environment
+
+May 25, 2026
+Read ➝
+Source: https://thehackernews.com/expert-insights/2026/05/how-to-test-ransomware-recovery-without.html
 
 Industrial networks continue to leak onto the internet
 Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
 
-Europol goes after The Com’s ransomware and extortion networks
-Source: https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arrests/
+Lessons for organizations from the Verizon 2026 Data Breach Investigations Report
+Source: https://www.helpnetsecurity.com/2026/05/25/lessons-from-verizon-dbir-2026-findings/
 
-Hospitals at Risk of BeyondTrust Ransomware Hacks
-Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
+Boards want cyber risk in dollars, not CVE counts
+Source: https://www.helpnetsecurity.com/2026/05/25/translating-cyber-risk-video/
 
 May 15, 2026
 
@@ -78,14 +87,14 @@ Source: https://thehackernews.uk/airia-demo-req-ar
 When AI Agents Become Your New Attack Surface
 Source: https://thehacker.news/ai-agents-attack-surface?source=recap
 
-Identify Internal Attack Surfaces More Efficiently With a Free Assessment
-Source: https://thehackernews.uk/bitdefender-phasr-assessment
-
 
 === EMERGING_THREAT ===
 
 Google Disrupts UNC2814 GRIDTIDE Campaign
 Source: https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html
+
+Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows
+Source: https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html
 
 UAT-10027 Targets U.S. Education and Healthcare Sectors
 Source: https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html

@@ -84,136 +84,136 @@
     "category": "algo_mas"
   },
   {
-    "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
-    "url": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
-    "source": "hackernews",
-    "category": "brechas"
-  },
-  {
-    "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
-    "url": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
-    "source": "hackernews",
-    "category": "algo_mas"
-  },
-  {
-    "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
-    "url": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
+    "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
+    "url": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
     "source": "hackernews",
     "category": "ia"
   },
   {
-    "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
-    "url": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
-    "url": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
-    "url": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
-    "source": "hackernews",
-    "category": "algo_mas"
-  },
-  {
-    "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
-    "url": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
-    "source": "hackernews",
-    "category": "algo_mas"
-  },
-  {
-    "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
-    "url": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
-    "source": "hackernews",
-    "category": "algo_mas"
-  },
-  {
-    "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
-    "url": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
-    "url": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
+    "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
+    "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
     "source": "hackernews",
     "category": "ciberataques"
   },
   {
-    "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
-    "url": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
+    "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
+    "url": "https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
+    "url": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
     "source": "hackernews",
     "category": "vulnerabilidades"
   },
   {
-    "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
-    "url": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
-    "source": "hackernews",
-    "category": "vulnerabilidades"
-  },
-  {
-    "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI and More Packages",
-    "url": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
-    "url": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
-    "source": "hackernews",
-    "category": "vulnerabilidades"
-  },
-  {
-    "title": "\u26a1 Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
-    "url": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html",
+    "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
+    "url": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
     "source": "hackernews",
     "category": "algo_mas"
   },
   {
-    "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
-    "url": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "[Webinar] Learn How to Handle Critical SOC Alerts With AI Support",
-    "url": "https://thehackernews.uk/cirosec-radiant-soc",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "Identify Internal Attack Surfaces More Efficiently With a Free Assessment",
-    "url": "https://thehackernews.uk/bitdefender-phasr-assessment",
-    "source": "hackernews",
-    "category": "ciberataques"
-  },
-  {
-    "title": "[eBook] Get the 3-Number SOC Diagnostic to Reduce Queue Risk",
-    "url": "https://thehackernews.uk/prophet-queue-breach",
+    "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
+    "url": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
     "source": "hackernews",
     "category": "algo_mas"
   },
   {
-    "title": "[Guide] Stop Email Fraud Before It Turns Into Ransomware Damage",
-    "url": "https://thehackernews.uk/kaseya-phishing-ransomware",
+    "title": "GitHub Breached \u2014 Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
+    "url": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
+    "source": "hackernews",
+    "category": "algo_mas"
+  },
+  {
+    "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
+    "url": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
+    "url": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
+    "source": "hackernews",
+    "category": "ransomware"
+  },
+  {
+    "title": "\u26a1 Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
+    "url": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
     "source": "hackernews",
     "category": "ia"
   },
   {
-    "title": "Building Stronger Defenses\nStop Patient Zero Attacks Before They Bypass Detection\nLearn how to stop patient zero attacks before they bypass detection and compromise your systems at entry points.\nRegister",
-    "url": "https://thehacker.news/patient-zero-playbook?source=below",
+    "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
+    "url": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+    "url": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
+    "url": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
+    "url": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
+    "url": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
     "source": "hackernews",
     "category": "ciberataques"
   },
   {
-    "title": "Reduce AppSec Risk\nValidate Real Attack Paths Before Attackers Exploit Them\nLearn how to validate real attack paths and reduce exploitable risk with continuous agentic security validation.\nRegister",
-    "url": "https://thehacker.news/top-attack-paths-appsec?source=below",
+    "title": "Developer Workstations Are Now Part of the Software Supply Chain",
+    "url": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
     "source": "hackernews",
-    "category": "ciberataques"
+    "category": "ia"
+  },
+  {
+    "title": "Claim ANY.RUN Anniversary Offer for Faster Malware Analysis",
+    "url": "https://thehackernews.uk/anyrun-plans",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "[Guide] Learn to Detect AI Typosquatting Risks in Your Domain",
+    "url": "https://thehackernews.uk/reflectiz-ai-guide",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "[Guide] Get Key Identity Security Insights From 2026 Snapshot",
+    "url": "https://thehackernews.uk/identitygap-2026",
+    "source": "hackernews",
+    "category": "algo_mas"
+  },
+  {
+    "title": "Discover How to Navigate the Era of Constant Cyber Exposure",
+    "url": "https://thehackernews.uk/mythos-exposure-fireside",
+    "source": "hackernews",
+    "category": "algo_mas"
+  },
+  {
+    "title": "With HD Moore (Creator of Metasploit)\nLearn How to Detect Threats Beyond Zero Day Attacks\nLearn practical strategies to detect and defend against cyber threats beyond zero-day vulnerabilities.\nRegister",
+    "url": "https://thehacker.news/beyond-zero-day?source=below",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Tired of False Positives?\nValidate Automated Pentesting Results Before Acting\nLearn how to validate automated pentesting results for accurate security decisions.\nRegister",
+    "url": "https://thehacker.news/validate-automated-pentesting?source=below",
+    "source": "hackernews",
+    "category": "algo_mas"
   },
   {
     "title": "AI Is Reshaping Every Attack Surface. Train for What's NextSANSFIRE 2026 in D.C. brings 50+ courses, AI-focused sessions, and NetWars. July 13\u201318. Save $500.",
@@ -234,28 +234,28 @@
     "category": "algo_mas"
   },
   {
-    "title": "Time-to-Revoke: The Metric CISOs Need in the AI Exploit Era\n\n\ue802May 18, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/05/time-to-revoke-metric-cisos-need-in-ai.html",
+    "title": "You Can't Patch Your Way Out of This One\n\n\ue802May 25, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/05/you-cant-patch-your-way-out-of-this-one.html",
     "source": "hackernews",
-    "category": "ia"
+    "category": "vulnerabilidades"
   },
   {
-    "title": "Agentic Attacks Arrived Over a Year Ago. Your Remediation Hasn't Caught Up.\n\n\ue802May 18, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/05/agentic-attacks-arrived-over-year-ago.html",
+    "title": "How to Test Ransomware Recovery Without Reinfecting Your Environment\n\n\ue802May 25, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/05/how-to-test-ransomware-recovery-without.html",
     "source": "hackernews",
-    "category": "ciberataques"
+    "category": "ransomware"
+  },
+  {
+    "title": "Before the Whistle: CTM360 Reveals How Cybercriminals Are Weaponizing FIFA World Cup 2026 Hype\n\n\ue802May 25, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/05/before-whistle-ctm360-reveals-how.html",
+    "source": "hackernews",
+    "category": "algo_mas"
   },
   {
     "title": "7 Signs Your Organization Is Vulnerable to Business Email Compromise\n\n\ue802May 18, 2026\nRead \u279d",
     "url": "https://thehackernews.com/expert-insights/2026/05/7-signs-your-organization-is-vulnerable.html",
     "source": "hackernews",
     "category": "ia"
-  },
-  {
-    "title": "The Non-Human Identity Crisis: Why Your Machine Identities Are Your Biggest Governance Gap\n\n\ue802May 18, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/05/the-non-human-identity-crisis-why-your.html",
-    "source": "hackernews",
-    "category": "algo_mas"
   },
   {
     "title": "Identity verification systems are struggling with synthetic fraud",
@@ -570,22 +570,22 @@
     "category": "algo_mas"
   },
   {
-    "title": "Cisco patches another actively exploited SD-WAN zero-day (CVE-2026-20182)",
-    "url": "https://www.helpnetsecurity.com/2026/05/15/cisco-sd-wan-zero-day-cve-2026-20182/",
+    "title": "Lessons for organizations from the Verizon 2026 Data Breach Investigations Report",
+    "url": "https://www.helpnetsecurity.com/2026/05/25/lessons-from-verizon-dbir-2026-findings/",
     "source": "helpnet",
-    "category": "vulnerabilidades"
+    "category": "brechas"
   },
   {
-    "title": "Unpatched Microsoft Exchange Server vulnerability exploited (CVE-2026-42897)",
-    "url": "https://www.helpnetsecurity.com/2026/05/15/exchange-server-cve-2026-42897-exploited/",
+    "title": "OpenHack: Open-source AI-powered vulnerability research",
+    "url": "https://www.helpnetsecurity.com/2026/05/25/openhack-open-source-ai-powered-vulnerability-research/",
     "source": "helpnet",
-    "category": "vulnerabilidades"
+    "category": "ia"
   },
   {
-    "title": "Fragnesia: New Linux kernel LPE bug was spawned by Dirty Frag patch (CVE-2026-46300)",
-    "url": "https://www.helpnetsecurity.com/2026/05/14/fragnesia-cve-2026-46300-linux-lpe-vulnerability/",
+    "title": "$20 per zero-day is already the WordPress plugin reality",
+    "url": "https://www.helpnetsecurity.com/2026/05/22/ai-wordpress-plugin-vulnerabilities/",
     "source": "helpnet",
-    "category": "vulnerabilidades"
+    "category": "algo_mas"
   },
   {
     "title": "Download: The IT and security field guide to AI adoption",
@@ -606,20 +606,14 @@
     "category": "algo_mas"
   },
   {
-    "title": "The AI backdoor your security stack is not built to see",
-    "url": "https://www.helpnetsecurity.com/2026/05/18/metabackdoor-llm-backdoor-attack/",
+    "title": "Boards want cyber risk in dollars, not CVE counts",
+    "url": "https://www.helpnetsecurity.com/2026/05/25/translating-cyber-risk-video/",
     "source": "helpnet",
-    "category": "ia"
+    "category": "riesgo"
   },
   {
-    "title": "Lyrie: Open-source autonomous pentesting agent",
-    "url": "https://www.helpnetsecurity.com/2026/05/18/lyrie-ai-autonomous-pentesting-agent/",
-    "source": "helpnet",
-    "category": "algo_mas"
-  },
-  {
-    "title": "Deepfake detection is losing ground to generative models",
-    "url": "https://www.helpnetsecurity.com/2026/05/15/research-deepfake-detection-limitations/",
+    "title": "Deleted Google API keys keep working for up to 23 minutes, researchers warn",
+    "url": "https://www.helpnetsecurity.com/2026/05/22/deleted-google-api-keys-risk/",
     "source": "helpnet",
     "category": "algo_mas"
   },
@@ -690,13 +684,19 @@
     "category": "algo_mas"
   },
   {
+    "title": "May 22, 2026\n\n\n\n            \n        AI Power Struggles, Governance Battles & the Race to Trillion-Dollar Dominance | Edition 167\n      \n          \n\n\n                  \n          China-Aligned Webworm Adds Discord, OneDrive Backdoors Security researchers uncovered new activity from a\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    12\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
+    "url": "https://www.linkedin.com/pulse/ai-power-struggles-governance-battles-iysaf?trk=article-ssr-frontend-pulse",
+    "source": "linkedin",
+    "category": "ia"
+  },
+  {
     "title": "May 15, 2026\n\n\n\n            \n        Through the Lens of ISMG: Cybersecurity in the Age of AI Conflict: Resilience, Infrastructure and Geopolitical Risk | Edition 166\n      \n          \n\n\n                  \n          This week\u2019s stories highlight how cyber operations are increasingly being used not just to disrupt systems, but to\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    7\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-cybersecurity-age-brije?trk=article-ssr-frontend-pulse",
     "source": "linkedin",
     "category": "riesgo"
   },
   {
-    "title": "May 8, 2026\n\n\n\n            \n        Through the Lens of ISMG: AI Risk, Critical Infrastructure & Lessons From Modern Breaches | Edition 165\n      \n          \n\n\n                  \n          This week\u2019s cybersecurity headlines reveal a defining shift in the threat landscape: AI systems are becoming both the\u2026\n      \n                \n\n\n\n\n\n\n\n                    11",
+    "title": "May 8, 2026\n\n\n\n            \n        Through the Lens of ISMG: AI Risk, Critical Infrastructure & Lessons From Modern Breaches | Edition 165\n      \n          \n\n\n                  \n          This week\u2019s cybersecurity headlines reveal a defining shift in the threat landscape: AI systems are becoming both the\u2026\n      \n                \n\n\n\n\n\n\n\n                    12",
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-ai-risk-critical-bktde?trk=article-ssr-frontend-pulse",
     "source": "linkedin",
     "category": "ia"
@@ -740,12 +740,6 @@
   {
     "title": "Mar 6, 2026\n\n\n\n            \n        Through the Lens of ISMG: War in the Middle East Raises Global Cyber Stakes | Edition 158\n      \n          \n\n\n                  \n          Escalating tensions in the Middle East dominated headlines this week as the United States and Israel launched major\u2026\n      \n                \n\n\n\n\n\n\n\n                    15\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-war-middle-east-raises-akeqf?trk=article-ssr-frontend-pulse",
-    "source": "linkedin",
-    "category": "ia"
-  },
-  {
-    "title": "Feb 21, 2026\n\n\n\n            \n        Through the Lens of ISMG: Ransomware, AI Malware and Infrastructure Exploits | Edition 156\n      \n          \n\n\n                  \n          This week\u2019s roundup reveals a cybersecurity landscape dominated by rapidly evolving attack techniques, where speed and\u2026\n      \n                \n\n\n\n\n\n\n\n                    10",
-    "url": "https://www.linkedin.com/pulse/through-lens-ismg-ransomware-ai-malware-hlzfe?trk=article-ssr-frontend-pulse",
     "source": "linkedin",
     "category": "ia"
   }
