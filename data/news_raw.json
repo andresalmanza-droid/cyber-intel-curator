@@ -185,18 +185,23 @@
     "source": "hackernews"
   },
   {
-    "title": "AI Is Reshaping Every Attack Surface. Train for What's NextSANSFIRE 2026 in D.C. brings 50+ courses, AI-focused sessions, and NetWars. July 13\u201318. Save $500.",
-    "url": "https://thehackernews.uk/sans-training-fire",
+    "title": "5 Steps to Secure Against Software Vulnerabilities Discovered by AI ModelsAI has emerged as a potent weapon in cybersecurity. Learn how to best safeguard your organization.",
+    "url": "https://thehackernews.uk/ai-vuln-secure-steps",
     "source": "hackernews"
   },
   {
-    "title": "Your VPN is Helping Attackers Move as Fast as AIAI collapsed human response window and turned remote access into fastest path to breach.",
-    "url": "https://thehackernews.uk/zscaler-risk-vpn-2026",
+    "title": "The CISO\u2019s Guide: Transitioning from VPN to Comprehensive ZTNAModernize secure access and eliminate lateral movement by connecting users directly to applications, not the network.",
+    "url": "https://thehackernews.uk/vpn-ztna-guide",
     "source": "hackernews"
   },
   {
     "title": "Earn a Master's in Cybersecurity Risk ManagementLead the future of cybersecurity risk management with an online Master\u2019s from Georgetown.",
     "url": "https://thehackernews.uk/cyber-risk-program",
+    "source": "hackernews"
+  },
+  {
+    "title": "Why Fragmented Identity Pipelines Fail Against Digital Injections\n\n\ue802June 1, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/06/why-fragmented-identity-pipelines-fail.html",
     "source": "hackernews"
   },
   {
@@ -210,13 +215,8 @@
     "source": "hackernews"
   },
   {
-    "title": "Before the Whistle: CTM360 Reveals How Cybercriminals Are Weaponizing FIFA World Cup 2026 Hype\n\n\ue802May 25, 2026\nRead \u279d",
+    "title": "The Scam Before the Game: CTM360 Reveals Threats Targeting FIFA World Cup 2026 Fans\n\n\ue802May 25, 2026\nRead \u279d",
     "url": "https://thehackernews.com/expert-insights/2026/05/before-whistle-ctm360-reveals-how.html",
-    "source": "hackernews"
-  },
-  {
-    "title": "7 Signs Your Organization Is Vulnerable to Business Email Compromise\n\n\ue802May 18, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/05/7-signs-your-organization-is-vulnerable.html",
     "source": "hackernews"
   },
   {
@@ -480,18 +480,18 @@
     "source": "helpnet"
   },
   {
-    "title": "Lessons for organizations from the Verizon 2026 Data Breach Investigations Report",
-    "url": "https://www.helpnetsecurity.com/2026/05/25/lessons-from-verizon-dbir-2026-findings/",
+    "title": "Windows Netlogon RCE exploited, domain controllers at risk (CVE-2026-41089)",
+    "url": "https://www.helpnetsecurity.com/2026/06/01/windows-netlogon-rce-exploited-cve-2026-41089/",
     "source": "helpnet"
   },
   {
-    "title": "OpenHack: Open-source AI-powered vulnerability research",
-    "url": "https://www.helpnetsecurity.com/2026/05/25/openhack-open-source-ai-powered-vulnerability-research/",
+    "title": "How NIST fumbled management of the National Vulnerability Database",
+    "url": "https://www.helpnetsecurity.com/2026/06/01/nist-nvd-management-problems/",
     "source": "helpnet"
   },
   {
-    "title": "$20 per zero-day is already the WordPress plugin reality",
-    "url": "https://www.helpnetsecurity.com/2026/05/22/ai-wordpress-plugin-vulnerabilities/",
+    "title": "Hackers are exploiting Palo Alto GlobalProtect VPN authentication bypass (CVE-2026-0257)",
+    "url": "https://www.helpnetsecurity.com/2026/06/01/hackers-are-exploiting-palo-alto-globalprotect-vpn-authentication-bypass-cve-2026-0257/",
     "source": "helpnet"
   },
   {
@@ -510,49 +510,29 @@
     "source": "helpnet"
   },
   {
-    "title": "Lessons for organizations from the Verizon 2026 Data Breach Investigations Report",
-    "url": "https://www.helpnetsecurity.com/2026/05/25/lessons-from-verizon-dbir-2026-findings/",
+    "title": "Windows Netlogon RCE exploited, domain controllers at risk (CVE-2026-41089)",
+    "url": "https://www.helpnetsecurity.com/2026/06/01/windows-netlogon-rce-exploited-cve-2026-41089/",
     "source": "helpnet"
   },
   {
-    "title": "OpenHack: Open-source AI-powered vulnerability research",
-    "url": "https://www.helpnetsecurity.com/2026/05/25/openhack-open-source-ai-powered-vulnerability-research/",
+    "title": "How NIST fumbled management of the National Vulnerability Database",
+    "url": "https://www.helpnetsecurity.com/2026/06/01/nist-nvd-management-problems/",
     "source": "helpnet"
   },
   {
-    "title": "Boards want cyber risk in dollars, not CVE counts",
-    "url": "https://www.helpnetsecurity.com/2026/05/25/translating-cyber-risk-video/",
+    "title": "Hackers are exploiting Palo Alto GlobalProtect VPN authentication bypass (CVE-2026-0257)",
+    "url": "https://www.helpnetsecurity.com/2026/06/01/hackers-are-exploiting-palo-alto-globalprotect-vpn-authentication-bypass-cve-2026-0257/",
     "source": "helpnet"
   },
   {
-    "title": "$20 per zero-day is already the WordPress plugin reality",
-    "url": "https://www.helpnetsecurity.com/2026/05/22/ai-wordpress-plugin-vulnerabilities/",
+    "title": "NVIDIA goes open source with a big batch of physical AI agent tools",
+    "url": "https://www.helpnetsecurity.com/2026/06/01/nvidia-open-source-physical-ai-skills/",
     "source": "helpnet"
   },
   {
-    "title": "Deleted Google API keys keep working for up to 23 minutes, researchers warn",
-    "url": "https://www.helpnetsecurity.com/2026/05/22/deleted-google-api-keys-risk/",
+    "title": "Data discovery gaps that catch enterprises off guard",
+    "url": "https://www.helpnetsecurity.com/2026/06/01/avani-desai-schellman-data-discovery-gaps/",
     "source": "helpnet"
-  },
-  {
-    "title": "Threat Intelligence Platform Buyer's Guide",
-    "url": "https://go.cyware.com/2025-threat-intelligence-buyers-guide",
-    "source": "cyware"
-  },
-  {
-    "title": "AI-Powered Threat Intelligence Management",
-    "url": "https://go.cyware.com/agentic-ai-powered-threat-intelligence-management",
-    "source": "cyware"
-  },
-  {
-    "title": "Threat Intelligence Platform Buyer's Guide",
-    "url": "https://go.cyware.com/2025-threat-intelligence-buyers-guide",
-    "source": "cyware"
-  },
-  {
-    "title": "AI-Powered Threat Intelligence Management",
-    "url": "https://go.cyware.com/agentic-ai-powered-threat-intelligence-management",
-    "source": "cyware"
   },
   {
     "title": "Hospitals at Risk of BeyondTrust Ransomware Hacks",
@@ -600,7 +580,12 @@
     "source": "linkedin"
   },
   {
-    "title": "May 22, 2026\n\n\n\n            \n        AI Power Struggles, Governance Battles & the Race to Trillion-Dollar Dominance | Edition 167\n      \n          \n\n\n                  \n          China-Aligned Webworm Adds Discord, OneDrive Backdoors Security researchers uncovered new activity from a\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    12\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
+    "title": "May 29, 2026\n\n\n\n            \n        Agentic AI Risks, Healthcare Breaches & the Expanding Cyber Attack Surface | Edition 168\n      \n          \n\n\n                  \n          Agentic AI in Healthcare Is a Risky Proposition Humans make mistakes. They fall for phishing scams and click on\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    9\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
+    "url": "https://www.linkedin.com/pulse/agentic-ai-risks-healthcare-breaches-6tvof?trk=article-ssr-frontend-pulse",
+    "source": "linkedin"
+  },
+  {
+    "title": "May 22, 2026\n\n\n\n            \n        AI Power Struggles, Governance Battles & the Race to Trillion-Dollar Dominance | Edition 167\n      \n          \n\n\n                  \n          China-Aligned Webworm Adds Discord, OneDrive Backdoors Security researchers uncovered new activity from a\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    13\n              \n\n\n \n\n \n\n\n\n\n\n        \n                2 Comments",
     "url": "https://www.linkedin.com/pulse/ai-power-struggles-governance-battles-iysaf?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
   },
@@ -642,11 +627,6 @@
   {
     "title": "Mar 13, 2026\n\n\n\n            \n        Through the Lens of ISMG: Key Highlights from Nullcon Goa 2026 | Edition 159\n      \n          \n\n\n                  \n          Nullcon, Asia\u2019s leading hacker-first cybersecurity conference, returned to Goa for its 16th edition, bringing together\u2026\n      \n                \n\n\n\n\n\n\n\n\n\n                    7\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-key-highlights-from-5fmwe?trk=article-ssr-frontend-pulse",
-    "source": "linkedin"
-  },
-  {
-    "title": "Mar 6, 2026\n\n\n\n            \n        Through the Lens of ISMG: War in the Middle East Raises Global Cyber Stakes | Edition 158\n      \n          \n\n\n                  \n          Escalating tensions in the Middle East dominated headlines this week as the United States and Israel launched major\u2026\n      \n                \n\n\n\n\n\n\n\n                    15\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
-    "url": "https://www.linkedin.com/pulse/through-lens-ismg-war-middle-east-raises-akeqf?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
   }
 ]

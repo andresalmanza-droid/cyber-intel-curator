@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-05-25
+Date: 2026-06-01
 
 Strategic cybersecurity signals identified this week.
 
@@ -32,12 +32,6 @@ Source: https://thehackernews.com/expert-insights/2026/05/how-to-test-ransomware
 
 Industrial networks continue to leak onto the internet
 Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
-
-Lessons for organizations from the Verizon 2026 Data Breach Investigations Report
-Source: https://www.helpnetsecurity.com/2026/05/25/lessons-from-verizon-dbir-2026-findings/
-
-Boards want cyber risk in dollars, not CVE counts
-Source: https://www.helpnetsecurity.com/2026/05/25/translating-cyber-risk-video/
 
 May 15, 2026
 
