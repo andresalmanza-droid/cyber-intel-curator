@@ -35,15 +35,15 @@
     "signal": "general_signal"
   },
   {
-    "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
-    "url": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
+    "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
+    "url": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html",
     "source": "hackernews",
     "category": "ciberataques",
-    "signal": "emerging_threat"
+    "signal": "general_signal"
   },
   {
-    "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
-    "url": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
+    "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
+    "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
@@ -70,17 +70,10 @@
     "signal": "general_signal"
   },
   {
-    "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
-    "url": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
-    "source": "hackernews",
-    "category": "ransomware",
-    "signal": "general_signal"
-  },
-  {
-    "title": "How to Test Ransomware Recovery Without Reinfecting Your Environment\n\n\ue802May 25, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/05/how-to-test-ransomware-recovery-without.html",
-    "source": "hackernews",
-    "category": "ransomware",
+    "title": "Industrial networks continue to leak onto the internet",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
+    "source": "helpnet",
+    "category": "brechas",
     "signal": "general_signal"
   },
   {
@@ -91,10 +84,24 @@
     "signal": "consolidated_threat"
   },
   {
-    "title": "Industrial networks continue to leak onto the internet",
-    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
+    "title": "Europol goes after The Com\u2019s ransomware and extortion networks",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arrests/",
     "source": "helpnet",
-    "category": "brechas",
+    "category": "ransomware",
+    "signal": "general_signal"
+  },
+  {
+    "title": "Qilin ransomware affiliate exploited Check Point VPN zero-day (CVE-2026-50751)",
+    "url": "https://www.helpnetsecurity.com/2026/06/08/check-point-cve-2026-50751-qilin-ransomware/",
+    "source": "helpnet",
+    "category": "ransomware",
+    "signal": "general_signal"
+  },
+  {
+    "title": "Jun 5, 2026\n\n\n\n            \n        Through the Lens of ISMG: Governance in the Age of AI and Cyber Risk | Edition 169\n      \n          \n\n\n                  \n          Who is prepared to govern the next generation of cyber and AI risk? That question runs through this week's edition as\u2026\n      \n                \n\n\n\n\n\n\n\n\n\n                    8\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
+    "url": "https://www.linkedin.com/pulse/through-lens-ismg-governance-age-ai-syszf?trk=article-ssr-frontend-pulse",
+    "source": "linkedin",
+    "category": "riesgo",
     "signal": "general_signal"
   },
   {
