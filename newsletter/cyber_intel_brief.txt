@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-06-08
+Date: 2026-06-15
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,11 +12,11 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
-Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded
-Source: https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html
+Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication
+Source: https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html
 
-ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface
-Source: https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html
+[Watch Demo] See Which Security Gaps Attackers Could Exploit First
+Source: https://thehackernews.uk/demo-exposure-validation
 
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
@@ -30,8 +30,8 @@ Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersec
 Europol goes after The Com’s ransomware and extortion networks
 Source: https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arrests/
 
-Qilin ransomware affiliate exploited Check Point VPN zero-day (CVE-2026-50751)
-Source: https://www.helpnetsecurity.com/2026/06/08/check-point-cve-2026-50751-qilin-ransomware/
+Hospitals at Risk of BeyondTrust Ransomware Hacks
+Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
 
 Jun 5, 2026
 
@@ -128,6 +128,9 @@ Source: https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html
 
 UAT-10027 Targets U.S. Education and Healthcare Sectors
 Source: https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html
+
+China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade
+Source: https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html
 
 
 === CONSOLIDATED_THREAT ===

@@ -70,108 +70,98 @@
     "source": "hackernews"
   },
   {
-    "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
-    "url": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
+    "title": "Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now",
+    "url": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
     "source": "hackernews"
   },
   {
-    "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
-    "url": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html",
+    "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models",
+    "url": "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html",
     "source": "hackernews"
   },
   {
-    "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
-    "url": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html",
+    "title": "Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows",
+    "url": "https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html",
     "source": "hackernews"
   },
   {
-    "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
-    "url": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
+    "title": "Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards",
+    "url": "https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html",
     "source": "hackernews"
   },
   {
-    "title": "\u26a1 Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
-    "url": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
+    "title": "Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs",
+    "url": "https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html",
     "source": "hackernews"
   },
   {
-    "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
-    "url": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
+    "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
+    "url": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html",
     "source": "hackernews"
   },
   {
-    "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-    "url": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
+    "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
+    "url": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
     "source": "hackernews"
   },
   {
-    "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
-    "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+    "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
+    "url": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
     "source": "hackernews"
   },
   {
-    "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
-    "url": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
+    "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
+    "url": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
     "source": "hackernews"
   },
   {
-    "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
-    "url": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
+    "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
+    "url": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
     "source": "hackernews"
   },
   {
-    "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
-    "url": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
+    "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+    "url": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
     "source": "hackernews"
   },
   {
-    "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
-    "url": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
+    "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
+    "url": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
     "source": "hackernews"
   },
   {
-    "title": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub",
-    "url": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html",
+    "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
+    "url": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
     "source": "hackernews"
   },
   {
-    "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
-    "url": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
+    "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
+    "url": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
     "source": "hackernews"
   },
   {
-    "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
-    "url": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
+    "title": "Get the 2026 Guide to Govern and Secure Enterprise AI Agents at Scale",
+    "url": "https://thehackernews.uk/guardian-agents-2026",
     "source": "hackernews"
   },
   {
-    "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
-    "url": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
+    "title": "[Watch Demo] See Which Security Gaps Attackers Could Exploit First",
+    "url": "https://thehackernews.uk/demo-exposure-validation",
     "source": "hackernews"
   },
   {
-    "title": "Your Employees Are Using AI in Ways You Can\u2019t See \u2013 2026 State of AI Report",
-    "url": "https://thehackernews.uk/layerx-ai-report",
+    "title": "AI Can\u2019t Stop Every Attack. Learn How Zero Trust Can Block What\u2019s Unknown",
+    "url": "https://thehackernews.uk/ai-battle-short",
     "source": "hackernews"
   },
   {
-    "title": "Learn How to Stop Attacks Before They Reach Your EDR \u2013 With PHASR",
-    "url": "https://thehackernews.uk/bitdefender-gravity-phasr",
+    "title": "Have You Outgrown Your MDR? 7 Warning Signs Every CISO Should Check",
+    "url": "https://thehackernews.uk/mdr-checklist-2026",
     "source": "hackernews"
   },
   {
-    "title": "Watch AI Turn Vulnerabilities Into Working Exploits in Minutes (See the Demo)",
-    "url": "https://thehackernews.uk/wtwr-proactive-security",
-    "source": "hackernews"
-  },
-  {
-    "title": "[Guide] The Real Security Risks of Shadow AI (And Where You\u2019re Exposed)",
-    "url": "https://thehackernews.uk/info-red-access",
-    "source": "hackernews"
-  },
-  {
-    "title": "With HD Moore (Creator of Metasploit)\nLearn How to Detect Threats Beyond Zero Day Attacks\nLearn practical strategies to detect and defend against cyber threats beyond zero-day vulnerabilities.\nRegister",
-    "url": "https://thehacker.news/beyond-zero-day?source=below",
+    "title": "Governing AI Identities\nHow to Bring Hidden AI Into the Light: A Practical Lifecycle Guide\nLearn how to map hidden AI tools and agents directly to human owners. Join SailPoint to unify human, machine, and AI identities.\nRegister",
+    "url": "https://thehacker.news/securing-ai-use?source=below",
     "source": "hackernews"
   },
   {
@@ -195,23 +185,23 @@
     "source": "hackernews"
   },
   {
+    "title": "Why Runtime Scanning Is Too Late for Your CI/CD Supply Chain Security\n\n\ue802June 15, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/06/why-runtime-scanning-is-too-late-for.html",
+    "source": "hackernews"
+  },
+  {
+    "title": "The Riskiest Alerts No One Triages\n\n\ue802June 15, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/videos/2026/06/the-riskiest-alerts-no-one-triages.html",
+    "source": "hackernews"
+  },
+  {
+    "title": "Why Active Directory Vulnerabilities Demand More Than a Patch\n\n\ue802June 15, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/06/why-active-directory-vulnerabilities.html",
+    "source": "hackernews"
+  },
+  {
     "title": "Hacking Salesforce Sites With an LLM Agent\n\n\ue802June 8, 2026\nRead \u279d",
     "url": "https://thehackernews.com/expert-insights/2026/06/hacking-salesforce-sites-with-llm-agent.html",
-    "source": "hackernews"
-  },
-  {
-    "title": "How Attackers Are Adding AI Voice Cloning to Microsoft Teams Attacks\n\n\ue802June 8, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/06/how-attackers-are-adding-ai-voice.html",
-    "source": "hackernews"
-  },
-  {
-    "title": "Endpoint Detection and Response Is Now Table Stakes \u2014 Here\u2019s What Comes Next\n\n\ue802June 1, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/06/endpoint-detection-response-is-now.html",
-    "source": "hackernews"
-  },
-  {
-    "title": "Why Fragmented Identity Pipelines Fail Against Digital Injections\n\n\ue802June 1, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/06/why-fragmented-identity-pipelines-fail.html",
     "source": "hackernews"
   },
   {
@@ -475,18 +465,18 @@
     "source": "helpnet"
   },
   {
-    "title": "Qilin ransomware affiliate exploited Check Point VPN zero-day (CVE-2026-50751)",
-    "url": "https://www.helpnetsecurity.com/2026/06/08/check-point-cve-2026-50751-qilin-ransomware/",
+    "title": "Onspring CISO on where automated GRC systems fall short",
+    "url": "https://www.helpnetsecurity.com/2026/06/15/nichole-windholz-onspring-automated-grc-systems/",
     "source": "helpnet"
   },
   {
-    "title": "CISA: Patch actively exploited SolarWinds Serv-U DoS vulnerability (CVE-2026-28318)",
-    "url": "https://www.helpnetsecurity.com/2026/06/08/cisa-patch-actively-exploited-solarwinds-serv-u-dos-vulnerability-cve-2026-28318/",
+    "title": "A hardware neural network backdoor that hides in plain sight",
+    "url": "https://www.helpnetsecurity.com/2026/06/15/hardware-neural-network-backdoor-research/",
     "source": "helpnet"
   },
   {
-    "title": "DockSec: Open-source AI-powered Docker security scanner",
-    "url": "https://www.helpnetsecurity.com/2026/06/08/docksec-open-source-ai-docker-security-scanner/",
+    "title": "Senior engineers are spending their week cleaning up AI-generated code",
+    "url": "https://www.helpnetsecurity.com/2026/06/15/ai-generated-code-review-issues/",
     "source": "helpnet"
   },
   {
@@ -505,13 +495,13 @@
     "source": "helpnet"
   },
   {
-    "title": "Cisco SD-WAN 0-day exploited, no patch available (CVE-2026-20245)",
-    "url": "https://www.helpnetsecurity.com/2026/06/05/cisco-sd-wan-cve-2026-20245-0-day-exploited/",
+    "title": "Open-source CI/CD abuse detector guards against stolen credential attacks",
+    "url": "https://www.helpnetsecurity.com/2026/06/15/ci-cd-abuse-detector-open-source/",
     "source": "helpnet"
   },
   {
-    "title": "June 2026 Patch Tuesday forecast: Where are the CVEs?",
-    "url": "https://www.helpnetsecurity.com/2026/06/05/june-2026-patch-tuesday-forecast/",
+    "title": "Proving what a military AI model will do is the real problem",
+    "url": "https://www.helpnetsecurity.com/2026/06/15/military-ai-verification-problem/",
     "source": "helpnet"
   },
   {
@@ -570,6 +560,11 @@
     "source": "linkedin"
   },
   {
+    "title": "Jun 12, 2026\n\n\n\n            \n        Tracking the rise, risks, and regulation of intelligent systems | Edition 170\n      \n          \n\n\n                  \n          Artificial intelligence is no longer just enhancing cybersecurity; it is redefining it. As AI capabilities advance\u2026\n      \n                \n\n\n\n\n\n\n\n                    10",
+    "url": "https://www.linkedin.com/pulse/tracking-rise-risks-regulation-intelligent-hpzof?trk=article-ssr-frontend-pulse",
+    "source": "linkedin"
+  },
+  {
     "title": "Jun 5, 2026\n\n\n\n            \n        Through the Lens of ISMG: Governance in the Age of AI and Cyber Risk | Edition 169\n      \n          \n\n\n                  \n          Who is prepared to govern the next generation of cyber and AI risk? That question runs through this week's edition as\u2026\n      \n                \n\n\n\n\n\n\n\n\n\n                    8\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-governance-age-ai-syszf?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
@@ -612,11 +607,6 @@
   {
     "title": "Apr 3, 2026\n\n\n\n            \n        Through the Lens of ISMG: RSAC 2026 Reflects a Turning Point for AI and Cybersecurity | Edition 161\n      \n          \n\n\n                  \n          This week, we dove deep into a curated set of expert conversations from RSAC 2026, and one theme is unmistakable: AI is\u2026\n      \n                \n\n\n\n\n\n\n\n                    7",
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-rsac-2026-reflects-wf9qf?trk=article-ssr-frontend-pulse",
-    "source": "linkedin"
-  },
-  {
-    "title": "Mar 20, 2026\n\n\n\n            \n        Through the Lens of ISMG: ISMG Studio at Gartner IAM London | Key Takeaways| Edition 160\n      \n          \n\n\n                  \n          At Gartner IAM London, discussions reflected how identity is rapidly evolving under the influence of AI-driven\u2026\n      \n                \n\n\n\n\n\n\n\n                    7",
-    "url": "https://www.linkedin.com/pulse/through-lens-ismg-studio-gartner-iam-v32af?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
   }
 ]

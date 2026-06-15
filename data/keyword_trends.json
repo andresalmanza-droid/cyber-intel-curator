@@ -1,10 +1,18 @@
 [
   {
     "keyword": "cve",
-    "mentions": 8
+    "mentions": 7
+  },
+  {
+    "keyword": "risk",
+    "mentions": 4
   },
   {
     "keyword": "your",
+    "mentions": 3
+  },
+  {
+    "keyword": "code",
     "mentions": 3
   },
   {
@@ -20,23 +28,15 @@
     "mentions": 3
   },
   {
-    "keyword": "risk",
-    "mentions": 3
-  },
-  {
     "keyword": "edition",
     "mentions": 3
   },
   {
-    "keyword": "day",
+    "keyword": "critical",
     "mentions": 2
   },
   {
     "keyword": "control",
-    "mentions": 2
-  },
-  {
-    "keyword": "agents",
     "mentions": 2
   }
 ]

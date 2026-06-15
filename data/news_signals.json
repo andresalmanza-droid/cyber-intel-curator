@@ -49,15 +49,15 @@
     "signal": "general_signal"
   },
   {
-    "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
-    "url": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html",
+    "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
+    "url": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
   {
-    "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
-    "url": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+    "title": "[Watch Demo] See Which Security Gaps Attackers Could Exploit First",
+    "url": "https://thehackernews.uk/demo-exposure-validation",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
@@ -84,6 +84,13 @@
     "signal": "general_signal"
   },
   {
+    "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+    "url": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
+    "source": "hackernews",
+    "category": "geopolitica",
+    "signal": "emerging_threat"
+  },
+  {
     "title": "Industrial networks continue to leak onto the internet",
     "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
     "source": "helpnet",
@@ -105,9 +112,9 @@
     "signal": "general_signal"
   },
   {
-    "title": "Qilin ransomware affiliate exploited Check Point VPN zero-day (CVE-2026-50751)",
-    "url": "https://www.helpnetsecurity.com/2026/06/08/check-point-cve-2026-50751-qilin-ransomware/",
-    "source": "helpnet",
+    "title": "Hospitals at Risk of BeyondTrust Ransomware Hacks",
+    "url": "https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block",
+    "source": "linkedin",
     "category": "ransomware",
     "signal": "general_signal"
   },
