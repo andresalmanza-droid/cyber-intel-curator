@@ -140,6 +140,16 @@
     "source": "hackernews"
   },
   {
+    "title": "Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw",
+    "url": "https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html",
+    "source": "hackernews"
+  },
+  {
+    "title": "\u26a1 Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
+    "url": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html",
+    "source": "hackernews"
+  },
+  {
     "title": "Get the 2026 Guide to Govern and Secure Enterprise AI Agents at Scale",
     "url": "https://thehackernews.uk/guardian-agents-2026",
     "source": "hackernews"
@@ -160,13 +170,13 @@
     "source": "hackernews"
   },
   {
-    "title": "Governing AI Identities\nHow to Bring Hidden AI Into the Light: A Practical Lifecycle Guide\nLearn how to map hidden AI tools and agents directly to human owners. Join SailPoint to unify human, machine, and AI identities.\nRegister",
+    "title": "A Practical Security Guide\nHow to Find and Govern Hidden AI Use Across Your Business\nLearn how to uncover hidden AI use, see what data it can access, map every AI action to a human owner, and apply practical governance without heavy infrastructure changes.\nRegister",
     "url": "https://thehacker.news/securing-ai-use?source=below",
     "source": "hackernews"
   },
   {
-    "title": "Tired of False Positives?\nValidate Automated Pentesting Results Before Acting\nLearn how to validate automated pentesting results for accurate security decisions.\nRegister",
-    "url": "https://thehacker.news/validate-automated-pentesting?source=below",
+    "title": "Tired of False Positives?\nHow to Stop AI-Powered Attacks Before They Move Across Your Network\nLearn how to contain Mythos-style AI attacks with practical Zero Trust controls that reduce exposure, stop lateral movement, and limit risk.\nRegister",
+    "url": "https://thehacker.news/outpacing-mythos-cyberattacks?source=below",
     "source": "hackernews"
   },
   {
@@ -185,23 +195,23 @@
     "source": "hackernews"
   },
   {
+    "title": "Building a Security Strategy for AI-Powered Ransomware Attacks\n\n\ue802June 22, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/videos/2026/06/building-security-strategy-for-ai.html",
+    "source": "hackernews"
+  },
+  {
+    "title": "Identity Security in 2026: The Brutal Truth Enterprises Still Avoid\n\n\ue802June 22, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/06/identity-security-in-2026-brutal-truth.html",
+    "source": "hackernews"
+  },
+  {
+    "title": "Beyond Blocking: Disrupting the Social Engineering Attack Chain\n\n\ue802June 22, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/06/beyond-blocking-disrupting-social.html",
+    "source": "hackernews"
+  },
+  {
     "title": "Why Runtime Scanning Is Too Late for Your CI/CD Supply Chain Security\n\n\ue802June 15, 2026\nRead \u279d",
     "url": "https://thehackernews.com/expert-insights/2026/06/why-runtime-scanning-is-too-late-for.html",
-    "source": "hackernews"
-  },
-  {
-    "title": "The Riskiest Alerts No One Triages\n\n\ue802June 15, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/videos/2026/06/the-riskiest-alerts-no-one-triages.html",
-    "source": "hackernews"
-  },
-  {
-    "title": "Why Active Directory Vulnerabilities Demand More Than a Patch\n\n\ue802June 15, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/06/why-active-directory-vulnerabilities.html",
-    "source": "hackernews"
-  },
-  {
-    "title": "Hacking Salesforce Sites With an LLM Agent\n\n\ue802June 8, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/06/hacking-salesforce-sites-with-llm-agent.html",
     "source": "hackernews"
   },
   {
@@ -465,23 +475,23 @@
     "source": "helpnet"
   },
   {
-    "title": "Onspring CISO on where automated GRC systems fall short",
-    "url": "https://www.helpnetsecurity.com/2026/06/15/nichole-windholz-onspring-automated-grc-systems/",
+    "title": "Who pays when you gate cyber-capable AI models?",
+    "url": "https://www.helpnetsecurity.com/2026/06/22/jaya-baloo-aisle-gating-cyber-capable-ai-models/",
     "source": "helpnet"
   },
   {
-    "title": "A hardware neural network backdoor that hides in plain sight",
-    "url": "https://www.helpnetsecurity.com/2026/06/15/hardware-neural-network-backdoor-research/",
+    "title": "Agent Beacon: Open-source telemetry layer for AI agents",
+    "url": "https://www.helpnetsecurity.com/2026/06/22/agent-beacon-open-source-telemetry-layer-ai-agents/",
     "source": "helpnet"
   },
   {
-    "title": "Senior engineers are spending their week cleaning up AI-generated code",
-    "url": "https://www.helpnetsecurity.com/2026/06/15/ai-generated-code-review-issues/",
+    "title": "Encrypted DNS still tells an eavesdropper where to look",
+    "url": "https://www.helpnetsecurity.com/2026/06/22/research-encrypted-dns-privacy/",
     "source": "helpnet"
   },
   {
-    "title": "Download: The IT and security field guide to AI adoption",
-    "url": "https://helpnet.short.gy/cjp1xo",
+    "title": "Simplify security management with CIS SecureSuite Platform",
+    "url": "https://helpnet.short.gy/1Tqmd4",
     "source": "helpnet"
   },
   {
@@ -495,13 +505,13 @@
     "source": "helpnet"
   },
   {
-    "title": "Open-source CI/CD abuse detector guards against stolen credential attacks",
-    "url": "https://www.helpnetsecurity.com/2026/06/15/ci-cd-abuse-detector-open-source/",
+    "title": "23 ClawHub plugins squatting official scopes expose AI registry security gaps",
+    "url": "https://www.helpnetsecurity.com/2026/06/22/clawhub-code-executing-plugins-video/",
     "source": "helpnet"
   },
   {
-    "title": "Proving what a military AI model will do is the real problem",
-    "url": "https://www.helpnetsecurity.com/2026/06/15/military-ai-verification-problem/",
+    "title": "Klue breach lead to Salesforce data theft, Huntress affected",
+    "url": "https://www.helpnetsecurity.com/2026/06/19/klue-salesforce-data-breach-huntress/",
     "source": "helpnet"
   },
   {
@@ -560,7 +570,12 @@
     "source": "linkedin"
   },
   {
-    "title": "Jun 12, 2026\n\n\n\n            \n        Tracking the rise, risks, and regulation of intelligent systems | Edition 170\n      \n          \n\n\n                  \n          Artificial intelligence is no longer just enhancing cybersecurity; it is redefining it. As AI capabilities advance\u2026\n      \n                \n\n\n\n\n\n\n\n                    10",
+    "title": "Jun 19, 2026\n\n\n\n            \n        Navigating the politics, power and control of frontier AI | Edition 171\n      \n          \n\n\n                  \n          The debate over who controls access to advanced AI is intensifying. This edition examines the fallout from U.\n      \n                \n\n\n\n\n\n\n\n\n                    10\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
+    "url": "https://www.linkedin.com/pulse/navigating-politics-power-control-frontier-feg8f?trk=article-ssr-frontend-pulse",
+    "source": "linkedin"
+  },
+  {
+    "title": "Jun 12, 2026\n\n\n\n            \n        Tracking the rise, risks, and regulation of intelligent systems | Edition 170\n      \n          \n\n\n                  \n          Artificial intelligence is no longer just enhancing cybersecurity; it is redefining it. As AI capabilities advance\u2026\n      \n                \n\n\n\n\n\n\n\n                    11",
     "url": "https://www.linkedin.com/pulse/tracking-rise-risks-regulation-intelligent-hpzof?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
   },
@@ -602,11 +617,6 @@
   {
     "title": "Apr 10, 2026\n\n\n\n            \n        Through the Lens of ISMG: Mythos & defensive security| Edition 162\n      \n          \n\n\n                  \n          Anthropic\u2019s Mythos marks an inflection point in cybersecurity, where vulnerability discovery begins to scale faster\u2026\n      \n                \n\n\n\n\n\n\n\n\n\n                    10",
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-mythos-defensive-o96nf?trk=article-ssr-frontend-pulse",
-    "source": "linkedin"
-  },
-  {
-    "title": "Apr 3, 2026\n\n\n\n            \n        Through the Lens of ISMG: RSAC 2026 Reflects a Turning Point for AI and Cybersecurity | Edition 161\n      \n          \n\n\n                  \n          This week, we dove deep into a curated set of expert conversations from RSAC 2026, and one theme is unmistakable: AI is\u2026\n      \n                \n\n\n\n\n\n\n\n                    7",
-    "url": "https://www.linkedin.com/pulse/through-lens-ismg-rsac-2026-reflects-wf9qf?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
   }
 ]
