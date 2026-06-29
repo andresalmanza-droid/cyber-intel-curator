@@ -17,7 +17,7 @@
   {
     "type": "signal_trend",
     "signal": "general_signal",
-    "mentions": 11
+    "mentions": 12
   },
   {
     "type": "signal_trend",
@@ -27,6 +27,6 @@
   {
     "type": "signal_trend",
     "signal": "emerging_threat",
-    "mentions": 3
+    "mentions": 2
   }
 ]

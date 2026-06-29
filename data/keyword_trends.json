@@ -12,10 +12,6 @@
     "mentions": 3
   },
   {
-    "keyword": "code",
-    "mentions": 3
-  },
-  {
     "keyword": "ransomware",
     "mentions": 3
   },
@@ -32,11 +28,15 @@
     "mentions": 3
   },
   {
-    "keyword": "critical",
+    "keyword": "weekly",
     "mentions": 2
   },
   {
-    "keyword": "control",
+    "keyword": "recap",
+    "mentions": 2
+  },
+  {
+    "keyword": "proxy",
     "mentions": 2
   }
 ]

@@ -35,15 +35,15 @@
     "signal": "general_signal"
   },
   {
-    "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
-    "url": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
+    "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
+    "url": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
   {
-    "title": "[Watch Demo] See Which Security Gaps Attackers Could Exploit First",
-    "url": "https://thehackernews.uk/demo-exposure-validation",
+    "title": "\u26a1 Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
+    "url": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
@@ -70,11 +70,11 @@
     "signal": "general_signal"
   },
   {
-    "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
-    "url": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
+    "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+    "url": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
     "source": "hackernews",
-    "category": "geopolitica",
-    "signal": "emerging_threat"
+    "category": "brechas",
+    "signal": "general_signal"
   },
   {
     "title": "Industrial networks continue to leak onto the internet",
