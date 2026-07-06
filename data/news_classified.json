@@ -84,134 +84,152 @@
     "category": "algo_mas"
   },
   {
+    "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
+    "url": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
     "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
     "url": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
     "source": "hackernews",
     "category": "algo_mas"
   },
   {
-    "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
-    "url": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
+    "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
+    "url": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
     "source": "hackernews",
     "category": "ia"
   },
   {
-    "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
-    "url": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
-    "url": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
+    "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
+    "url": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
     "source": "hackernews",
     "category": "algo_mas"
   },
   {
-    "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
-    "url": "https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html",
-    "source": "hackernews",
-    "category": "ciberataques"
-  },
-  {
-    "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
-    "url": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
-    "source": "hackernews",
-    "category": "algo_mas"
-  },
-  {
-    "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
-    "url": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
-    "url": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-    "url": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
-    "source": "hackernews",
-    "category": "brechas"
-  },
-  {
-    "title": "\u26a1 Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
-    "url": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
-    "source": "hackernews",
-    "category": "ciberataques"
-  },
-  {
-    "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
-    "url": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
-    "url": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
-    "source": "hackernews",
-    "category": "algo_mas"
-  },
-  {
-    "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
-    "url": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
-    "url": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
-    "source": "hackernews",
-    "category": "algo_mas"
-  },
-  {
-    "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
-    "url": "https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html",
+    "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
+    "url": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
     "source": "hackernews",
     "category": "vulnerabilidades"
   },
   {
-    "title": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
-    "url": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html",
-    "source": "hackernews",
-    "category": "algo_mas"
-  },
-  {
-    "title": "Get the 2026 Guide to Govern and Secure Enterprise AI Agents at Scale",
-    "url": "https://thehackernews.uk/guardian-agents-2026",
+    "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
+    "url": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html",
     "source": "hackernews",
     "category": "ia"
   },
   {
-    "title": "[Watch Demo] See Which Security Gaps Attackers Could Exploit First",
-    "url": "https://thehackernews.uk/demo-exposure-validation",
+    "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
+    "url": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
+    "source": "hackernews",
+    "category": "geopolitica"
+  },
+  {
+    "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
+    "url": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
+    "url": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
     "source": "hackernews",
     "category": "ciberataques"
   },
   {
-    "title": "AI Can\u2019t Stop Every Attack. Learn How Zero Trust Can Block What\u2019s Unknown",
-    "url": "https://thehackernews.uk/ai-battle-short",
+    "title": "\u26a1 Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
+    "url": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
     "source": "hackernews",
     "category": "ia"
   },
   {
-    "title": "Have You Outgrown Your MDR? 7 Warning Signs Every CISO Should Check",
-    "url": "https://thehackernews.uk/mdr-checklist-2026",
+    "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
+    "url": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
+    "source": "hackernews",
+    "category": "ciberataques"
+  },
+  {
+    "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
+    "url": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
     "source": "hackernews",
     "category": "algo_mas"
   },
   {
-    "title": "A Practical Security Guide\nHow to Find and Govern Hidden AI Use Across Your Business\nLearn how to uncover hidden AI use, see what data it can access, map every AI action to a human owner, and apply practical governance without heavy infrastructure changes.\nRegister",
-    "url": "https://thehacker.news/securing-ai-use?source=below",
+    "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
+    "url": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
+    "url": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
     "source": "hackernews",
     "category": "ia"
   },
   {
-    "title": "Tired of False Positives?\nHow to Stop AI-Powered Attacks Before They Move Across Your Network\nLearn how to contain Mythos-style AI attacks with practical Zero Trust controls that reduce exposure, stop lateral movement, and limit risk.\nRegister",
-    "url": "https://thehacker.news/outpacing-mythos-cyberattacks?source=below",
+    "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
+    "url": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
+    "url": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
+    "url": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
+    "url": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
+    "url": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
+    "source": "hackernews",
+    "category": "ciberataques"
+  },
+  {
+    "title": "What 200+ Security Teams Reveal About Using IP Intelligence in 2026",
+    "url": "https://thehackernews.uk/spur-ip-intelligence-study",
+    "source": "hackernews",
+    "category": "algo_mas"
+  },
+  {
+    "title": "Get Hands-On SANS Training for Today\u2019s Cyber Defense and Offensive Security Challenges",
+    "url": "https://thehackernews.uk/sans-security-san-antonio",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "See What\u2019s Really Exposed Across Your IT, OT, IoT, Cloud, and Mobile Assets",
+    "url": "https://thehackernews.uk/try-runzero-21-days",
+    "source": "hackernews",
+    "category": "algo_mas"
+  },
+  {
+    "title": "Get Gartner\u2019s Guide to AI Agent Supervision and Runtime Controls",
+    "url": "https://thehackernews.uk/market-guide-2026-guardian",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Control Rogue AI\nHow to Secure AI Agents Before They Go Rogue\nLearn how to secure AI agents with practical controls for access, visibility, secrets, and risk containment.\nRegister",
+    "url": "https://thehacker.news/ai-goes-rogue?source=below",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Build AI Securely\nHow to Secure AI-Built Software at Machine Speed\nLearn how to govern risk, secure AI-built software, and keep control as development moves at machine speed.\nRegister",
+    "url": "https://thehacker.news/secure-ai-development?source=below",
     "source": "hackernews",
     "category": "ia"
   },
@@ -222,28 +240,28 @@
     "category": "ia"
   },
   {
-    "title": "The CISO\u2019s Guide: Transitioning from VPN to Comprehensive ZTNAModernize secure access and eliminate lateral movement by connecting users directly to applications, not the network.",
-    "url": "https://thehackernews.uk/vpn-ztna-guide",
-    "source": "hackernews",
-    "category": "algo_mas"
-  },
-  {
-    "title": "Earn a Master's in Cybersecurity Risk ManagementLead the future of cybersecurity risk management with an online Master\u2019s from Georgetown.",
-    "url": "https://thehackernews.uk/cyber-risk-program",
-    "source": "hackernews",
-    "category": "algo_mas"
-  },
-  {
-    "title": "Building a Security Strategy for AI-Powered Ransomware Attacks\n\n\ue802June 22, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/06/building-security-strategy-for-ai.html",
+    "title": "How Do You Secure Autonomous AI Systems? Explore agentic AI, governance, and machine-speed response in San Francisco.",
+    "url": "https://thehackernews.uk/cse-summit-2026",
     "source": "hackernews",
     "category": "ia"
   },
   {
-    "title": "Identity Security in 2026: The Brutal Truth Enterprises Still Avoid\n\n\ue802June 22, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/06/identity-security-in-2026-brutal-truth.html",
+    "title": "Metasploit. Prompt Injection. Lateral Movement. SANS SEC504 - GCIHIf you know the tools, you can stop the breach. 44 labs. SANS Virginia Beach this fall.",
+    "url": "https://thehackernews.uk/sans-vabeach-2026",
     "source": "hackernews",
     "category": "algo_mas"
+  },
+  {
+    "title": "Breach Transparency Remains Cybersecurity's Toughest Governance Problem\n\n\ue802July 6, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/07/breach-transparency-remains.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "AI-Speed Attacks Are Forcing a Rethink of Incident Response\n\n\ue802July 6, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/07/ai-speed-attacks-are-forcing-rethink-of.html",
+    "source": "hackernews",
+    "category": "ia"
   },
   {
     "title": "Beyond Blocking: Disrupting the Social Engineering Attack Chain\n\n\ue802June 22, 2026\nRead \u279d",
@@ -252,8 +270,8 @@
     "category": "ia"
   },
   {
-    "title": "Why Runtime Scanning Is Too Late for Your CI/CD Supply Chain Security\n\n\ue802June 15, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/06/why-runtime-scanning-is-too-late-for.html",
+    "title": "Building a Security Strategy for AI-Powered Ransomware Attacks\n\n\ue802June 22, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/06/building-security-strategy-for-ai.html",
     "source": "hackernews",
     "category": "ia"
   },
@@ -570,20 +588,20 @@
     "category": "algo_mas"
   },
   {
-    "title": "DarkMoon: Open-source AI pentesting platform",
-    "url": "https://www.helpnetsecurity.com/2026/06/29/darkmoon-open-source-ai-pentesting-platform/",
+    "title": "How to prioritize AI agent security by business impact",
+    "url": "https://www.helpnetsecurity.com/2026/07/06/prioritize-ai-agent-security-business-impact/",
     "source": "helpnet",
     "category": "ia"
   },
   {
-    "title": "Synology issues critical fix for MailPlus Server vulnerabilities",
-    "url": "https://www.helpnetsecurity.com/2026/06/26/synology-mailplus-server-vulnerabilities/",
+    "title": "Securing the inbox: Where identity, brand and security meet",
+    "url": "https://www.helpnetsecurity.com/2026/07/06/ciso-email-security-strategy/",
     "source": "helpnet",
-    "category": "ia"
+    "category": "algo_mas"
   },
   {
-    "title": "Mystery hackers use novel SharkLoader dropper against governments, software devs",
-    "url": "https://www.helpnetsecurity.com/2026/06/26/sharkloader-dropper-governments-software-developers/",
+    "title": "Omnigent: Open-source AI agent framework and meta-harness",
+    "url": "https://www.helpnetsecurity.com/2026/07/06/omnigent-open-source-ai-agent-framework/",
     "source": "helpnet",
     "category": "ia"
   },
@@ -606,16 +624,16 @@
     "category": "algo_mas"
   },
   {
-    "title": "Sycophantic chatbots and the harms that build over many chats",
-    "url": "https://www.helpnetsecurity.com/2026/06/29/sycophantic-chatbots-affective-ai-safety/",
+    "title": "Non-interactive SSH attacks dominate after login",
+    "url": "https://www.helpnetsecurity.com/2026/07/03/research-non-interactive-ssh-attacks/",
     "source": "helpnet",
-    "category": "algo_mas"
+    "category": "ciberataques"
   },
   {
-    "title": "Companies keep bolting AI onto their products, and the security bill is coming due",
-    "url": "https://www.helpnetsecurity.com/2026/06/29/products-ai-pentesting/",
+    "title": "Geopolitical cyber threats are turning HR into a security front line",
+    "url": "https://www.helpnetsecurity.com/2026/07/03/geopolitical-cyber-threats-video/",
     "source": "helpnet",
-    "category": "ia"
+    "category": "algo_mas"
   },
   {
     "title": "Threat Intelligence Platform Buyer's Guide",
@@ -684,6 +702,12 @@
     "category": "algo_mas"
   },
   {
+    "title": "Jul 3, 2026\n\n\n\n            \n        The cost of an OT attack goes beyond data | Edition 173\n      \n          \n\n\n                  \n          Operational technology has become a primary target in today's cyber threat landscape. This edition examines how\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    12",
+    "url": "https://www.linkedin.com/pulse/cost-ot-attack-goes-beyond-data-edition-hc44f?trk=article-ssr-frontend-pulse",
+    "source": "linkedin",
+    "category": "ciberataques"
+  },
+  {
     "title": "Jun 26, 2026\n\n\n\n            \n        The cyber stories making headlines around the world | Edition 172\n      \n          \n\n\n                  \n          The stories in this edition reflect the rapidly changing nature of cybersecurity, where technological innovation\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    10",
     "url": "https://www.linkedin.com/pulse/cyber-stories-making-headlines-around-3ebhe?trk=article-ssr-frontend-pulse",
     "source": "linkedin",
@@ -734,12 +758,6 @@
   {
     "title": "Apr 24, 2026\n\n\n\n            \n        AI, Nation-States and the Expanding Attack Surface\n      \n          \n\n\n                  \n          This week\u2019s stories reflect a cybersecurity landscape being reshaped by two converging forces: nation-state\u2026\n      \n                \n\n\n\n\n\n\n\n                    13\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
     "url": "https://www.linkedin.com/pulse/ai-nation-states-expanding-attack-surface-liwhe?trk=article-ssr-frontend-pulse",
-    "source": "linkedin",
-    "category": "ia"
-  },
-  {
-    "title": "Apr 17, 2026\n\n\n\n            \n        From Vulnerability to Exploit in Hours: Inside the AI-Driven Cybersecurity Shift\n      \n          \n\n\n                  \n          The latest set of stories highlights a defining shift in cybersecurity driven by AI particularly the emergence of\u2026\n      \n                \n\n\n\n\n\n\n\n                    15\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
-    "url": "https://www.linkedin.com/pulse/from-vulnerability-exploit-hours-inside-2pa4e?trk=article-ssr-frontend-pulse",
     "source": "linkedin",
     "category": "ia"
   }

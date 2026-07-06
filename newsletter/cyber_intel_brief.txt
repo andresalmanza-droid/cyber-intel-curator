@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-06-29
+Date: 2026-07-06
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,11 +12,11 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
-Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered
-Source: https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html
+Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts
+Source: https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html
 
-⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More
-Source: https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html
+Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks
+Source: https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html
 
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
@@ -24,8 +24,8 @@ Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.h
 Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration
 Source: https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html
 
-29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests
-Source: https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html
+FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys
+Source: https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html
 
 Industrial networks continue to leak onto the internet
 Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
