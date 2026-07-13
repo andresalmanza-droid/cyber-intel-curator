@@ -70,98 +70,108 @@
     "source": "hackernews"
   },
   {
-    "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
-    "url": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
+    "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+    "url": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
     "source": "hackernews"
   },
   {
-    "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
-    "url": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
+    "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
+    "url": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
     "source": "hackernews"
   },
   {
-    "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
-    "url": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
+    "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
+    "url": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
     "source": "hackernews"
   },
   {
-    "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
-    "url": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
+    "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
+    "url": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
     "source": "hackernews"
   },
   {
-    "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
-    "url": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
+    "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
+    "url": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
     "source": "hackernews"
   },
   {
-    "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
-    "url": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html",
+    "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
+    "url": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
     "source": "hackernews"
   },
   {
-    "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
-    "url": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
+    "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
+    "url": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
     "source": "hackernews"
   },
   {
-    "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
-    "url": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
+    "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
+    "url": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
     "source": "hackernews"
   },
   {
-    "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
-    "url": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
+    "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
+    "url": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
     "source": "hackernews"
   },
   {
-    "title": "\u26a1 Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
-    "url": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
+    "title": "Top\u00a0AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
+    "url": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
     "source": "hackernews"
   },
   {
-    "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
-    "url": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
+    "title": "Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images",
+    "url": "https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html",
     "source": "hackernews"
   },
   {
-    "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
-    "url": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
+    "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
+    "url": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
     "source": "hackernews"
   },
   {
-    "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
-    "url": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
+    "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
+    "url": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
     "source": "hackernews"
   },
   {
-    "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
-    "url": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
+    "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
+    "url": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
     "source": "hackernews"
   },
   {
-    "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
-    "url": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
+    "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
+    "url": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
     "source": "hackernews"
   },
   {
-    "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
-    "url": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
+    "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+    "url": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
     "source": "hackernews"
   },
   {
-    "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
-    "url": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
+    "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
+    "url": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
     "source": "hackernews"
   },
   {
-    "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
-    "url": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
+    "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
+    "url": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
     "source": "hackernews"
   },
   {
-    "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
-    "url": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
+    "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
+    "url": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
+    "source": "hackernews"
+  },
+  {
+    "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
+    "url": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
+    "source": "hackernews"
+  },
+  {
+    "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
+    "url": "https://thehackernews.com/2026/07/european-parliament-member.html",
     "source": "hackernews"
   },
   {
@@ -490,23 +500,23 @@
     "source": "helpnet"
   },
   {
-    "title": "How to prioritize AI agent security by business impact",
-    "url": "https://www.helpnetsecurity.com/2026/07/06/prioritize-ai-agent-security-business-impact/",
+    "title": "Why SBOMs, signing, and provenance still don\u2019t tell you if software is safe",
+    "url": "https://www.helpnetsecurity.com/2026/07/13/sbom-zero-trust-for-code/",
     "source": "helpnet"
   },
   {
-    "title": "Securing the inbox: Where identity, brand and security meet",
-    "url": "https://www.helpnetsecurity.com/2026/07/06/ciso-email-security-strategy/",
+    "title": "Cynative: Open-source deep research agent",
+    "url": "https://www.helpnetsecurity.com/2026/07/13/cynative-open-source-deep-research-agent/",
     "source": "helpnet"
   },
   {
-    "title": "Omnigent: Open-source AI agent framework and meta-harness",
-    "url": "https://www.helpnetsecurity.com/2026/07/06/omnigent-open-source-ai-agent-framework/",
+    "title": "Microsoft demystifies how Windows updates work",
+    "url": "https://www.helpnetsecurity.com/2026/07/13/how-microsoft-windows-updates-work/",
     "source": "helpnet"
   },
   {
-    "title": "Simplify security management with CIS SecureSuite Platform",
-    "url": "https://helpnet.short.gy/1Tqmd4",
+    "title": "Report: How to Implement a Continuous Offensive Security Testing Program",
+    "url": "https://helpnet.short.gy/m45v0q",
     "source": "helpnet"
   },
   {
@@ -520,13 +530,13 @@
     "source": "helpnet"
   },
   {
-    "title": "Non-interactive SSH attacks dominate after login",
-    "url": "https://www.helpnetsecurity.com/2026/07/03/research-non-interactive-ssh-attacks/",
+    "title": "A hardware security AI assistant that checks chips for hidden backdoors",
+    "url": "https://www.helpnetsecurity.com/2026/07/13/hardware-security-ai-assistant-hidden-backdoors/",
     "source": "helpnet"
   },
   {
-    "title": "Geopolitical cyber threats are turning HR into a security front line",
-    "url": "https://www.helpnetsecurity.com/2026/07/03/geopolitical-cyber-threats-video/",
+    "title": "July 2026 Patch Tuesday forecast: Is CVE tracking still practical?",
+    "url": "https://www.helpnetsecurity.com/2026/07/10/july-2026-patch-tuesday-forecast/",
     "source": "helpnet"
   },
   {
@@ -585,6 +595,11 @@
     "source": "linkedin"
   },
   {
+    "title": "Jul 10, 2026\n\n\n\n            \n        Tracking the hackers, tactics and cyber threats | Edition 174\n      \n          \n\n\n                  \n          This week's edition examines how today's threat actors are evolving their tactics, exploiting both technical\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    8\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
+    "url": "https://www.linkedin.com/pulse/tracking-hackers-tactics-cyber-threats-bylkf?trk=article-ssr-frontend-pulse",
+    "source": "linkedin"
+  },
+  {
     "title": "Jul 3, 2026\n\n\n\n            \n        The cost of an OT attack goes beyond data | Edition 173\n      \n          \n\n\n                  \n          Operational technology has become a primary target in today's cyber threat landscape. This edition examines how\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    12",
     "url": "https://www.linkedin.com/pulse/cost-ot-attack-goes-beyond-data-edition-hc44f?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
@@ -627,11 +642,6 @@
   {
     "title": "May 8, 2026\n\n\n\n            \n        Through the Lens of ISMG: AI Risk, Critical Infrastructure & Lessons From Modern Breaches | Edition 165\n      \n          \n\n\n                  \n          This week\u2019s cybersecurity headlines reveal a defining shift in the threat landscape: AI systems are becoming both the\u2026\n      \n                \n\n\n\n\n\n\n\n                    13",
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-ai-risk-critical-bktde?trk=article-ssr-frontend-pulse",
-    "source": "linkedin"
-  },
-  {
-    "title": "Apr 24, 2026\n\n\n\n            \n        AI, Nation-States and the Expanding Attack Surface\n      \n          \n\n\n                  \n          This week\u2019s stories reflect a cybersecurity landscape being reshaped by two converging forces: nation-state\u2026\n      \n                \n\n\n\n\n\n\n\n                    13\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
-    "url": "https://www.linkedin.com/pulse/ai-nation-states-expanding-attack-surface-liwhe?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
   }
 ]

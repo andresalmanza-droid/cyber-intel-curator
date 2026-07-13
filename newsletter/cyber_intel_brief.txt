@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-07-06
+Date: 2026-07-13
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,20 +12,17 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
-Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts
-Source: https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html
+Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots
+Source: https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html
 
-Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks
-Source: https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html
+Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs
+Source: https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html
 
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
 
 Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration
 Source: https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html
-
-FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys
-Source: https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html
 
 Industrial networks continue to leak onto the internet
 Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/

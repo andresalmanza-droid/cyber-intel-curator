@@ -49,15 +49,15 @@
     "signal": "general_signal"
   },
   {
-    "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
-    "url": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
+    "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
+    "url": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
   {
-    "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
-    "url": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
+    "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
+    "url": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
@@ -81,13 +81,6 @@
     "url": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
     "source": "hackernews",
     "category": "algo_mas",
-    "signal": "general_signal"
-  },
-  {
-    "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
-    "url": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
-    "source": "hackernews",
-    "category": "geopolitica",
     "signal": "general_signal"
   },
   {
