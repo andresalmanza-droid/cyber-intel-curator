@@ -4,15 +4,7 @@
     "mentions": 7
   },
   {
-    "keyword": "risk",
-    "mentions": 4
-  },
-  {
     "keyword": "your",
-    "mentions": 3
-  },
-  {
-    "keyword": "google",
     "mentions": 3
   },
   {
@@ -28,6 +20,10 @@
     "mentions": 3
   },
   {
+    "keyword": "risk",
+    "mentions": 3
+  },
+  {
     "keyword": "edition",
     "mentions": 3
   },
@@ -37,6 +33,10 @@
   },
   {
     "keyword": "agents",
+    "mentions": 2
+  },
+  {
+    "keyword": "governance",
     "mentions": 2
   }
 ]

@@ -49,15 +49,15 @@
     "signal": "general_signal"
   },
   {
-    "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
-    "url": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
+    "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
+    "url": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
   {
-    "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
-    "url": "https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html",
+    "title": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity",
+    "url": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
@@ -84,10 +84,10 @@
     "signal": "general_signal"
   },
   {
-    "title": "Industrial networks continue to leak onto the internet",
-    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
-    "source": "helpnet",
-    "category": "brechas",
+    "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
+    "url": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
+    "source": "hackernews",
+    "category": "ransomware",
     "signal": "general_signal"
   },
   {
@@ -105,10 +105,10 @@
     "signal": "general_signal"
   },
   {
-    "title": "Hospitals at Risk of BeyondTrust Ransomware Hacks",
-    "url": "https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block",
-    "source": "linkedin",
-    "category": "ransomware",
+    "title": "Industrial networks continue to leak onto the internet",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
+    "source": "helpnet",
+    "category": "brechas",
     "signal": "general_signal"
   },
   {

@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-07-13
+Date: 2026-07-20
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,11 +12,11 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
-Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots
-Source: https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html
+Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365
+Source: https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html
 
-Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs
-Source: https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html
+Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity
+Source: https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html
 
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
@@ -24,14 +24,14 @@ Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.h
 Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration
 Source: https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html
 
-Industrial networks continue to leak onto the internet
-Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
+ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories
+Source: https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html
 
 Europol goes after The Com’s ransomware and extortion networks
 Source: https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arrests/
 
-Hospitals at Risk of BeyondTrust Ransomware Hacks
-Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
+Industrial networks continue to leak onto the internet
+Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
 
 Jun 5, 2026
 
