@@ -12,19 +12,7 @@
     "mentions": 3
   },
   {
-    "keyword": "through",
-    "mentions": 3
-  },
-  {
-    "keyword": "cyber",
-    "mentions": 3
-  },
-  {
     "keyword": "risk",
-    "mentions": 3
-  },
-  {
-    "keyword": "edition",
     "mentions": 3
   },
   {
@@ -37,6 +25,18 @@
   },
   {
     "keyword": "governance",
+    "mentions": 2
+  },
+  {
+    "keyword": "google",
+    "mentions": 2
+  },
+  {
+    "keyword": "attack",
+    "mentions": 2
+  },
+  {
+    "keyword": "cloud",
     "mentions": 2
   }
 ]

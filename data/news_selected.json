@@ -42,14 +42,14 @@
     "category": "ciberataques"
   },
   {
-    "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
-    "url": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
+    "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
+    "url": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
     "source": "hackernews",
     "category": "ciberataques"
   },
   {
-    "title": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity",
-    "url": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
+    "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
+    "url": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
     "source": "hackernews",
     "category": "ciberataques"
   },
@@ -72,10 +72,10 @@
     "category": "algo_mas"
   },
   {
-    "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
-    "url": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
-    "source": "hackernews",
-    "category": "ransomware"
+    "title": "Industrial networks continue to leak onto the internet",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
+    "source": "helpnet",
+    "category": "brechas"
   },
   {
     "title": "Ransomware activity peaks outside business hours",
@@ -90,20 +90,14 @@
     "category": "ransomware"
   },
   {
-    "title": "Industrial networks continue to leak onto the internet",
-    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
-    "source": "helpnet",
-    "category": "brechas"
+    "title": "Hospitals at Risk of BeyondTrust Ransomware Hacks",
+    "url": "https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block",
+    "source": "linkedin",
+    "category": "ransomware"
   },
   {
     "title": "Jun 5, 2026\n\n\n\n            \n        Through the Lens of ISMG: Governance in the Age of AI and Cyber Risk | Edition 169\n      \n          \n\n\n                  \n          Who is prepared to govern the next generation of cyber and AI risk? That question runs through this week's edition as\u2026\n      \n                \n\n\n\n\n\n\n\n\n\n                    8\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
     "url": "https://www.linkedin.com/pulse/through-lens-ismg-governance-age-ai-syszf?trk=article-ssr-frontend-pulse",
-    "source": "linkedin",
-    "category": "riesgo"
-  },
-  {
-    "title": "May 15, 2026\n\n\n\n            \n        Through the Lens of ISMG: Cybersecurity in the Age of AI Conflict: Resilience, Infrastructure and Geopolitical Risk | Edition 166\n      \n          \n\n\n                  \n          This week\u2019s stories highlight how cyber operations are increasingly being used not just to disrupt systems, but to\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    7\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
-    "url": "https://www.linkedin.com/pulse/through-lens-ismg-cybersecurity-age-brije?trk=article-ssr-frontend-pulse",
     "source": "linkedin",
     "category": "riesgo"
   }

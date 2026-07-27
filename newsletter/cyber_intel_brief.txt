@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-07-20
+Date: 2026-07-27
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,11 +12,11 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
-Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365
-Source: https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html
+New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit
+Source: https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html
 
-Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity
-Source: https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html
+Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers
+Source: https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html
 
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
@@ -24,14 +24,14 @@ Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.h
 Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration
 Source: https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html
 
-ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories
-Source: https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html
+Industrial networks continue to leak onto the internet
+Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
 
 Europol goes after The Com’s ransomware and extortion networks
 Source: https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arrests/
 
-Industrial networks continue to leak onto the internet
-Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
+Hospitals at Risk of BeyondTrust Ransomware Hacks
+Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
 
 Jun 5, 2026
 
@@ -71,44 +71,6 @@ Jun 5, 2026
         
                 1 Comment
 Source: https://www.linkedin.com/pulse/through-lens-ismg-governance-age-ai-syszf?trk=article-ssr-frontend-pulse
-
-May 15, 2026
-
-
-
-            
-        Through the Lens of ISMG: Cybersecurity in the Age of AI Conflict: Resilience, Infrastructure and Geopolitical Risk | Edition 166
-      
-          
-
-
-                  
-          This week’s stories highlight how cyber operations are increasingly being used not just to disrupt systems, but to…
-      
-                
-
-
-
-
-
-
-
-
-                    7
-              
-
-
- 
-
- 
-
-
-
-
-
-        
-                1 Comment
-Source: https://www.linkedin.com/pulse/through-lens-ismg-cybersecurity-age-brije?trk=article-ssr-frontend-pulse
 
 
 === WEAK_SIGNAL ===
