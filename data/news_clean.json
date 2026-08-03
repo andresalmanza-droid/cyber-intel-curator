@@ -170,23 +170,23 @@
     "source": "hackernews"
   },
   {
-    "title": "Identity Fraud Is Changing Fast. See the Attacks Businesses Face in 2026",
-    "url": "https://thehackernews.uk/identity-fraud-2026",
+    "title": "[Webinar] How Militaries Can Trust the Data Behind Autonomous Missions",
+    "url": "https://thehackernews.uk/webinar-register-uk",
     "source": "hackernews"
   },
   {
-    "title": "What 25 Million Alerts Reveal About the Threats SOCs Ignore",
-    "url": "https://thehackernews.uk/cisos-ai-security",
+    "title": "Download the 5-Step Action Plan for AI-Speed Exploitation",
+    "url": "https://thehackernews.uk/postmythos-plan",
     "source": "hackernews"
   },
   {
-    "title": "How to Find and Control Every Script Running Through Your Marketing Stack",
-    "url": "https://thehackernews.uk/reflectiz-security",
+    "title": "Get the Checklist for Gaining Control of AI Use Across Your Organization",
+    "url": "https://thehackernews.uk/ai-governance-checklist",
     "source": "hackernews"
   },
   {
-    "title": "Modern SASE Guide: Close the Gaps Traditional Network Security Cannot See",
-    "url": "https://thehackernews.uk/network-sase",
+    "title": "Get the 2026 CISO Benchmark Report Based on 600 Security Leaders",
+    "url": "https://thehackernews.uk/incident-readiness-survey",
     "source": "hackernews"
   },
   {
@@ -200,18 +200,23 @@
     "source": "hackernews"
   },
   {
-    "title": "5 Steps to Secure Against Software Vulnerabilities Discovered by AI ModelsAI has emerged as a potent weapon in cybersecurity. Learn how to best safeguard your organization.",
-    "url": "https://thehackernews.uk/ai-vuln-secure-steps",
+    "title": "11 Real Stories: How Identity Exposure Unlocks Active Attack PathsMap cross-domain privilege escalation to sever breach routes at key choke points.",
+    "url": "https://thehackernews.uk/xmcyber-c",
     "source": "hackernews"
   },
   {
-    "title": "Get Ready for What's Next in AI & Cloud SecurityJoin practitioners tackling AI governance, cloud security, and autonomous systems.",
-    "url": "https://thehackernews.uk/cse-summit",
+    "title": "Burp, sqlmap, SSRF, XXE, SSTI: Web Exploitation, Hands-On35 labs plus a live CTF take you from recon to remote code execution. GWAPT prep, SANS CDI in D.C.",
+    "url": "https://thehackernews.uk/cyber-defense-26",
     "source": "hackernews"
   },
   {
-    "title": "SANS SEC660 (GXPN): Write Exploits. Bypass Defenses. Own the Network.The most advanced SANS pentesting course is at Network Security 2026. Stephen Sims, live in person.",
-    "url": "https://thehackernews.uk/sectrain",
+    "title": "SANS AI Cybersecurity Summit Returns This NovemberLearn how practitioners are applying AI to today's cybersecurity challenges.",
+    "url": "https://thehackernews.uk/sans-summit-ai",
+    "source": "hackernews"
+  },
+  {
+    "title": "How AI-Assisted Attacks Are Breaking Legacy SIEM Tools\n\n\ue802August 3, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/08/how-ai-assisted-attacks-are-breaking.html",
     "source": "hackernews"
   },
   {
@@ -227,11 +232,6 @@
   {
     "title": "How to Make Social Engineering Unprofitable\n\n\ue802July 22, 2026\nRead \u279d",
     "url": "https://thehackernews.com/expert-insights/2026/07/how-to-make-social-engineering.html",
-    "source": "hackernews"
-  },
-  {
-    "title": "The New Insider Has No Pulse: Securing Privilege When the Actor Is an AI Agent\n\n\ue802July 20, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/07/the-new-insider-has-no-pulse-securing.html",
     "source": "hackernews"
   },
   {
@@ -495,23 +495,28 @@
     "source": "helpnet"
   },
   {
-    "title": "How attackers hosted a fake Claude download page on the claude.ai domain",
-    "url": "https://www.helpnetsecurity.com/2026/07/23/anthropic-claude-artifacts-download-malware/",
+    "title": "Laundry Bear\u2019s new Microsoft Exchange attack triggers on email open (CVE-2026-42897)",
+    "url": "https://www.helpnetsecurity.com/2026/07/30/cve-2026-42897-microsoft-exchange-email-attack/",
     "source": "helpnet"
   },
   {
-    "title": "Attackers exploit critical Check Point flaw to take over firewall management (CVE-2026-16232)",
-    "url": "https://www.helpnetsecurity.com/2026/07/23/check-point-vulnerability-cve-2026-16232/",
+    "title": "Cisco FMC static credentials exploited by attackers (CVE-2026-20316)",
+    "url": "https://www.helpnetsecurity.com/2026/07/30/cisco-fmc-cve-2026-20316-exploited/",
     "source": "helpnet"
   },
   {
-    "title": "Shadow AI is becoming enterprise security\u2019s biggest blind spot",
-    "url": "https://www.helpnetsecurity.com/2026/07/23/shadow-ai-security-risks/",
+    "title": "Data breach cost 2026 averaged $4.99 million, AI attacks ran higher",
+    "url": "https://www.helpnetsecurity.com/2026/07/30/ibm-cost-of-a-data-breach-2026/",
     "source": "helpnet"
   },
   {
     "title": "Download: The ultimate guide to network operations management",
     "url": "https://helpnet.short.gy/7EcjJ3",
+    "source": "helpnet"
+  },
+  {
+    "title": "Download: The High-Performance Team Playbook",
+    "url": "https://www.helpnetsecurity.com/2026/07/28/download-the-high-performance-team-playbook/",
     "source": "helpnet"
   },
   {
@@ -525,28 +530,23 @@
     "source": "helpnet"
   },
   {
-    "title": "Download: Automating Pentest Delivery Guide",
-    "url": "https://www.helpnetsecurity.com/2026/05/01/plextrac-download-automating-pentest-delivery-guide/",
+    "title": "Mapping the malware blast radius a single alert won\u2019t show you",
+    "url": "https://www.helpnetsecurity.com/2026/08/03/mike-wiacek-stairwell-backstory-malware-blast-radius/",
     "source": "helpnet"
   },
   {
-    "title": "What the identity attack surface looks like when trust becomes the target",
-    "url": "https://www.helpnetsecurity.com/2026/07/27/identity-attack-surface-video/",
+    "title": "SkillSpector: NVIDIA\u2019s open-source security scanner for AI agent skills",
+    "url": "https://www.helpnetsecurity.com/2026/08/03/skillspector-open-source-agent-skill-security-scanner/",
     "source": "helpnet"
   },
   {
-    "title": "The automotive software vulnerabilities hiding in your dashboard",
-    "url": "https://www.helpnetsecurity.com/2026/07/24/car-research-automotive-software-vulnerabilities/",
+    "title": "AI cut phishing from hours to seconds, which is where DMARC and BIMI come in",
+    "url": "https://www.helpnetsecurity.com/2026/08/03/dmarc-and-bimi-video/",
     "source": "helpnet"
   },
   {
-    "title": "Governing Al agents at scale: Lessons from the leaders who\u2019ve done it",
-    "url": "https://www.helpnetsecurity.com/2026/07/24/governing-al-agents-at-scale-video/",
-    "source": "helpnet"
-  },
-  {
-    "title": "The best-funded companies open the most phishing attachments",
-    "url": "https://www.helpnetsecurity.com/2026/07/24/phishing-simulation-benchmark-report/",
+    "title": "Aviation cyber risk sits on the ground, the blindness sits in the air",
+    "url": "https://www.helpnetsecurity.com/2026/07/31/eliran-almong-cyviation-aviation-cyber-risk/",
     "source": "helpnet"
   },
   {
@@ -605,7 +605,12 @@
     "source": "linkedin"
   },
   {
-    "title": "Jul 24, 2026\n\n\n\n            \n        AI Under Fire: Trust, Safety and Control Tested | 176 Edition\n      \n          \n\n\n                  \n          The pace of AI innovation continues to accelerate, but so do the expectations surrounding its safe and responsible use.\u2026\n      \n                \n\n\n\n\n\n\n\n                    4",
+    "title": "Jul 31, 2026\n\n\n\n            \n        From Black Hat USA 2025 to What's Next | 177 Edition\n      \n          \n\n\n                  \n          The countdown to Black Hat USA 2026 has begun. Before cybersecurity's biggest conversations take over Las Vegas once\u2026\n      \n                \n\n\n\n\n\n\n\n                    6",
+    "url": "https://www.linkedin.com/pulse/from-black-hat-usa-2025-whats-next-tb4uf?trk=article-ssr-frontend-pulse",
+    "source": "linkedin"
+  },
+  {
+    "title": "Jul 24, 2026\n\n\n\n            \n        AI Under Fire: Trust, Safety and Control Tested | 176 Edition\n      \n          \n\n\n                  \n          The pace of AI innovation continues to accelerate, but so do the expectations surrounding its safe and responsible use.\u2026\n      \n                \n\n\n\n\n\n\n\n                    5",
     "url": "https://www.linkedin.com/pulse/ai-under-fire-trust-safety-control-mvcqf?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
   },
@@ -647,11 +652,6 @@
   {
     "title": "May 29, 2026\n\n\n\n            \n        Agentic AI Risks, Healthcare Breaches & the Expanding Cyber Attack Surface | Edition 168\n      \n          \n\n\n                  \n          Agentic AI in Healthcare Is a Risky Proposition Humans make mistakes. They fall for phishing scams and click on\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    9\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
     "url": "https://www.linkedin.com/pulse/agentic-ai-risks-healthcare-breaches-6tvof?trk=article-ssr-frontend-pulse",
-    "source": "linkedin"
-  },
-  {
-    "title": "May 22, 2026\n\n\n\n            \n        AI Power Struggles, Governance Battles & the Race to Trillion-Dollar Dominance | Edition 167\n      \n          \n\n\n                  \n          China-Aligned Webworm Adds Discord, OneDrive Backdoors Security researchers uncovered new activity from a\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    13\n              \n\n\n \n\n \n\n\n\n\n\n        \n                2 Comments",
-    "url": "https://www.linkedin.com/pulse/ai-power-struggles-governance-battles-iysaf?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
   }
 ]

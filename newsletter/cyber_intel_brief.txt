@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-07-27
+Date: 2026-08-03
 
 Strategic cybersecurity signals identified this week.
 
@@ -32,6 +32,9 @@ Source: https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arres
 
 Hospitals at Risk of BeyondTrust Ransomware Hacks
 Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
+
+Aviation cyber risk sits on the ground, the blindness sits in the air
+Source: https://www.helpnetsecurity.com/2026/07/31/eliran-almong-cyviation-aviation-cyber-risk/
 
 Jun 5, 2026
 
