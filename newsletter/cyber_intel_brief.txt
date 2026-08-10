@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-08-03
+Date: 2026-08-10
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,11 +12,11 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
-New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit
-Source: https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html
+N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete
+Source: https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html
 
-Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers
-Source: https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html
+Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts
+Source: https://thehackernews.com/2026/08/google-password-manager-attacks-could.html
 
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
@@ -32,9 +32,6 @@ Source: https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arres
 
 Hospitals at Risk of BeyondTrust Ransomware Hacks
 Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
-
-Aviation cyber risk sits on the ground, the blindness sits in the air
-Source: https://www.helpnetsecurity.com/2026/07/31/eliran-almong-cyviation-aviation-cyber-risk/
 
 Jun 5, 2026
 

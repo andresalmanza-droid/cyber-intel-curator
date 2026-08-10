@@ -35,15 +35,15 @@
     "signal": "general_signal"
   },
   {
-    "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-    "url": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
+    "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
+    "url": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
   {
-    "title": "Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers",
-    "url": "https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html",
+    "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+    "url": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
@@ -95,13 +95,6 @@
     "url": "https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block",
     "source": "linkedin",
     "category": "ransomware",
-    "signal": "general_signal"
-  },
-  {
-    "title": "Aviation cyber risk sits on the ground, the blindness sits in the air",
-    "url": "https://www.helpnetsecurity.com/2026/07/31/eliran-almong-cyviation-aviation-cyber-risk/",
-    "source": "helpnet",
-    "category": "riesgo",
     "signal": "general_signal"
   },
   {
