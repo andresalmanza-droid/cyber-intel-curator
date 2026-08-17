@@ -180,33 +180,33 @@
     "source": "hackernews"
   },
   {
-    "title": "[Webinar] How Militaries Can Trust the Data Behind Autonomous Missions",
-    "url": "https://thehackernews.uk/webinar-register-uk",
+    "title": "See How to Stop the Browser-Based Attacks Your Existing Stack Misses [Book a Live Demo]",
+    "url": "https://thehackernews.uk/tech-demo-hack",
     "source": "hackernews"
   },
   {
-    "title": "Download the 5-Step Action Plan for AI-Speed Exploitation",
-    "url": "https://thehackernews.uk/postmythos-plan",
+    "title": "[Webinar] See Where Claude Fits in the SOC and Where It Falls Short at Scale",
+    "url": "https://thehackernews.uk/ai-soc-insights",
     "source": "hackernews"
   },
   {
-    "title": "Get the Checklist for Gaining Control of AI Use Across Your Organization",
-    "url": "https://thehackernews.uk/ai-governance-checklist",
+    "title": "Defend Against One-Click AI Memory Poisoning \u2014 Download the Cheat Sheet",
+    "url": "https://thehackernews.uk/ai-memory-cheat",
     "source": "hackernews"
   },
   {
-    "title": "Get the 2026 CISO Benchmark Report Based on 600 Security Leaders",
-    "url": "https://thehackernews.uk/incident-readiness-survey",
+    "title": "Benchmark Your Defenses Against 338M+ Attack Simulations \u2014 Download the Blue Report 2026",
+    "url": "https://thehackernews.uk/sec-performance-benchmark",
     "source": "hackernews"
   },
   {
-    "title": "Risk in AI-Generated Code\nHow to Secure AI Code Before It Reaches Production\nLearn how 300 enterprise leaders are managing AI-driven open-source risk, remediation debt, and governance at scale.\nRegister",
+    "title": "AI Attacks Are Moving Faster.\nWatch: How to Prepare Your Security Program for AI-Powered Attacks\nAI can find and chain vulnerabilities in minutes. This session gives you a practical roadmap to strengthen visibility, response, and remediation.\nRegister",
+    "url": "https://thehacker.news/ai-threat-readiness?source=below",
+    "source": "hackernews"
+  },
+  {
+    "title": "See What 300 Leaders Found\nShipping 10\u201350\u00d7 More Code? Learn How to Keep Security in Control\nAI is helping teams ship code 10\u201350\u00d7 faster. This session shows how to keep security from falling behind.\nRegister",
     "url": "https://thehacker.news/ai-coding-risk?source=below",
-    "source": "hackernews"
-  },
-  {
-    "title": "Build AI Securely\nHow to Secure AI-Built Software at Machine Speed\nLearn how to govern risk, secure AI-built software, and keep control as development moves at machine speed.\nRegister",
-    "url": "https://thehacker.news/secure-ai-development?source=below",
     "source": "hackernews"
   },
   {
@@ -215,33 +215,33 @@
     "source": "hackernews"
   },
   {
-    "title": "Burp, sqlmap, SSRF, XXE, SSTI: Web Exploitation, Hands-On35 labs plus a live CTF take you from recon to remote code execution. GWAPT prep, SANS CDI in D.C.",
-    "url": "https://thehackernews.uk/cyber-defense-26",
+    "title": "AI and Post-Quantum Are Now the Board's Problem, and YoursBuild the governance to lead AI adoption and prep for post-quantum. Live at SANS Raleigh, Nov 2.",
+    "url": "https://thehackernews.uk/cyber-training-raleigh",
     "source": "hackernews"
   },
   {
-    "title": "SANS AI Cybersecurity Summit Returns This NovemberLearn how practitioners are applying AI to today's cybersecurity challenges.",
-    "url": "https://thehackernews.uk/sans-summit-ai",
+    "title": "AI Adoption Is Outpacing Governance, New SANS Survey FindsSee where 536 security pros say AI programs are falling short.",
+    "url": "https://thehackernews.uk/sans-insights-2026",
     "source": "hackernews"
   },
   {
-    "title": "AI Agent Lifecycle Risks\n\n\ue802August 10, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/videos/2026/08/ai-agent-lifecycle-risks.html",
+    "title": "Identity Governance Wasn't Built for Breaches That Happen in Hours\n\n\ue802August 17, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/08/identity-governance-wasnt-built-for.html",
     "source": "hackernews"
   },
   {
-    "title": "Agents Work Everywhere Now. Governance Has to See Everywhere Too.\n\n\ue802August 10, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/08/agents-work-everywhere-now-governance.html",
+    "title": "The Long Road From Pentest Finding to Verified Fix\n\n\ue802August 17, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/08/the-long-road-from-pentest-finding-to.html",
+    "source": "hackernews"
+  },
+  {
+    "title": "Why Your AI Developer Tools Might Be Your Biggest Security Risk\n\n\ue802August 17, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/08/why-your-ai-developer-tools-might-be.html",
     "source": "hackernews"
   },
   {
     "title": "The Blind Spot in Modern Email Security\n\n\ue802August 10, 2026\nRead \u279d",
     "url": "https://thehackernews.com/expert-insights/2026/08/the-blind-spot-in-modern-email-security.html",
-    "source": "hackernews"
-  },
-  {
-    "title": "How AI-Assisted Attacks Are Breaking Legacy SIEM Tools\n\n\ue802August 3, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/08/how-ai-assisted-attacks-are-breaking.html",
     "source": "hackernews"
   },
   {
@@ -505,18 +505,18 @@
     "source": "helpnet"
   },
   {
-    "title": "AI agent deception moves from theory to reality in UK cyber tests",
-    "url": "https://www.helpnetsecurity.com/2026/08/05/ai-agent-deception-in-cyber-tests/",
+    "title": "Hazmat: Open-source containment for AI agents",
+    "url": "https://www.helpnetsecurity.com/2026/08/17/hazmat-open-source-ai-coding-agent-containment/",
     "source": "helpnet"
   },
   {
-    "title": "Bank of America impersonators weaponize ScreenConnect, then make it hard to remove",
-    "url": "https://www.helpnetsecurity.com/2026/08/05/fake-bank-of-america-email-account-guard/",
+    "title": "Cisco fixes vulnerability exploited to DoS its firewalls (CVE-2026-20349)",
+    "url": "https://www.helpnetsecurity.com/2026/08/13/cve-2026-20349-cisco-firewalls-dos/",
     "source": "helpnet"
   },
   {
-    "title": "Future AGI: Open-source platform for shipping self-improving AI agents",
-    "url": "https://www.helpnetsecurity.com/2026/08/05/future-agi-open-source-platform-shipping-self-improving-ai-agents/",
+    "title": "Four corporate investigation mistakes organizations make under pressure",
+    "url": "https://www.helpnetsecurity.com/2026/08/13/corporate-investigation-mistakes-video/",
     "source": "helpnet"
   },
   {
@@ -535,28 +535,13 @@
     "source": "helpnet"
   },
   {
-    "title": "OpenAI locks down Astra over potential critical cyber capabilities",
-    "url": "https://www.helpnetsecurity.com/2026/08/10/openai-astra-critical-cyber-capabilities/",
+    "title": "A stranger has been reading Salesforce and ServiceNow portals worldwide for 17 months",
+    "url": "https://www.helpnetsecurity.com/2026/08/12/salesforce-servicenow-guest-user-exposure/",
     "source": "helpnet"
   },
   {
-    "title": "Chainloop: Open-source evidence store and policy engine for the software supply chain",
-    "url": "https://www.helpnetsecurity.com/2026/08/10/chainloop-open-source-supply-chain-security/",
-    "source": "helpnet"
-  },
-  {
-    "title": "August 2026 Patch Tuesday forecast: How do we deal with the patch apocalypse?",
-    "url": "https://www.helpnetsecurity.com/2026/08/07/august-2026-patch-tuesday-forecast/",
-    "source": "helpnet"
-  },
-  {
-    "title": "What the first year of EU AI Act transparency enforcement could look like",
-    "url": "https://www.helpnetsecurity.com/2026/08/07/edwin-weijdema-veeam-eu-ai-act-transparency/",
-    "source": "helpnet"
-  },
-  {
-    "title": "US fuel gauge exposure fell by more than half in three months",
-    "url": "https://www.helpnetsecurity.com/2026/08/07/automatic-fuel-tank-gauge-exposure/",
+    "title": "Microsoft patches 400+ vulnerabilities, one zero-day under attack (CVE-2026-68820)",
+    "url": "https://www.helpnetsecurity.com/2026/08/12/august-2026-patch-tuesday-cve-2026-68820/",
     "source": "helpnet"
   },
   {
@@ -615,7 +600,12 @@
     "source": "linkedin"
   },
   {
-    "title": "Aug 7, 2026\n\n\n\n            \n        AI-Powered Threats and Emerging Risks Shaping Cybersecurity This Week | 178 Edition\n      \n          \n\n\n                  \n          This week in cybersecurity: Hotel Wi-Fi networks are emerging as an attack vector for credential theft and malware\u2026\n      \n                \n\n\n\n\n\n\n\n                    12\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
+    "title": "Aug 14, 2026\n\n\n\n            \n        Inside Black Hat USA 2026 With ISMG.Studio | Edition 179\n      \n          \n\n\n                  \n          ISMG.Studio was on the ground at Black Hat USA 2026, capturing the voices, ideas and conversations defining\u2026\n      \n                \n\n\n\n\n\n\n\n                    11",
+    "url": "https://www.linkedin.com/pulse/inside-black-hat-usa-2026-ismgstudio-zppgf?trk=article-ssr-frontend-pulse",
+    "source": "linkedin"
+  },
+  {
+    "title": "Aug 7, 2026\n\n\n\n            \n        AI-Powered Threats and Emerging Risks Shaping Cybersecurity This Week | 178 Edition\n      \n          \n\n\n                  \n          This week in cybersecurity: Hotel Wi-Fi networks are emerging as an attack vector for credential theft and malware\u2026\n      \n                \n\n\n\n\n\n\n\n                    14\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
     "url": "https://www.linkedin.com/pulse/ai-powered-threats-emerging-risks-shaping-fydyf?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
   },
@@ -657,11 +647,6 @@
   {
     "title": "Jun 12, 2026\n\n\n\n            \n        Tracking the rise, risks, and regulation of intelligent systems | Edition 170\n      \n          \n\n\n                  \n          Artificial intelligence is no longer just enhancing cybersecurity; it is redefining it. As AI capabilities advance\u2026\n      \n                \n\n\n\n\n\n\n\n                    11",
     "url": "https://www.linkedin.com/pulse/tracking-rise-risks-regulation-intelligent-hpzof?trk=article-ssr-frontend-pulse",
-    "source": "linkedin"
-  },
-  {
-    "title": "Jun 5, 2026\n\n\n\n            \n        Through the Lens of ISMG: Governance in the Age of AI and Cyber Risk | Edition 169\n      \n          \n\n\n                  \n          Who is prepared to govern the next generation of cyber and AI risk? That question runs through this week's edition as\u2026\n      \n                \n\n\n\n\n\n\n\n\n\n                    8\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
-    "url": "https://www.linkedin.com/pulse/through-lens-ismg-governance-age-ai-syszf?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
   }
 ]

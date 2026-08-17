@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-08-10
+Date: 2026-08-17
 
 Strategic cybersecurity signals identified this week.
 
@@ -32,45 +32,6 @@ Source: https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arres
 
 Hospitals at Risk of BeyondTrust Ransomware Hacks
 Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
-
-Jun 5, 2026
-
-
-
-            
-        Through the Lens of ISMG: Governance in the Age of AI and Cyber Risk | Edition 169
-      
-          
-
-
-                  
-          Who is prepared to govern the next generation of cyber and AI risk? That question runs through this week's edition as…
-      
-                
-
-
-
-
-
-
-
-
-
-                    8
-              
-
-
- 
-
- 
-
-
-
-
-
-        
-                1 Comment
-Source: https://www.linkedin.com/pulse/through-lens-ismg-governance-age-ai-syszf?trk=article-ssr-frontend-pulse
 
 
 === WEAK_SIGNAL ===

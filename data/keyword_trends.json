@@ -16,10 +16,6 @@
     "mentions": 3
   },
   {
-    "keyword": "risk",
-    "mentions": 3
-  },
-  {
     "keyword": "control",
     "mentions": 2
   },
@@ -28,15 +24,19 @@
     "mentions": 2
   },
   {
-    "keyword": "governance",
-    "mentions": 2
-  },
-  {
     "keyword": "attacks",
     "mentions": 2
   },
   {
     "keyword": "api",
+    "mentions": 2
+  },
+  {
+    "keyword": "code",
+    "mentions": 2
+  },
+  {
+    "keyword": "networks",
     "mentions": 2
   }
 ]
