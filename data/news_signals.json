@@ -49,15 +49,15 @@
     "signal": "general_signal"
   },
   {
-    "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-    "url": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
+    "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+    "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
   {
-    "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
-    "url": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+    "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
+    "url": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
@@ -81,6 +81,13 @@
     "url": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
     "source": "hackernews",
     "category": "algo_mas",
+    "signal": "general_signal"
+  },
+  {
+    "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
+    "url": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
+    "source": "hackernews",
+    "category": "brechas",
     "signal": "general_signal"
   },
   {

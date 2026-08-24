@@ -8,7 +8,7 @@
     "mentions": 3
   },
   {
-    "keyword": "google",
+    "keyword": "attack",
     "mentions": 3
   },
   {
@@ -24,7 +24,11 @@
     "mentions": 2
   },
   {
-    "keyword": "attacks",
+    "keyword": "google",
+    "mentions": 2
+  },
+  {
+    "keyword": "data",
     "mentions": 2
   },
   {
@@ -32,11 +36,7 @@
     "mentions": 2
   },
   {
-    "keyword": "code",
-    "mentions": 2
-  },
-  {
-    "keyword": "networks",
+    "keyword": "exposed",
     "mentions": 2
   }
 ]

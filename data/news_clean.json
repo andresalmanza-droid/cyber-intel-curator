@@ -70,133 +70,148 @@
     "source": "hackernews"
   },
   {
-    "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
-    "url": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
+    "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
+    "url": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
     "source": "hackernews"
   },
   {
-    "title": "Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations",
-    "url": "https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html",
+    "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
+    "url": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
     "source": "hackernews"
   },
   {
-    "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
-    "url": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
+    "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+    "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
     "source": "hackernews"
   },
   {
-    "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners\u2019 Broadband Into Proxies",
-    "url": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
+    "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
+    "url": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
     "source": "hackernews"
   },
   {
-    "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-    "url": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
+    "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
+    "url": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
     "source": "hackernews"
   },
   {
-    "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
-    "url": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+    "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices",
+    "url": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
     "source": "hackernews"
   },
   {
-    "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
-    "url": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+    "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+    "url": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
     "source": "hackernews"
   },
   {
-    "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
-    "url": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+    "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+    "url": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
     "source": "hackernews"
   },
   {
-    "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
-    "url": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
+    "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+    "url": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
     "source": "hackernews"
   },
   {
-    "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-    "url": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
+    "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+    "url": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
     "source": "hackernews"
   },
   {
-    "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-    "url": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+    "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+    "url": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
     "source": "hackernews"
   },
   {
-    "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
-    "url": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+    "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
+    "url": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
     "source": "hackernews"
   },
   {
-    "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
-    "url": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
+    "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+    "url": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
     "source": "hackernews"
   },
   {
-    "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses",
-    "url": "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html",
+    "title": "\u26a1 Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+    "url": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
     "source": "hackernews"
   },
   {
-    "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
-    "url": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
+    "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+    "url": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
     "source": "hackernews"
   },
   {
-    "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
-    "url": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
+    "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+    "url": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
     "source": "hackernews"
   },
   {
-    "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
-    "url": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
+    "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
+    "url": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
     "source": "hackernews"
   },
   {
-    "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-    "url": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+    "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware",
+    "url": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
     "source": "hackernews"
   },
   {
-    "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
-    "url": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
+    "title": "Apple Warns Users in 110 Countries They May Be Targets of Mercenary Spyware",
+    "url": "https://thehackernews.com/2026/08/apple-warns-users-in-110-countries-they.html",
     "source": "hackernews"
   },
   {
-    "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
-    "url": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+    "title": "Trump Memo Paves Way for U.S. Firms to Hack and Disrupt Foreign Crime Groups",
+    "url": "https://thehackernews.com/2026/08/trump-memo-paves-way-for-us-firms-to.html",
     "source": "hackernews"
   },
   {
-    "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
-    "url": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
+    "title": "GeoServer Zero-Day Targeted in Active Exploitation Attempts, Can Lead to RCE",
+    "url": "https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html",
     "source": "hackernews"
   },
   {
-    "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
-    "url": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
+    "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+    "url": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
     "source": "hackernews"
   },
   {
-    "title": "See How to Stop the Browser-Based Attacks Your Existing Stack Misses [Book a Live Demo]",
-    "url": "https://thehackernews.uk/tech-demo-hack",
+    "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+    "url": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
     "source": "hackernews"
   },
   {
-    "title": "[Webinar] See Where Claude Fits in the SOC and Where It Falls Short at Scale",
-    "url": "https://thehackernews.uk/ai-soc-insights",
+    "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+    "url": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
     "source": "hackernews"
   },
   {
-    "title": "Defend Against One-Click AI Memory Poisoning \u2014 Download the Cheat Sheet",
-    "url": "https://thehackernews.uk/ai-memory-cheat",
+    "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+    "url": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
     "source": "hackernews"
   },
   {
-    "title": "Benchmark Your Defenses Against 338M+ Attack Simulations \u2014 Download the Blue Report 2026",
-    "url": "https://thehackernews.uk/sec-performance-benchmark",
+    "title": "See How Keeper Secrets Manager Removes Hard-Coded Credentials",
+    "url": "https://thehackernews.uk/keeper-secrets-mngr",
+    "source": "hackernews"
+  },
+  {
+    "title": "Download the CISO's Guide to Smarter AI Security Investment",
+    "url": "https://thehackernews.uk/ciso-ai-guide",
+    "source": "hackernews"
+  },
+  {
+    "title": "Phishing Is Costing Security Teams More Than Ever \u2014 Read the New Report",
+    "url": "https://thehackernews.uk/orsterman-phishing-report",
+    "source": "hackernews"
+  },
+  {
+    "title": "Build AI Agents and Automations Without Losing Security Control",
+    "url": "https://thehackernews.uk/tines-ai-workflow",
     "source": "hackernews"
   },
   {
@@ -225,8 +240,13 @@
     "source": "hackernews"
   },
   {
-    "title": "Identity Governance Wasn't Built for Breaches That Happen in Hours\n\n\ue802August 17, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/08/identity-governance-wasnt-built-for.html",
+    "title": "Why Threat Intelligence Needs OT Context to Protect Critical Infrastructure\n\n\ue802August 24, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/08/why-threat-intelligence-needs-ot.html",
+    "source": "hackernews"
+  },
+  {
+    "title": "Why AI Teams Need Verifiable Search Data Instead of Black-Box Signals\n\n\ue802August 24, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/08/why-ai-teams-need-verifiable-search.html",
     "source": "hackernews"
   },
   {
@@ -237,11 +257,6 @@
   {
     "title": "Why Your AI Developer Tools Might Be Your Biggest Security Risk\n\n\ue802August 17, 2026\nRead \u279d",
     "url": "https://thehackernews.com/expert-insights/2026/08/why-your-ai-developer-tools-might-be.html",
-    "source": "hackernews"
-  },
-  {
-    "title": "The Blind Spot in Modern Email Security\n\n\ue802August 10, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/08/the-blind-spot-in-modern-email-security.html",
     "source": "hackernews"
   },
   {
@@ -505,6 +520,11 @@
     "source": "helpnet"
   },
   {
+    "title": "A hollowed out data layer is making CISOs fly blind into AI attacks",
+    "url": "https://www.helpnetsecurity.com/2026/08/18/siem-data-blind-spots-mapping/",
+    "source": "helpnet"
+  },
+  {
     "title": "Hazmat: Open-source containment for AI agents",
     "url": "https://www.helpnetsecurity.com/2026/08/17/hazmat-open-source-ai-coding-agent-containment/",
     "source": "helpnet"
@@ -515,13 +535,8 @@
     "source": "helpnet"
   },
   {
-    "title": "Four corporate investigation mistakes organizations make under pressure",
-    "url": "https://www.helpnetsecurity.com/2026/08/13/corporate-investigation-mistakes-video/",
-    "source": "helpnet"
-  },
-  {
     "title": "Download: The High-Performance Team Playbook",
-    "url": "https://helpnet.short.gy/lfCprP",
+    "url": "https://www.helpnetsecurity.com/2026/07/28/download-the-high-performance-team-playbook/",
     "source": "helpnet"
   },
   {
@@ -535,13 +550,13 @@
     "source": "helpnet"
   },
   {
-    "title": "A stranger has been reading Salesforce and ServiceNow portals worldwide for 17 months",
-    "url": "https://www.helpnetsecurity.com/2026/08/12/salesforce-servicenow-guest-user-exposure/",
+    "title": "Four corporate investigation mistakes organizations make under pressure",
+    "url": "https://www.helpnetsecurity.com/2026/08/13/corporate-investigation-mistakes-video/",
     "source": "helpnet"
   },
   {
-    "title": "Microsoft patches 400+ vulnerabilities, one zero-day under attack (CVE-2026-68820)",
-    "url": "https://www.helpnetsecurity.com/2026/08/12/august-2026-patch-tuesday-cve-2026-68820/",
+    "title": "A stranger has been reading Salesforce and ServiceNow portals worldwide for 17 months",
+    "url": "https://www.helpnetsecurity.com/2026/08/12/salesforce-servicenow-guest-user-exposure/",
     "source": "helpnet"
   },
   {
@@ -600,6 +615,11 @@
     "source": "linkedin"
   },
   {
+    "title": "Aug 21, 2026\n\n\n\n            \n        AI Is Reshaping the Threat Landscape: This Week in Cybersecurity | 180 Edition\n      \n          \n\n\n                  \n          This week in Cybersecurity: AI is moving deeper into enterprise security, but its rapid adoption is creating a new\u2026\n      \n                \n\n\n\n\n\n\n\n                    10\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
+    "url": "https://www.linkedin.com/pulse/ai-reshaping-threat-landscape-week-bcnnf?trk=article-ssr-frontend-pulse",
+    "source": "linkedin"
+  },
+  {
     "title": "Aug 14, 2026\n\n\n\n            \n        Inside Black Hat USA 2026 With ISMG.Studio | Edition 179\n      \n          \n\n\n                  \n          ISMG.Studio was on the ground at Black Hat USA 2026, capturing the voices, ideas and conversations defining\u2026\n      \n                \n\n\n\n\n\n\n\n                    11",
     "url": "https://www.linkedin.com/pulse/inside-black-hat-usa-2026-ismgstudio-zppgf?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
@@ -642,11 +662,6 @@
   {
     "title": "Jun 19, 2026\n\n\n\n            \n        Navigating the politics, power and control of frontier AI | Edition 171\n      \n          \n\n\n                  \n          The debate over who controls access to advanced AI is intensifying. This edition examines the fallout from U.\n      \n                \n\n\n\n\n\n\n\n\n                    10\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
     "url": "https://www.linkedin.com/pulse/navigating-politics-power-control-frontier-feg8f?trk=article-ssr-frontend-pulse",
-    "source": "linkedin"
-  },
-  {
-    "title": "Jun 12, 2026\n\n\n\n            \n        Tracking the rise, risks, and regulation of intelligent systems | Edition 170\n      \n          \n\n\n                  \n          Artificial intelligence is no longer just enhancing cybersecurity; it is redefining it. As AI capabilities advance\u2026\n      \n                \n\n\n\n\n\n\n\n                    11",
-    "url": "https://www.linkedin.com/pulse/tracking-rise-risks-regulation-intelligent-hpzof?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
   }
 ]

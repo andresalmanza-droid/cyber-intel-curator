@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-08-17
+Date: 2026-08-24
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,17 +12,20 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
-N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete
-Source: https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html
+New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data
+Source: https://thehackernews.com/2026/08/new-cryptographic-context-injection.html
 
-Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts
-Source: https://thehackernews.com/2026/08/google-password-manager-attacks-could.html
+Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments
+Source: https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html
 
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
 
 Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration
 Source: https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html
+
+SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers
+Source: https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html
 
 Industrial networks continue to leak onto the internet
 Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
