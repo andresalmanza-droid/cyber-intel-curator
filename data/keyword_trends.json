@@ -4,11 +4,11 @@
     "mentions": 7
   },
   {
-    "keyword": "your",
+    "keyword": "critical",
     "mentions": 3
   },
   {
-    "keyword": "attack",
+    "keyword": "your",
     "mentions": 3
   },
   {
@@ -28,15 +28,15 @@
     "mentions": 2
   },
   {
-    "keyword": "data",
+    "keyword": "disrupts",
     "mentions": 2
   },
   {
-    "keyword": "api",
+    "keyword": "flaw",
     "mentions": 2
   },
   {
-    "keyword": "exposed",
+    "keyword": "unauthenticated",
     "mentions": 2
   }
 ]

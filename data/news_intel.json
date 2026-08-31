@@ -35,15 +35,15 @@
     "signal": "general_signal"
   },
   {
-    "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
-    "url": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+    "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+    "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
   {
-    "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
-    "url": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
+    "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
+    "url": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
@@ -70,10 +70,10 @@
     "signal": "general_signal"
   },
   {
-    "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
-    "url": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
+    "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
+    "url": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
     "source": "hackernews",
-    "category": "brechas",
+    "category": "geopolitica",
     "signal": "general_signal"
   },
   {
@@ -102,6 +102,13 @@
     "url": "https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block",
     "source": "linkedin",
     "category": "ransomware",
+    "signal": "general_signal"
+  },
+  {
+    "title": "Healthcare Under Scrutiny: Cyber Risks and How to Stay Protected\n      \n \n\n\n\n\n\n\n            Hornetsecurity\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      5mo",
+    "url": "https://www.linkedin.com/pulse/healthcare-under-scrutiny-cyber-risks-how-stay-protected-vrfwf",
+    "source": "linkedin",
+    "category": "riesgo",
     "signal": "general_signal"
   }
 ]
