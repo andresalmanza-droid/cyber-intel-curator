@@ -49,15 +49,15 @@
     "signal": "general_signal"
   },
   {
-    "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
-    "url": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+    "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+    "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
   {
-    "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
-    "url": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
+    "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+    "url": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
@@ -84,8 +84,8 @@
     "signal": "general_signal"
   },
   {
-    "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
-    "url": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
+    "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
+    "url": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
     "source": "hackernews",
     "category": "geopolitica",
     "signal": "general_signal"
@@ -116,13 +116,6 @@
     "url": "https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block",
     "source": "linkedin",
     "category": "ransomware",
-    "signal": "general_signal"
-  },
-  {
-    "title": "Healthcare Under Scrutiny: Cyber Risks and How to Stay Protected\n      \n \n\n\n\n\n\n\n            Hornetsecurity\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      5mo",
-    "url": "https://www.linkedin.com/pulse/healthcare-under-scrutiny-cyber-risks-how-stay-protected-vrfwf",
-    "source": "linkedin",
-    "category": "riesgo",
     "signal": "general_signal"
   }
 ]

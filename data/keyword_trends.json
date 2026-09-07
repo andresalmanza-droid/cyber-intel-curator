@@ -4,10 +4,6 @@
     "mentions": 7
   },
   {
-    "keyword": "critical",
-    "mentions": 3
-  },
-  {
     "keyword": "your",
     "mentions": 3
   },
@@ -28,15 +24,19 @@
     "mentions": 2
   },
   {
-    "keyword": "disrupts",
+    "keyword": "attackers",
     "mentions": 2
   },
   {
-    "keyword": "flaw",
+    "keyword": "through",
     "mentions": 2
   },
   {
-    "keyword": "unauthenticated",
+    "keyword": "internet",
+    "mentions": 2
+  },
+  {
+    "keyword": "exposed",
     "mentions": 2
   }
 ]
