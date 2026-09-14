@@ -75,148 +75,148 @@
     "source": "hackernews"
   },
   {
-    "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
-    "url": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+    "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+    "url": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
     "source": "hackernews"
   },
   {
-    "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
-    "url": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
+    "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+    "url": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
     "source": "hackernews"
   },
   {
-    "title": "\u26a1 Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
-    "url": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
+    "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+    "url": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
     "source": "hackernews"
   },
   {
-    "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
-    "url": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+    "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
+    "url": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
     "source": "hackernews"
   },
   {
-    "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
-    "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+    "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
+    "url": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
     "source": "hackernews"
   },
   {
-    "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-    "url": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+    "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+    "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
     "source": "hackernews"
   },
   {
-    "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-    "url": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
+    "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+    "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
     "source": "hackernews"
   },
   {
-    "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
-    "url": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
+    "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
+    "url": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
     "source": "hackernews"
   },
   {
-    "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
-    "url": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+    "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+    "url": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
     "source": "hackernews"
   },
   {
-    "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
-    "url": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
+    "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+    "url": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
     "source": "hackernews"
   },
   {
-    "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
-    "url": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+    "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
+    "url": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
     "source": "hackernews"
   },
   {
-    "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-    "url": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+    "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
+    "url": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
     "source": "hackernews"
   },
   {
-    "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
-    "url": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+    "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
+    "url": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
     "source": "hackernews"
   },
   {
-    "title": "Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day",
-    "url": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
+    "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
+    "url": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
     "source": "hackernews"
   },
   {
-    "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
-    "url": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+    "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
+    "url": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
     "source": "hackernews"
   },
   {
-    "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
-    "url": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+    "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+    "url": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
     "source": "hackernews"
   },
   {
-    "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
-    "url": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+    "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+    "url": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
     "source": "hackernews"
   },
   {
-    "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
-    "url": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
+    "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
+    "url": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
     "source": "hackernews"
   },
   {
-    "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
-    "url": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+    "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
+    "url": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
     "source": "hackernews"
   },
   {
-    "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
-    "url": "https://thehackernews.com/2026/09/fake-software-installers-disable.html",
+    "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
+    "url": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
     "source": "hackernews"
   },
   {
-    "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
-    "url": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+    "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
+    "url": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
     "source": "hackernews"
   },
   {
-    "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
-    "url": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+    "title": "What It Took to Reach 1 Billion Build Manifests",
+    "url": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
     "source": "hackernews"
   },
   {
-    "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
-    "url": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
+    "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+    "url": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
     "source": "hackernews"
   },
   {
-    "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
-    "url": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
+    "title": "Why Are So Many Security Professionals Keeping Breaches Quiet?",
+    "url": "https://thehackernews.com/expert-insights/2026/09/why-are-so-many-security-professionals.html",
     "source": "hackernews"
   },
   {
-    "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-    "url": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
+    "title": "The Economics of Dwell Time and Why AI Native SIEM Changes the Equation",
+    "url": "https://thehackernews.com/expert-insights/2026/09/the-economics-of-dwell-time-and-why-ai.html",
     "source": "hackernews"
   },
   {
-    "title": "See How Keeper Secrets Manager Removes Hard-Coded Credentials",
-    "url": "https://thehackernews.uk/keeper-secrets-mngr",
+    "title": "Get the eBook: Map Enterprise AI Risk Across the Full Lifecycle",
+    "url": "https://thehackernews.uk/secure-ai-readiness",
     "source": "hackernews"
   },
   {
-    "title": "Download the CISO's Guide to Smarter AI Security Investment",
-    "url": "https://thehackernews.uk/ciso-ai-guide",
+    "title": "Give SOC Analysts Visibility Into 90% of Attacks Within 60 Seconds",
+    "url": "https://thehackernews.uk/secure-soc",
     "source": "hackernews"
   },
   {
-    "title": "Phishing Is Costing Security Teams More Than Ever \u2014 Read the New Report",
-    "url": "https://thehackernews.uk/orsterman-phishing-report",
+    "title": "Benchmark Your SOC's AI Adoption With the 2026 Security Operations Report",
+    "url": "https://thehackernews.uk/ai-threat-insights",
     "source": "hackernews"
   },
   {
-    "title": "Build AI Agents and Automations Without Losing Security Control",
-    "url": "https://thehackernews.uk/tines-ai-workflow",
+    "title": "Register for LDR516: Strategic Vulnerability and Threat Management at SANS DC Metro",
+    "url": "https://thehackernews.uk/dc-metro-training",
     "source": "hackernews"
   },
   {
@@ -235,18 +235,23 @@
     "source": "hackernews"
   },
   {
-    "title": "SANS 2026 Security Awareness & Culture Report Shows What's Next11 years of practitioner data on what it takes to keep pace with a field that keeps shifting.",
-    "url": "https://thehackernews.uk/security-awareness-2026",
+    "title": "11 years of data. New AI Risk GuidanceSee where the field is heading",
+    "url": "https://thehackernews.uk/sec-awareness-26",
     "source": "hackernews"
   },
   {
-    "title": "Prevention Already Failed. What Does Your Monitoring Actually Catch?A 6-day SANS course rebuilds hybrid detection across cloud, endpoint, and network. GMON, Sept 21.",
-    "url": "https://thehackernews.uk/cybersec-training-ns26",
+    "title": "Prompt Injection. Agent Abuse. Model Weight Theft. Ten Hands-On LabsSANS adversarial AI training covers LLMs, RAG pipelines, and MCP servers. GAIPT. D.C., December.",
+    "url": "https://thehackernews.uk/cyber-defense-2026",
     "source": "hackernews"
   },
   {
-    "title": "Blind Spots and Backdoors: Practical Advice for Identity Risk Reduction\n\n\ue802September 7, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/09/blind-spots-and-backdoors-practical.html",
+    "title": "Stop Trying to Control AI Behavior. Control What AI Can Reach\n\n\ue802September 14, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/09/stop-trying-to-control-ai-behavior.html",
+    "source": "hackernews"
+  },
+  {
+    "title": "How to Evaluate a Unified Security Platform Using a One-Incident Test\n\n\ue802September 14, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/09/how-to-evaluate-unified-security.html",
     "source": "hackernews"
   },
   {
@@ -257,11 +262,6 @@
   {
     "title": "Why Are So Many Security Professionals Keeping Breaches Quiet?\n\n\ue802September 7, 2026\nRead \u279d",
     "url": "https://thehackernews.com/expert-insights/2026/09/why-are-so-many-security-professionals.html",
-    "source": "hackernews"
-  },
-  {
-    "title": "The EU CRA Will Make You Report What It Hasn't Yet Made You Fix\n\n\ue802August 31, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/08/the-eu-will-make-you-report-what-it.html",
     "source": "hackernews"
   },
   {
@@ -525,18 +525,18 @@
     "source": "helpnet"
   },
   {
-    "title": "Thomson Reuters reveals breach that exposed U.S. and Canadian court records",
-    "url": "https://www.helpnetsecurity.com/2026/09/03/thomson-reuters-reveals-breach-that-exposed-u-s-and-canadian-court-records/",
+    "title": "What we know about the Revolut data breach so far",
+    "url": "https://www.helpnetsecurity.com/2026/09/14/revolut-data-breach-privacy/",
     "source": "helpnet"
   },
   {
-    "title": "Your threat feed is someone else\u2019s database: What ingesting malware intel at scale takes",
-    "url": "https://www.helpnetsecurity.com/2026/09/03/github-threat-intelligence-feed-ingestion/",
+    "title": "Turn it off and on again, but for critical infrastructure",
+    "url": "https://www.helpnetsecurity.com/2026/09/14/ot-intrusion-response-agent/",
     "source": "helpnet"
   },
   {
-    "title": "When AI quietly breaks things, who pays?",
-    "url": "https://www.helpnetsecurity.com/2026/09/03/david-halbreich-reed-smith-ai-insurance-coverage-gaps/",
+    "title": "IDScan confirms breach after 153 million driver\u2019s licenses leak on dark web",
+    "url": "https://www.helpnetsecurity.com/2026/09/11/idscan-net-data-breach-153-million-drivers-licenses/",
     "source": "helpnet"
   },
   {
@@ -555,33 +555,33 @@
     "source": "helpnet"
   },
   {
-    "title": "September 2026 Patch Tuesday forecast: All we need is more time",
-    "url": "https://www.helpnetsecurity.com/2026/09/04/september-2026-patch-tuesday-forecast/",
+    "title": "What we know about the Revolut data breach so far",
+    "url": "https://www.helpnetsecurity.com/2026/09/14/revolut-data-breach-privacy/",
     "source": "helpnet"
   },
   {
-    "title": "OpenAI is putting $1 billion behind Daybreak for defenders working without enterprise budgets",
-    "url": "https://www.helpnetsecurity.com/2026/09/04/openai-daybreak-frontline-defenders-access/",
+    "title": "Turn it off and on again, but for critical infrastructure",
+    "url": "https://www.helpnetsecurity.com/2026/09/14/ot-intrusion-response-agent/",
     "source": "helpnet"
   },
   {
-    "title": "Thomson Reuters reveals breach that exposed U.S. and Canadian court records",
-    "url": "https://www.helpnetsecurity.com/2026/09/03/thomson-reuters-reveals-breach-that-exposed-u-s-and-canadian-court-records/",
+    "title": "Permify: Open-source authorization as a service",
+    "url": "https://www.helpnetsecurity.com/2026/09/14/permify-open-source-authorization-as-a-service/",
     "source": "helpnet"
   },
   {
-    "title": "Your threat feed is someone else\u2019s database: What ingesting malware intel at scale takes",
-    "url": "https://www.helpnetsecurity.com/2026/09/03/github-threat-intelligence-feed-ingestion/",
+    "title": "IDScan confirms breach after 153 million driver\u2019s licenses leak on dark web",
+    "url": "https://www.helpnetsecurity.com/2026/09/11/idscan-net-data-breach-153-million-drivers-licenses/",
     "source": "helpnet"
   },
   {
-    "title": "When AI quietly breaks things, who pays?",
-    "url": "https://www.helpnetsecurity.com/2026/09/03/david-halbreich-reed-smith-ai-insurance-coverage-gaps/",
+    "title": "Getting a stranger\u2019s phone kicked off the cellular network costs a few dollars",
+    "url": "https://www.helpnetsecurity.com/2026/09/11/cellular-network-lost-phone-reporting/",
     "source": "helpnet"
   },
   {
-    "title": "Cyware at Billington CyberSecurity Summit",
-    "url": "https://www.cyware.com/resources/events-and-conferences/17th-annual-billington-cybersecurity-summit",
+    "title": "Understand Where You Are on the CTI Maturity CurveTake the CTI Assessment",
+    "url": "https://www.cyware.com/resources/whitepapers-ebooks-and-industry-reports/cti-maturity-assessment",
     "source": "cyware"
   },
   {
@@ -690,18 +690,28 @@
     "source": "linkedin"
   },
   {
+    "title": "Cybersecurity Daily Digest - June 09, 2026\n      \n \n\n\n\n\n\n\n            Vairav Tech\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      3mo",
+    "url": "https://www.linkedin.com/pulse/cybersecurity-daily-digest-june-09-2026-vairavtechnology-ghwnc",
+    "source": "linkedin"
+  },
+  {
     "title": "The Far-Reaching Impacts of Cyber Attacks on Healthcare Organizations\n      \n \n\n\n\n\n\n\n            Ingenuity Group\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      2y",
     "url": "https://www.linkedin.com/pulse/far-reaching-impacts-cyber-attacks-healthcare-organizations-j3c4e",
     "source": "linkedin"
   },
   {
-    "title": "Why AI-powered Cybersecurity is Non-negotiable for Healthcare Leaders in 2025 \n      \n \n\n\n\n\n\n\n            Newgen Software\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
-    "url": "https://www.linkedin.com/pulse/why-ai-powered-cybersecurity-non-negotiable-healthcare-leaders-rp8lc",
+    "title": "Cyberattack Paralyzes US Healthcare Facilities\n      \n \n\n\n\n\n\n\n            David Rotenberg\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      3y",
+    "url": "https://www.linkedin.com/pulse/cyberattack-paralyzes-us-healthcare-facilities-david-rotenberg",
     "source": "linkedin"
   },
   {
-    "title": "Cyber Incident Weekly Report - Week of May 15, 2023\n      \n \n\n\n\n\n\n\n            SensCy\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      3y",
-    "url": "https://www.linkedin.com/pulse/cyber-incident-weekly-report-week-may-15-2023-senscy",
+    "title": "Cyber Incident Weekly Report - Week of October 14, 2024\n      \n \n\n\n\n\n\n\n            SensCy\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
+    "url": "https://www.linkedin.com/pulse/cyber-incident-weekly-report-week-october-14-2024-senscy-rmjge",
+    "source": "linkedin"
+  },
+  {
+    "title": "Esse Health Discloses Major Data Breach Impacting More Than 263,000 Patients.\n      \n \n\n\n\n\n\n\n            Genesis Platform\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
+    "url": "https://www.linkedin.com/pulse/esse-health-discloses-major-data-breach-impacting-more-kddlc",
     "source": "linkedin"
   },
   {
@@ -715,8 +725,8 @@
     "source": "linkedin"
   },
   {
-    "title": "Trinity Ransomware: The Triple Threat Looming Over the Healthcare Industry\n      \n \n\n\n\n\n\n\n            Krishnasai Hemanth\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
-    "url": "https://www.linkedin.com/pulse/trinity-ransomware-triple-threat-looming-over-healthcare-r-k-s-kw9cc",
+    "title": "The Healthcare Crisis - When Weak Passwords Become a Matter of Life and Death\n      \n \n\n\n\n\n\n\n            David Sehyeon Baek\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      10mo",
+    "url": "https://www.linkedin.com/pulse/healthcare-crisis-when-weak-passwords-become-matter-baek-80bec",
     "source": "linkedin"
   },
   {
@@ -725,18 +735,8 @@
     "source": "linkedin"
   },
   {
-    "title": "The Morning Everything Stopped...\n      \n \n\n\n\n\n\n\n            Ryan Sanders, MAA, MBA, MIT, CISM\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1mo",
-    "url": "https://www.linkedin.com/pulse/morning-everything-stopped-ryan-sanders-maa-mba-mit-cism-oumhe",
-    "source": "linkedin"
-  },
-  {
-    "title": "CISO Daily Update - Feb 29, 2024\n      \n \n\n\n\n\n\n\n            Marcos Christodonte II\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      2y",
-    "url": "https://www.linkedin.com/pulse/ciso-daily-update-feb-29-2024-marcos-christodonte-ii-lvnie",
-    "source": "linkedin"
-  },
-  {
-    "title": "Fordewind Healthcare Solutions Launches EHR CyberSecure:  Next-Gen EHR Management with Advanced Cybersecurity Protection for Patient Data\n      \n \n\n\n\n\n\n\n            Fordewind\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
-    "url": "https://www.linkedin.com/pulse/fordewind-healthcare-solutions-launches-ehr-cybersecure-next-gen-ehmwf",
+    "title": "The Growing Importance Of Cybersecurity In Healthcare \n      \n \n\n\n\n\n\n\n            MYFUNDBOX - Global  Payments  Simplified!\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
+    "url": "https://www.linkedin.com/pulse/growing-importance-cybersecurity-healthcare-myfundbox-wafxc",
     "source": "linkedin"
   }
 ]

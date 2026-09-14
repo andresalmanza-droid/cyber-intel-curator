@@ -42,14 +42,14 @@
     "category": "ciberataques"
   },
   {
-    "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
-    "url": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+    "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+    "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
     "source": "hackernews",
     "category": "ciberataques"
   },
   {
-    "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
-    "url": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
+    "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
+    "url": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
     "source": "hackernews",
     "category": "ciberataques"
   },
@@ -72,16 +72,10 @@
     "category": "algo_mas"
   },
   {
-    "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
-    "url": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
+    "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+    "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
     "source": "hackernews",
-    "category": "geopolitica"
-  },
-  {
-    "title": "Industrial networks continue to leak onto the internet",
-    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
-    "source": "helpnet",
-    "category": "brechas"
+    "category": "ransomware"
   },
   {
     "title": "Ransomware activity peaks outside business hours",
@@ -96,9 +90,21 @@
     "category": "ransomware"
   },
   {
-    "title": "Hospitals at Risk of BeyondTrust Ransomware Hacks",
-    "url": "https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block",
-    "source": "linkedin",
-    "category": "ransomware"
+    "title": "Industrial networks continue to leak onto the internet",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
+    "source": "helpnet",
+    "category": "brechas"
+  },
+  {
+    "title": "What we know about the Revolut data breach so far",
+    "url": "https://www.helpnetsecurity.com/2026/09/14/revolut-data-breach-privacy/",
+    "source": "helpnet",
+    "category": "brechas"
+  },
+  {
+    "title": "IDScan confirms breach after 153 million driver\u2019s licenses leak on dark web",
+    "url": "https://www.helpnetsecurity.com/2026/09/11/idscan-net-data-breach-153-million-drivers-licenses/",
+    "source": "helpnet",
+    "category": "brechas"
   }
 ]

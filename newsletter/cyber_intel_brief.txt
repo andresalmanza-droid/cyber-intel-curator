@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-09-07
+Date: 2026-09-14
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,11 +12,11 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
-Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication
-Source: https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html
+ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories
+Source: https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html
 
-Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities
-Source: https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html
+F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans
+Source: https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html
 
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
@@ -24,17 +24,20 @@ Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.h
 Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration
 Source: https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html
 
-Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests
-Source: https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html
-
-Industrial networks continue to leak onto the internet
-Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
+Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware
+Source: https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html
 
 Europol goes after The Com’s ransomware and extortion networks
 Source: https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arrests/
 
-Hospitals at Risk of BeyondTrust Ransomware Hacks
-Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
+Industrial networks continue to leak onto the internet
+Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
+
+What we know about the Revolut data breach so far
+Source: https://www.helpnetsecurity.com/2026/09/14/revolut-data-breach-privacy/
+
+IDScan confirms breach after 153 million driver’s licenses leak on dark web
+Source: https://www.helpnetsecurity.com/2026/09/11/idscan-net-data-breach-153-million-drivers-licenses/
 
 
 === WEAK_SIGNAL ===

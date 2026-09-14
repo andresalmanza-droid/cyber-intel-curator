@@ -8,6 +8,10 @@
     "mentions": 3
   },
   {
+    "keyword": "flaws",
+    "mentions": 3
+  },
+  {
     "keyword": "ransomware",
     "mentions": 3
   },
@@ -24,19 +28,15 @@
     "mentions": 2
   },
   {
-    "keyword": "attackers",
+    "keyword": "web",
     "mentions": 2
   },
   {
-    "keyword": "through",
+    "keyword": "api",
     "mentions": 2
   },
   {
-    "keyword": "internet",
-    "mentions": 2
-  },
-  {
-    "keyword": "exposed",
+    "keyword": "code",
     "mentions": 2
   }
 ]
