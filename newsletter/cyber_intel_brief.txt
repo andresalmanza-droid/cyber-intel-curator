@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-09-14
+Date: 2026-09-21
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,11 +12,11 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
-ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories
-Source: https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html
+Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root
+Source: https://thehackernews.com/2026/09/critical-check-point-management-server.html
 
-F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans
-Source: https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html
+Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks
+Source: https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html
 
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
@@ -24,20 +24,63 @@ Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.h
 Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration
 Source: https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html
 
-Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware
-Source: https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html
-
 Europol goes after The Com’s ransomware and extortion networks
 Source: https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arrests/
+
+Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users
+Source: https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html
 
 Industrial networks continue to leak onto the internet
 Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
 
-What we know about the Revolut data breach so far
-Source: https://www.helpnetsecurity.com/2026/09/14/revolut-data-breach-privacy/
+How U.S. Hospitals Became Cyber War Casualties
+      
+ 
 
-IDScan confirms breach after 153 million driver’s licenses leak on dark web
-Source: https://www.helpnetsecurity.com/2026/09/11/idscan-net-data-breach-153-million-drivers-licenses/
+
+
+
+
+
+            iPivot
+          
+
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1y
+Source: https://www.linkedin.com/pulse/how-us-hospitals-became-cyber-war-casualties-ipivot-enxwf
 
 
 === WEAK_SIGNAL ===
@@ -57,6 +100,9 @@ Source: https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html
 
 UAT-10027 Targets U.S. Education and Healthcare Sectors
 Source: https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html
+
+Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers
+Source: https://thehackernews.com/2026/09/three-threat-groups-target-russian.html
 
 
 === CONSOLIDATED_THREAT ===

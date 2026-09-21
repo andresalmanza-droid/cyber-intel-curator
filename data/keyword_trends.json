@@ -8,12 +8,20 @@
     "mentions": 3
   },
   {
-    "keyword": "flaws",
+    "keyword": "code",
     "mentions": 3
   },
   {
     "keyword": "ransomware",
     "mentions": 3
+  },
+  {
+    "keyword": "day",
+    "mentions": 2
+  },
+  {
+    "keyword": "critical",
+    "mentions": 2
   },
   {
     "keyword": "control",
@@ -28,15 +36,7 @@
     "mentions": 2
   },
   {
-    "keyword": "web",
-    "mentions": 2
-  },
-  {
-    "keyword": "api",
-    "mentions": 2
-  },
-  {
-    "keyword": "code",
+    "keyword": "attacks",
     "mentions": 2
   }
 ]

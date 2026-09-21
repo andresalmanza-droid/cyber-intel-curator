@@ -49,15 +49,15 @@
     "signal": "general_signal"
   },
   {
-    "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
-    "url": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
+    "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+    "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
   {
-    "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
-    "url": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
+    "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
+    "url": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
@@ -84,11 +84,11 @@
     "signal": "general_signal"
   },
   {
-    "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
-    "url": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+    "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+    "url": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
     "source": "hackernews",
     "category": "ransomware",
-    "signal": "general_signal"
+    "signal": "emerging_threat"
   },
   {
     "title": "Ransomware activity peaks outside business hours",
@@ -105,6 +105,13 @@
     "signal": "general_signal"
   },
   {
+    "title": "Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
+    "url": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
+    "source": "hackernews",
+    "category": "brechas",
+    "signal": "general_signal"
+  },
+  {
     "title": "Industrial networks continue to leak onto the internet",
     "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
     "source": "helpnet",
@@ -112,17 +119,10 @@
     "signal": "general_signal"
   },
   {
-    "title": "What we know about the Revolut data breach so far",
-    "url": "https://www.helpnetsecurity.com/2026/09/14/revolut-data-breach-privacy/",
-    "source": "helpnet",
-    "category": "brechas",
-    "signal": "general_signal"
-  },
-  {
-    "title": "IDScan confirms breach after 153 million driver\u2019s licenses leak on dark web",
-    "url": "https://www.helpnetsecurity.com/2026/09/11/idscan-net-data-breach-153-million-drivers-licenses/",
-    "source": "helpnet",
-    "category": "brechas",
+    "title": "How U.S. Hospitals Became Cyber War Casualties\n      \n \n\n\n\n\n\n\n            iPivot\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
+    "url": "https://www.linkedin.com/pulse/how-us-hospitals-became-cyber-war-casualties-ipivot-enxwf",
+    "source": "linkedin",
+    "category": "geopolitica",
     "signal": "general_signal"
   }
 ]

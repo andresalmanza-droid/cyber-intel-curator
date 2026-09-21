@@ -15,14 +15,9 @@
     "mentions": 3
   },
   {
-    "type": "category_trend",
-    "category": "brechas",
-    "mentions": 3
-  },
-  {
     "type": "signal_trend",
     "signal": "general_signal",
-    "mentions": 11
+    "mentions": 10
   },
   {
     "type": "signal_trend",
@@ -32,6 +27,6 @@
   {
     "type": "signal_trend",
     "signal": "emerging_threat",
-    "mentions": 2
+    "mentions": 3
   }
 ]
