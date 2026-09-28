@@ -4,23 +4,15 @@
     "mentions": 7
   },
   {
+    "keyword": "ransomware",
+    "mentions": 4
+  },
+  {
     "keyword": "your",
     "mentions": 3
   },
   {
-    "keyword": "code",
-    "mentions": 3
-  },
-  {
-    "keyword": "ransomware",
-    "mentions": 3
-  },
-  {
     "keyword": "day",
-    "mentions": 2
-  },
-  {
-    "keyword": "critical",
     "mentions": 2
   },
   {
@@ -36,7 +28,15 @@
     "mentions": 2
   },
   {
+    "keyword": "attack",
+    "mentions": 2
+  },
+  {
     "keyword": "attacks",
+    "mentions": 2
+  },
+  {
+    "keyword": "api",
     "mentions": 2
   }
 ]

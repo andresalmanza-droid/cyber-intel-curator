@@ -35,16 +35,16 @@
     "signal": "general_signal"
   },
   {
-    "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
-    "url": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+    "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+    "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
   {
-    "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
-    "url": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
-    "source": "hackernews",
+    "title": "Japanese chip-testing toolmaker Advantest suffers ransomware attack",
+    "url": "https://www.helpnetsecurity.com/2026/02/23/advantest-suffers-ransomware-attack/",
+    "source": "helpnet",
     "category": "ciberataques",
     "signal": "general_signal"
   },
@@ -70,11 +70,11 @@
     "signal": "general_signal"
   },
   {
-    "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-    "url": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-    "source": "hackernews",
-    "category": "ransomware",
-    "signal": "emerging_threat"
+    "title": "Industrial networks continue to leak onto the internet",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
+    "source": "helpnet",
+    "category": "brechas",
+    "signal": "general_signal"
   },
   {
     "title": "Ransomware activity peaks outside business hours",
@@ -91,24 +91,10 @@
     "signal": "general_signal"
   },
   {
-    "title": "Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
-    "url": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
-    "source": "hackernews",
-    "category": "brechas",
-    "signal": "general_signal"
-  },
-  {
-    "title": "Industrial networks continue to leak onto the internet",
-    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
-    "source": "helpnet",
-    "category": "brechas",
-    "signal": "general_signal"
-  },
-  {
-    "title": "How U.S. Hospitals Became Cyber War Casualties\n      \n \n\n\n\n\n\n\n            iPivot\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
-    "url": "https://www.linkedin.com/pulse/how-us-hospitals-became-cyber-war-casualties-ipivot-enxwf",
+    "title": "Hospitals at Risk of BeyondTrust Ransomware Hacks",
+    "url": "https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block",
     "source": "linkedin",
-    "category": "geopolitica",
+    "category": "ransomware",
     "signal": "general_signal"
   }
 ]

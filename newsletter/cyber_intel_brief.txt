@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-09-21
+Date: 2026-09-28
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,11 +12,11 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
-Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root
-Source: https://thehackernews.com/2026/09/critical-check-point-management-server.html
+Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks
+Source: https://thehackernews.com/2026/09/check-point-warns-of-management-server.html
 
-Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks
-Source: https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html
+Japanese chip-testing toolmaker Advantest suffers ransomware attack
+Source: https://www.helpnetsecurity.com/2026/02/23/advantest-suffers-ransomware-attack/
 
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
@@ -24,63 +24,14 @@ Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.h
 Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration
 Source: https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html
 
-Europol goes after The Com’s ransomware and extortion networks
-Source: https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arrests/
-
-Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users
-Source: https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html
-
 Industrial networks continue to leak onto the internet
 Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
 
-How U.S. Hospitals Became Cyber War Casualties
-      
- 
+Europol goes after The Com’s ransomware and extortion networks
+Source: https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arrests/
 
-
-
-
-
-
-            iPivot
-          
-
-            
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-      1y
-Source: https://www.linkedin.com/pulse/how-us-hospitals-became-cyber-war-casualties-ipivot-enxwf
+Hospitals at Risk of BeyondTrust Ransomware Hacks
+Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
 
 
 === WEAK_SIGNAL ===
@@ -100,9 +51,6 @@ Source: https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html
 
 UAT-10027 Targets U.S. Education and Healthcare Sectors
 Source: https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html
-
-Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers
-Source: https://thehackernews.com/2026/09/three-threat-groups-target-russian.html
 
 
 === CONSOLIDATED_THREAT ===
