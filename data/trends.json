@@ -11,13 +11,18 @@
   },
   {
     "type": "category_trend",
+    "category": "brechas",
+    "mentions": 3
+  },
+  {
+    "type": "category_trend",
     "category": "ransomware",
     "mentions": 3
   },
   {
     "type": "signal_trend",
     "signal": "general_signal",
-    "mentions": 9
+    "mentions": 12
   },
   {
     "type": "signal_trend",

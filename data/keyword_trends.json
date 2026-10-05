@@ -12,8 +12,8 @@
     "mentions": 3
   },
   {
-    "keyword": "day",
-    "mentions": 2
+    "keyword": "leak",
+    "mentions": 3
   },
   {
     "keyword": "control",
@@ -28,15 +28,15 @@
     "mentions": 2
   },
   {
-    "keyword": "attack",
-    "mentions": 2
-  },
-  {
     "keyword": "attacks",
     "mentions": 2
   },
   {
-    "keyword": "api",
+    "keyword": "gemini",
+    "mentions": 2
+  },
+  {
+    "keyword": "flaw",
     "mentions": 2
   }
 ]

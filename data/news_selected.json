@@ -42,15 +42,15 @@
     "category": "ciberataques"
   },
   {
-    "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
-    "url": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+    "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
+    "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
     "source": "hackernews",
     "category": "ciberataques"
   },
   {
-    "title": "Japanese chip-testing toolmaker Advantest suffers ransomware attack",
-    "url": "https://www.helpnetsecurity.com/2026/02/23/advantest-suffers-ransomware-attack/",
-    "source": "helpnet",
+    "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+    "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+    "source": "hackernews",
     "category": "ciberataques"
   },
   {
@@ -70,6 +70,18 @@
     "url": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
     "source": "hackernews",
     "category": "algo_mas"
+  },
+  {
+    "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+    "url": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+    "source": "hackernews",
+    "category": "brechas"
+  },
+  {
+    "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+    "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+    "source": "hackernews",
+    "category": "brechas"
   },
   {
     "title": "Industrial networks continue to leak onto the internet",
@@ -94,5 +106,11 @@
     "url": "https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block",
     "source": "linkedin",
     "category": "ransomware"
+  },
+  {
+    "title": "Healthcare Under Scrutiny: Cyber Risks and How to Stay Protected\n      \n \n\n\n\n\n\n\n            Hornetsecurity\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      6mo",
+    "url": "https://www.linkedin.com/pulse/healthcare-under-scrutiny-cyber-risks-how-stay-protected-vrfwf",
+    "source": "linkedin",
+    "category": "riesgo"
   }
 ]

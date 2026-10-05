@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-09-28
+Date: 2026-10-05
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,17 +12,23 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
-Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks
-Source: https://thehackernews.com/2026/09/check-point-warns-of-management-server.html
+RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims
+Source: https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html
 
-Japanese chip-testing toolmaker Advantest suffers ransomware attack
-Source: https://www.helpnetsecurity.com/2026/02/23/advantest-suffers-ransomware-attack/
+Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks
+Source: https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html
 
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
 
 Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration
 Source: https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html
+
+OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted
+Source: https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html
+
+Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers
+Source: https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html
 
 Industrial networks continue to leak onto the internet
 Source: https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/
@@ -32,6 +38,55 @@ Source: https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arres
 
 Hospitals at Risk of BeyondTrust Ransomware Hacks
 Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
+
+Healthcare Under Scrutiny: Cyber Risks and How to Stay Protected
+      
+ 
+
+
+
+
+
+
+            Hornetsecurity
+          
+
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      6mo
+Source: https://www.linkedin.com/pulse/healthcare-under-scrutiny-cyber-risks-how-stay-protected-vrfwf
 
 
 === WEAK_SIGNAL ===
