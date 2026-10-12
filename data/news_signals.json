@@ -49,15 +49,15 @@
     "signal": "general_signal"
   },
   {
-    "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
-    "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+    "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
+    "url": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
   {
-    "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
-    "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+    "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+    "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
@@ -84,24 +84,17 @@
     "signal": "general_signal"
   },
   {
-    "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
-    "url": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+    "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+    "url": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
     "source": "hackernews",
-    "category": "brechas",
+    "category": "geopolitica",
     "signal": "general_signal"
   },
   {
-    "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
-    "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+    "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+    "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
     "source": "hackernews",
-    "category": "brechas",
-    "signal": "general_signal"
-  },
-  {
-    "title": "Industrial networks continue to leak onto the internet",
-    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
-    "source": "helpnet",
-    "category": "brechas",
+    "category": "ransomware",
     "signal": "general_signal"
   },
   {
@@ -119,16 +112,16 @@
     "signal": "general_signal"
   },
   {
-    "title": "Hospitals at Risk of BeyondTrust Ransomware Hacks",
-    "url": "https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block",
-    "source": "linkedin",
-    "category": "ransomware",
+    "title": "Industrial networks continue to leak onto the internet",
+    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
+    "source": "helpnet",
+    "category": "brechas",
     "signal": "general_signal"
   },
   {
-    "title": "Healthcare Under Scrutiny: Cyber Risks and How to Stay Protected\n      \n \n\n\n\n\n\n\n            Hornetsecurity\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      6mo",
-    "url": "https://www.linkedin.com/pulse/healthcare-under-scrutiny-cyber-risks-how-stay-protected-vrfwf",
-    "source": "linkedin",
+    "title": "Geopolitics and the cyber resilience gap belong in your threat model",
+    "url": "https://www.helpnetsecurity.com/2026/10/12/akshay-joshi-wef-cyber-resilience-gap/",
+    "source": "helpnet",
     "category": "riesgo",
     "signal": "general_signal"
   }

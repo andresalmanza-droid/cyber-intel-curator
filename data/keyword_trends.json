@@ -4,16 +4,20 @@
     "mentions": 7
   },
   {
-    "keyword": "ransomware",
+    "keyword": "your",
     "mentions": 4
   },
   {
-    "keyword": "your",
+    "keyword": "code",
     "mentions": 3
   },
   {
-    "keyword": "leak",
+    "keyword": "ransomware",
     "mentions": 3
+  },
+  {
+    "keyword": "critical",
+    "mentions": 2
   },
   {
     "keyword": "control",
@@ -28,15 +32,11 @@
     "mentions": 2
   },
   {
-    "keyword": "attacks",
-    "mentions": 2
-  },
-  {
-    "keyword": "gemini",
-    "mentions": 2
-  },
-  {
     "keyword": "flaw",
+    "mentions": 2
+  },
+  {
+    "keyword": "lets",
     "mentions": 2
   }
 ]

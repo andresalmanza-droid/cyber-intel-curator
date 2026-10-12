@@ -70,108 +70,108 @@
     "source": "hackernews"
   },
   {
-    "title": "\u26a1 Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats",
-    "url": "https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html",
+    "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+    "url": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
     "source": "hackernews"
   },
   {
-    "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
-    "url": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+    "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
+    "url": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
     "source": "hackernews"
   },
   {
-    "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
-    "url": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+    "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+    "url": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
     "source": "hackernews"
   },
   {
-    "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
-    "url": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+    "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+    "url": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
     "source": "hackernews"
   },
   {
-    "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
-    "url": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
+    "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+    "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
     "source": "hackernews"
   },
   {
-    "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
-    "url": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
+    "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
+    "url": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
     "source": "hackernews"
   },
   {
-    "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
-    "url": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
+    "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
+    "url": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
     "source": "hackernews"
   },
   {
-    "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
-    "url": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
+    "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+    "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
     "source": "hackernews"
   },
   {
-    "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
-    "url": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+    "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+    "url": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
     "source": "hackernews"
   },
   {
-    "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
-    "url": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+    "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
+    "url": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
     "source": "hackernews"
   },
   {
-    "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-    "url": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+    "title": "Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains",
+    "url": "https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html",
     "source": "hackernews"
   },
   {
-    "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
-    "url": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+    "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
+    "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
     "source": "hackernews"
   },
   {
-    "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
-    "url": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+    "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+    "url": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
     "source": "hackernews"
   },
   {
-    "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
-    "url": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
+    "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+    "url": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
     "source": "hackernews"
   },
   {
-    "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
-    "url": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
+    "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
+    "url": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
     "source": "hackernews"
   },
   {
-    "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
-    "url": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
+    "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
+    "url": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
     "source": "hackernews"
   },
   {
-    "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
-    "url": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+    "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+    "url": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
     "source": "hackernews"
   },
   {
-    "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
-    "url": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+    "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
+    "url": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
     "source": "hackernews"
   },
   {
-    "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
-    "url": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html",
+    "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+    "url": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
     "source": "hackernews"
   },
   {
-    "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
-    "url": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+    "title": "\u26a1 Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
+    "url": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
     "source": "hackernews"
   },
   {
-    "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
-    "url": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+    "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
+    "url": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
     "source": "hackernews"
   },
   {
@@ -180,18 +180,13 @@
     "source": "hackernews"
   },
   {
-    "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
-    "url": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
+    "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
+    "url": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
     "source": "hackernews"
   },
   {
-    "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
-    "url": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
-    "source": "hackernews"
-  },
-  {
-    "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
-    "url": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+    "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
+    "url": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
     "source": "hackernews"
   },
   {
@@ -215,8 +210,8 @@
     "source": "hackernews"
   },
   {
-    "title": "300+ Security Leaders Reveal\nHow to Find, Authorize and Govern Every AI Agent in Your Environment\nAI agents are already operating inside enterprises with growing access to sensitive systems and data\u2014while security teams still lack the visibility, controls, and governance to keep that access in check.\nRegister",
-    "url": "https://thehacker.news/ai-agents-governance?source=below",
+    "title": "Shadow AI to Governed AI\nHow to Find and Control AI Agents Before They Become Insider Threats\nAI agents are already accessing sensitive data and systems\u2014learn how to discover them, control their permissions, and reduce insider risk before it becomes a breach.\nRegister",
+    "url": "https://thehacker.news/ai-insider-threat?source=below",
     "source": "hackernews"
   },
   {
@@ -230,13 +225,23 @@
     "source": "hackernews"
   },
   {
-    "title": "AI Security Gets Real When Agents Start Taking ActionSee how practitioners are securing, investigating, and deploying AI in the real world.",
-    "url": "https://thehackernews.uk/cyber-ai-event",
+    "title": "What Happens When AI Agents Become Part of the Attack Surface?Explore agent swarms, autonomous DFIR, AI threats, and the controls that hold up.",
+    "url": "https://thehackernews.uk/cyber-ai-summit",
     "source": "hackernews"
   },
   {
-    "title": "You Secure the Apps. Now the Apps Have LLMs in Them.Find SANS training for app sec and cloud teams who inherited GenAI risk, from RAG pipelines to AI agents.",
-    "url": "https://thehackernews.uk/sans-ai-courses",
+    "title": "FBI Cyber Division's Brett Leatherman Keynotes SANS CDI 2026, Dec 15Join SANS CEO James Lyne and the FBI on ransomware disruption and intel sharing, during SANS training in D.C.",
+    "url": "https://thehackernews.uk/cybersecurity-defense",
+    "source": "hackernews"
+  },
+  {
+    "title": "The Alert Fatigue Trap: Why Consolidation Only Solves Half the Problem\n\n\ue802October 12, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/10/the-alert-fatigue-trap-why.html",
+    "source": "hackernews"
+  },
+  {
+    "title": "Tamnoon CEO Marina Segal on the Self-Healing Cloud: Why It Starts With a Machine That Knows When Not to Act\n\n\ue802October 12, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/10/tamnoon-ceo-marina-segal-on-self.html",
     "source": "hackernews"
   },
   {
@@ -247,16 +252,6 @@
   {
     "title": "When AI Writes the Code, Who Owns the Security Decisions?\n\n\ue802October 5, 2026\nRead \u279d",
     "url": "https://thehackernews.com/expert-insights/2026/10/when-ai-writes-code-who-owns-security.html",
-    "source": "hackernews"
-  },
-  {
-    "title": "One Click on \u201cContinue\u201d Can Hand Attackers Your Entire Mailbox\n\n\ue802September 29, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/videos/2026/09/one-click-on-continue-can-hand.html",
-    "source": "hackernews"
-  },
-  {
-    "title": "What to Look for in an Insider Risk Management Platform\n\n\ue802September 28, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/09/what-to-look-for-in-insider-risk.html",
     "source": "hackernews"
   },
   {
@@ -520,18 +515,18 @@
     "source": "helpnet"
   },
   {
-    "title": "CISA flags new exploited NetScaler flaw as attackers crash appliances (CVE-2026-88779)",
-    "url": "https://www.helpnetsecurity.com/2026/10/05/cisa-flags-new-exploited-netscaler-flaw-as-attackers-crash-appliances-cve-2026-88779/",
+    "title": "Cyberattacks hit European grocers: French supermarket freezers hijacked, Dutch and Belgian stores disrupted",
+    "url": "https://www.helpnetsecurity.com/2026/10/12/france-cyberattack-supermarket-freezers/",
     "source": "helpnet"
   },
   {
-    "title": "Out-of-band Exchange Server update fixes high-severity mailbox access bug (CVE-2026-96940)",
-    "url": "https://www.helpnetsecurity.com/2026/10/05/exchange-server-vulnerability-cve-2026-96940/",
+    "title": "Low-cost Android phones are arriving with malware that owners can\u2019t uninstall",
+    "url": "https://www.helpnetsecurity.com/2026/10/12/midnight-mimosa-malware-cheap-android-phones/",
     "source": "helpnet"
   },
   {
-    "title": "Detained ShinyHunters hacker reportedly helping FBI track down fellow members",
-    "url": "https://www.helpnetsecurity.com/2026/10/05/shinyhunters-member-rey-detained-jordan-fbi/",
+    "title": "Hidden implant in Ledger hardware wallets linked to $93M theft",
+    "url": "https://www.helpnetsecurity.com/2026/10/12/ledger-wallets-compromised-via-hardware-implant/",
     "source": "helpnet"
   },
   {
@@ -555,18 +550,18 @@
     "source": "helpnet"
   },
   {
-    "title": "AI slop submissions force Google to freeze its open-source bug bounty",
-    "url": "https://www.helpnetsecurity.com/2026/10/05/google-ai-generated-vulnerability-reports-pause/",
+    "title": "Geopolitics and the cyber resilience gap belong in your threat model",
+    "url": "https://www.helpnetsecurity.com/2026/10/12/akshay-joshi-wef-cyber-resilience-gap/",
     "source": "helpnet"
   },
   {
-    "title": "Three questions a hospital CISO should ask a healthcare fintech vendor",
-    "url": "https://www.helpnetsecurity.com/2026/10/05/drew-mccombs-cylerity-healthcare-fintech-security/",
+    "title": "Strands Box: Open-source sandbox for AI agents",
+    "url": "https://www.helpnetsecurity.com/2026/10/12/aws-strands-box-open-source-ai-agent-sandbox/",
     "source": "helpnet"
   },
   {
-    "title": "Cyware at Auto-ISAC Summit 2026Register Now",
-    "url": "https://www.cyware.com/resources/events-and-conferences/cyware-at-the-10th-annual-auto-isac-cybersecurity-summit-2026",
+    "title": "Cyware at FS-ISAC Summit 2026Register Now",
+    "url": "https://www.cyware.com/resources/events-and-conferences/cyware-at-the-fs-isac-americas-fall-summit-2026",
     "source": "cyware"
   },
   {
@@ -630,6 +625,11 @@
     "source": "linkedin"
   },
   {
+    "title": "Oct 9, 2026\n\n\n\n            \n        AI Security Boundaries, Cybercrime and a Breach That Keeps Growing | Edition 185\n      \n          \n\n\n                  \n          This week's newsletter takes a closer look at the growing challenges of securing an AI-driven world, where the\u2026\n      \n                \n\n\n\n\n\n\n\n                    9",
+    "url": "https://www.linkedin.com/pulse/ai-security-boundaries-cybercrime-breach-ouxce?trk=article-ssr-frontend-pulse",
+    "source": "linkedin"
+  },
+  {
     "title": "Sep 25, 2026\n\n\n\n            \n        ISMG.Studio at HumanX: From AI Ambition to Action | Edition 184\n      \n          \n\n\n                  \n          AI is moving beyond answering questions. Now, it can act and that shift dominated the conversations at ISMG.\n      \n                \n\n\n\n\n\n\n\n                    7",
     "url": "https://www.linkedin.com/pulse/ismgstudio-humanx-from-ai-ambition-pblxf?trk=article-ssr-frontend-pulse",
     "source": "linkedin"
@@ -675,38 +675,8 @@
     "source": "linkedin"
   },
   {
-    "title": "Jul 17, 2026\n\n\n\n            \n        Acquisitions, Investment and AI: Cybersecurity's Next Growth Phase | Edition 175\n      \n          \n\n\n                  \n          The cybersecurity industry is entering a new phase of consolidation and innovation. From acquisitions that strengthen\u2026\n      \n                \n\n\n\n\n\n\n\n\n                    7",
-    "url": "https://www.linkedin.com/pulse/acquisitions-investment-ai-cybersecuritys-r3b7f?trk=article-ssr-frontend-pulse",
-    "source": "linkedin"
-  },
-  {
-    "title": "Cybersecurity Daily Digest - June 09, 2026\n      \n \n\n\n\n\n\n\n            Vairav Tech\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      3mo",
+    "title": "Cybersecurity Daily Digest - June 09, 2026\n      \n \n\n\n\n\n\n\n            Vairav Tech\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      4mo",
     "url": "https://www.linkedin.com/pulse/cybersecurity-daily-digest-june-09-2026-vairavtechnology-ghwnc",
-    "source": "linkedin"
-  },
-  {
-    "title": "The Far-Reaching Impacts of Cyber Attacks on Healthcare Organizations\n      \n \n\n\n\n\n\n\n            Ingenuity Group\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      2y",
-    "url": "https://www.linkedin.com/pulse/far-reaching-impacts-cyber-attacks-healthcare-organizations-j3c4e",
-    "source": "linkedin"
-  },
-  {
-    "title": "Cyber Incident Weekly Report - Week of October 14, 2024\n      \n \n\n\n\n\n\n\n            SensCy\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
-    "url": "https://www.linkedin.com/pulse/cyber-incident-weekly-report-week-october-14-2024-senscy-rmjge",
-    "source": "linkedin"
-  },
-  {
-    "title": "How Network Assessments Can Bolster Cybersecurity in Healthcare\n      \n \n\n\n\n\n\n\n            Belden Inc.\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
-    "url": "https://www.linkedin.com/pulse/how-network-assessments-can-bolster-cybersecurity-healthcare-jsc6e",
-    "source": "linkedin"
-  },
-  {
-    "title": "Esse Health Discloses Major Data Breach Impacting More Than 263,000 Patients.\n      \n \n\n\n\n\n\n\n            Merqab (Formerly Genesis Platform)\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
-    "url": "https://www.linkedin.com/pulse/esse-health-discloses-major-data-breach-impacting-more-kddlc",
-    "source": "linkedin"
-  },
-  {
-    "title": "How cyberattacks are crippling healthcare infrastructure (..and what you can do about it)\n      \n \n\n\n\n\n\n\n            Chaani Srivastava\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      2y",
-    "url": "https://www.linkedin.com/pulse/how-cyberattacks-crippling-healthcare-infrastructure-what-srivastava-twz7f",
     "source": "linkedin"
   },
   {
@@ -715,18 +685,43 @@
     "source": "linkedin"
   },
   {
-    "title": "Ransomware Attacks On Hospitals Predicted To Increase 5X By 2021\n      \n \n\n\n\n\n\n\n            Robert Herjavec\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      7y",
-    "url": "https://www.linkedin.com/pulse/ransomware-attacks-hospitals-predicted-increase-5x-2021-herjavec",
+    "title": "CISO Daily Update - Feb 29, 2024\n      \n \n\n\n\n\n\n\n            Marcos Christodonte II\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      2y",
+    "url": "https://www.linkedin.com/pulse/ciso-daily-update-feb-29-2024-marcos-christodonte-ii-lvnie",
     "source": "linkedin"
   },
   {
-    "title": "SecureFact - Cyber Security News - Week of May 26, 2025\n      \n \n\n\n\n\n\n\n            Mage Data\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
-    "url": "https://www.linkedin.com/pulse/securefact-cyber-security-news-week-may-26-2025-magedatadotai-t2ufc",
+    "title": "HITRUST Hype, No MFA, Outlandish Pride, and Poor Leadership were the Catalysts for the UHG/Change Health Ransomware Attack.\n      \n \n\n\n\n\n\n\n            Jeremy Swenson, MSST, MBA\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      2y",
+    "url": "https://www.linkedin.com/pulse/hitrust-hype-mfa-outlandish-pride-poor-leadership-swenson-msst-mba-pzezc",
     "source": "linkedin"
   },
   {
-    "title": "Healthcare Under Scrutiny: Cyber Risks and How to Stay Protected\n      \n \n\n\n\n\n\n\n            Hornetsecurity\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      6mo",
-    "url": "https://www.linkedin.com/pulse/healthcare-under-scrutiny-cyber-risks-how-stay-protected-vrfwf",
+    "title": "Unraveling the Threads: A Look at the Ongoing Cyber Crisis Impacting Healthcare and Tech Giants\n      \n \n\n\n\n\n\n\n            Sreenu Pasunuri\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      2y",
+    "url": "https://www.linkedin.com/pulse/unraveling-threads-look-ongoing-cyber-crisis-tech-giants-pasunuri-r8vic",
+    "source": "linkedin"
+  },
+  {
+    "title": "Healthcare providers must improve their cybersecurity in 2016 \n      \n \n\n\n\n\n\n\n            Angela Single\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      10y",
+    "url": "https://www.linkedin.com/pulse/healthcare-providers-must-improve-cybersecurity-2016-angela-single",
+    "source": "linkedin"
+  },
+  {
+    "title": "Cybersecurity finally becoming healthcare priority \n      \n \n\n\n\n\n\n\n            Rui Vicente\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      10y",
+    "url": "https://www.linkedin.com/pulse/cybersecurity-finally-becoming-healthcare-priority-rui-vicente",
+    "source": "linkedin"
+  },
+  {
+    "title": "Why is Healthcare a target for hackers?\n      \n \n\n\n\n\n\n\n            Jack Hueter\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      8y",
+    "url": "https://www.linkedin.com/pulse/why-healthcare-target-hackers-jack-hueter",
+    "source": "linkedin"
+  },
+  {
+    "title": "InfoSec News of the Week - 6/30/2025\n      \n \n\n\n\n\n\n\n            FRSecure\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
+    "url": "https://www.linkedin.com/pulse/infosec-news-week-6302025-frsecure-nnj2c",
+    "source": "linkedin"
+  },
+  {
+    "title": "Data compliance and security for Medical services \n      \n \n\n\n\n\n\n\n            Marc D.\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      3y",
+    "url": "https://www.linkedin.com/pulse/data-compliance-security-medical-services-marc-degli",
     "source": "linkedin"
   }
 ]
