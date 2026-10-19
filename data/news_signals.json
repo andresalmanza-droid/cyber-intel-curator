@@ -49,16 +49,16 @@
     "signal": "general_signal"
   },
   {
-    "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
-    "url": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
+    "title": "Attackers Heat French Supermarket Fridges Up to 50\u00b0C by Hijacking Danfoss Controllers",
+    "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
   {
-    "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
-    "url": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-    "source": "hackernews",
+    "title": "Mississippi Medical Center Clinics Still Closed After Attack",
+    "url": "https://www.databreachtoday.co.uk/mississippi-medical-center-clinics-still-closed-after-attack-a-30839?trk=article-ssr-frontend-pulse_little-text-block",
+    "source": "linkedin",
     "category": "ciberataques",
     "signal": "general_signal"
   },
@@ -84,45 +84,17 @@
     "signal": "general_signal"
   },
   {
-    "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
-    "url": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
-    "source": "hackernews",
+    "title": "Hospitals at Risk of BeyondTrust Ransomware Hacks",
+    "url": "https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block",
+    "source": "linkedin",
+    "category": "ransomware",
+    "signal": "general_signal"
+  },
+  {
+    "title": "How U.S. Hospitals Became Cyber War Casualties\n      \n \n\n\n\n\n\n\n            iPivot\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
+    "url": "https://www.linkedin.com/pulse/how-us-hospitals-became-cyber-war-casualties-ipivot-enxwf",
+    "source": "linkedin",
     "category": "geopolitica",
-    "signal": "general_signal"
-  },
-  {
-    "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
-    "url": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
-    "source": "hackernews",
-    "category": "ransomware",
-    "signal": "general_signal"
-  },
-  {
-    "title": "Ransomware activity peaks outside business hours",
-    "url": "https://www.helpnetsecurity.com/2026/02/27/sophos-identity-driven-breaches-report/",
-    "source": "helpnet",
-    "category": "ransomware",
-    "signal": "consolidated_threat"
-  },
-  {
-    "title": "Europol goes after The Com\u2019s ransomware and extortion networks",
-    "url": "https://www.helpnetsecurity.com/2026/02/27/europol-the-com-network-arrests/",
-    "source": "helpnet",
-    "category": "ransomware",
-    "signal": "general_signal"
-  },
-  {
-    "title": "Industrial networks continue to leak onto the internet",
-    "url": "https://www.helpnetsecurity.com/2026/02/27/ot-internet-exposure-cybersecurity-risk/",
-    "source": "helpnet",
-    "category": "brechas",
-    "signal": "general_signal"
-  },
-  {
-    "title": "Geopolitics and the cyber resilience gap belong in your threat model",
-    "url": "https://www.helpnetsecurity.com/2026/10/12/akshay-joshi-wef-cyber-resilience-gap/",
-    "source": "helpnet",
-    "category": "riesgo",
     "signal": "general_signal"
   }
 ]

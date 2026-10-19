@@ -5,19 +5,7 @@
   },
   {
     "keyword": "your",
-    "mentions": 4
-  },
-  {
-    "keyword": "code",
     "mentions": 3
-  },
-  {
-    "keyword": "ransomware",
-    "mentions": 3
-  },
-  {
-    "keyword": "critical",
-    "mentions": 2
   },
   {
     "keyword": "control",
@@ -32,11 +20,23 @@
     "mentions": 2
   },
   {
-    "keyword": "flaw",
+    "keyword": "attack",
     "mentions": 2
   },
   {
-    "keyword": "lets",
+    "keyword": "api",
     "mentions": 2
+  },
+  {
+    "keyword": "code",
+    "mentions": 2
+  },
+  {
+    "keyword": "hospitals",
+    "mentions": 2
+  },
+  {
+    "keyword": "weekly",
+    "mentions": 1
   }
 ]
