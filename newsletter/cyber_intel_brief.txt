@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-10-19
+Date: 2026-10-26
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,11 +12,11 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
-Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers
-Source: https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html
+Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers
+Source: https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html
 
-Mississippi Medical Center Clinics Still Closed After Attack
-Source: https://www.databreachtoday.co.uk/mississippi-medical-center-clinics-still-closed-after-attack-a-30839?trk=article-ssr-frontend-pulse_little-text-block
+Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware
+Source: https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html
 
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
@@ -24,10 +24,10 @@ Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.h
 Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration
 Source: https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html
 
-Hospitals at Risk of BeyondTrust Ransomware Hacks
-Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
+State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web
+Source: https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html
 
-How U.S. Hospitals Became Cyber War Casualties
+Esse Health Discloses Major Data Breach Impacting More Than 263,000 Patients.
       
  
 
@@ -36,7 +36,7 @@ How U.S. Hospitals Became Cyber War Casualties
 
 
 
-            iPivot
+            Merqab (Formerly Genesis Platform)
           
 
             
@@ -74,7 +74,16 @@ How U.S. Hospitals Became Cyber War Casualties
     
 
       1y
-Source: https://www.linkedin.com/pulse/how-us-hospitals-became-cyber-war-casualties-ipivot-enxwf
+Source: https://www.linkedin.com/pulse/esse-health-discloses-major-data-breach-impacting-more-kddlc
+
+Your Backup Isn't Ransomware-Proof Just Because It Exists
+
+October 26, 2026
+Read ➝
+Source: https://thehackernews.com/expert-insights/2026/10/your-backup-isnt-ransomware-proof-just.html
+
+Hospitals at Risk of BeyondTrust Ransomware Hacks
+Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
 
 
 === WEAK_SIGNAL ===

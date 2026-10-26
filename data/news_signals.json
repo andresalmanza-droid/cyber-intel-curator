@@ -49,16 +49,16 @@
     "signal": "general_signal"
   },
   {
-    "title": "Attackers Heat French Supermarket Fridges Up to 50\u00b0C by Hijacking Danfoss Controllers",
-    "url": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
+    "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
+    "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
   {
-    "title": "Mississippi Medical Center Clinics Still Closed After Attack",
-    "url": "https://www.databreachtoday.co.uk/mississippi-medical-center-clinics-still-closed-after-attack-a-30839?trk=article-ssr-frontend-pulse_little-text-block",
-    "source": "linkedin",
+    "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
+    "url": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+    "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
@@ -84,17 +84,31 @@
     "signal": "general_signal"
   },
   {
-    "title": "Hospitals at Risk of BeyondTrust Ransomware Hacks",
-    "url": "https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block",
+    "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+    "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+    "source": "hackernews",
+    "category": "brechas",
+    "signal": "general_signal"
+  },
+  {
+    "title": "Esse Health Discloses Major Data Breach Impacting More Than 263,000 Patients.\n      \n \n\n\n\n\n\n\n            Merqab (Formerly Genesis Platform)\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
+    "url": "https://www.linkedin.com/pulse/esse-health-discloses-major-data-breach-impacting-more-kddlc",
     "source": "linkedin",
+    "category": "brechas",
+    "signal": "general_signal"
+  },
+  {
+    "title": "Your Backup Isn't Ransomware-Proof Just Because It Exists\n\n\ue802October 26, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/10/your-backup-isnt-ransomware-proof-just.html",
+    "source": "hackernews",
     "category": "ransomware",
     "signal": "general_signal"
   },
   {
-    "title": "How U.S. Hospitals Became Cyber War Casualties\n      \n \n\n\n\n\n\n\n            iPivot\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
-    "url": "https://www.linkedin.com/pulse/how-us-hospitals-became-cyber-war-casualties-ipivot-enxwf",
+    "title": "Hospitals at Risk of BeyondTrust Ransomware Hacks",
+    "url": "https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block",
     "source": "linkedin",
-    "category": "geopolitica",
+    "category": "ransomware",
     "signal": "general_signal"
   }
 ]
