@@ -49,15 +49,15 @@
     "signal": "general_signal"
   },
   {
-    "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
-    "url": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
+    "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+    "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
   {
-    "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
-    "url": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+    "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+    "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
@@ -84,17 +84,10 @@
     "signal": "general_signal"
   },
   {
-    "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
-    "url": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+    "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+    "url": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
     "source": "hackernews",
-    "category": "brechas",
-    "signal": "general_signal"
-  },
-  {
-    "title": "Esse Health Discloses Major Data Breach Impacting More Than 263,000 Patients.\n      \n \n\n\n\n\n\n\n            Merqab (Formerly Genesis Platform)\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
-    "url": "https://www.linkedin.com/pulse/esse-health-discloses-major-data-breach-impacting-more-kddlc",
-    "source": "linkedin",
-    "category": "brechas",
+    "category": "ransomware",
     "signal": "general_signal"
   },
   {
@@ -109,6 +102,13 @@
     "url": "https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block",
     "source": "linkedin",
     "category": "ransomware",
+    "signal": "general_signal"
+  },
+  {
+    "title": "Esse Health Discloses Major Data Breach Impacting More Than 263,000 Patients.\n      \n \n\n\n\n\n\n\n            Merqab (Formerly Genesis Platform)\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
+    "url": "https://www.linkedin.com/pulse/esse-health-discloses-major-data-breach-impacting-more-kddlc",
+    "source": "linkedin",
+    "category": "brechas",
     "signal": "general_signal"
   }
 ]

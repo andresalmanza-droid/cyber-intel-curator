@@ -8,12 +8,12 @@
     "mentions": 4
   },
   {
-    "keyword": "code",
+    "keyword": "control",
     "mentions": 3
   },
   {
-    "keyword": "control",
-    "mentions": 2
+    "keyword": "flaws",
+    "mentions": 3
   },
   {
     "keyword": "agents",
@@ -24,19 +24,19 @@
     "mentions": 2
   },
   {
+    "keyword": "attack",
+    "mentions": 2
+  },
+  {
+    "keyword": "remote",
+    "mentions": 2
+  },
+  {
+    "keyword": "exposed",
+    "mentions": 2
+  },
+  {
     "keyword": "api",
     "mentions": 2
-  },
-  {
-    "keyword": "data",
-    "mentions": 2
-  },
-  {
-    "keyword": "ransomware",
-    "mentions": 2
-  },
-  {
-    "keyword": "weekly",
-    "mentions": 1
   }
 ]

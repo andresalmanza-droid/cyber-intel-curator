@@ -1,5 +1,5 @@
 Cyber Intelligence Brief
-Date: 2026-10-26
+Date: 2026-11-02
 
 Strategic cybersecurity signals identified this week.
 
@@ -12,11 +12,11 @@ Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cve
 Anthropic Accuses 3 Chinese Firms of Distillation Attacks
 Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html
 
-Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers
-Source: https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html
+TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them
+Source: https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html
 
-Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware
-Source: https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html
+Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces
+Source: https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html
 
 Thousands of Public Google Cloud API Keys Exposed with Gemini Access
 Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html
@@ -24,8 +24,17 @@ Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.h
 Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration
 Source: https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html
 
-State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web
-Source: https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html
+GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption
+Source: https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html
+
+Your Backup Isn't Ransomware-Proof Just Because It Exists
+
+October 26, 2026
+Read ➝
+Source: https://thehackernews.com/expert-insights/2026/10/your-backup-isnt-ransomware-proof-just.html
+
+Hospitals at Risk of BeyondTrust Ransomware Hacks
+Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
 
 Esse Health Discloses Major Data Breach Impacting More Than 263,000 Patients.
       
@@ -75,15 +84,6 @@ Esse Health Discloses Major Data Breach Impacting More Than 263,000 Patients.
 
       1y
 Source: https://www.linkedin.com/pulse/esse-health-discloses-major-data-breach-impacting-more-kddlc
-
-Your Backup Isn't Ransomware-Proof Just Because It Exists
-
-October 26, 2026
-Read ➝
-Source: https://thehackernews.com/expert-insights/2026/10/your-backup-isnt-ransomware-proof-just.html
-
-Hospitals at Risk of BeyondTrust Ransomware Hacks
-Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block
 
 
 === WEAK_SIGNAL ===
