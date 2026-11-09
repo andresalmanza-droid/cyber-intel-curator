@@ -5,38 +5,38 @@
   },
   {
     "keyword": "your",
-    "mentions": 4
+    "mentions": 3
+  },
+  {
+    "keyword": "google",
+    "mentions": 3
+  },
+  {
+    "keyword": "code",
+    "mentions": 3
   },
   {
     "keyword": "control",
-    "mentions": 3
-  },
-  {
-    "keyword": "flaws",
-    "mentions": 3
+    "mentions": 2
   },
   {
     "keyword": "agents",
     "mentions": 2
   },
   {
-    "keyword": "google",
+    "keyword": "disrupts",
     "mentions": 2
   },
   {
-    "keyword": "attack",
-    "mentions": 2
-  },
-  {
-    "keyword": "remote",
-    "mentions": 2
-  },
-  {
-    "keyword": "exposed",
+    "keyword": "access",
     "mentions": 2
   },
   {
     "keyword": "api",
     "mentions": 2
+  },
+  {
+    "keyword": "weekly",
+    "mentions": 1
   }
 ]

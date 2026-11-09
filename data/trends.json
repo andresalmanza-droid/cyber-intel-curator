@@ -10,14 +10,9 @@
     "mentions": 3
   },
   {
-    "type": "category_trend",
-    "category": "ransomware",
-    "mentions": 3
-  },
-  {
     "type": "signal_trend",
     "signal": "general_signal",
-    "mentions": 10
+    "mentions": 7
   },
   {
     "type": "signal_trend",
@@ -27,6 +22,6 @@
   {
     "type": "signal_trend",
     "signal": "emerging_threat",
-    "mentions": 2
+    "mentions": 3
   }
 ]

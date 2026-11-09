@@ -84,128 +84,128 @@
     "category": "algo_mas"
   },
   {
-    "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-    "url": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-    "url": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-    "url": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+    "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+    "url": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
     "source": "hackernews",
     "category": "ciberataques"
   },
   {
-    "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-    "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+    "title": "Claude Code's \u201cDon't Ask Again\u201d File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+    "url": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+    "url": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+    "url": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
+    "url": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
     "source": "hackernews",
     "category": "algo_mas"
   },
   {
-    "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
-    "url": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+    "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+    "url": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
     "source": "hackernews",
     "category": "algo_mas"
   },
   {
-    "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-    "url": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+    "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+    "url": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+    "url": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
     "source": "hackernews",
     "category": "algo_mas"
   },
   {
-    "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-    "url": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+    "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
+    "url": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
+    "source": "hackernews",
+    "category": "ciberataques"
+  },
+  {
+    "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+    "url": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+    "url": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
     "source": "hackernews",
     "category": "algo_mas"
   },
   {
-    "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-    "url": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+    "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+    "url": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
     "source": "hackernews",
     "category": "vulnerabilidades"
   },
   {
-    "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
-    "url": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+    "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+    "url": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+    "url": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
     "source": "hackernews",
     "category": "ia"
   },
   {
-    "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
-    "url": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+    "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+    "url": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+    "source": "hackernews",
+    "category": "ia"
+  },
+  {
+    "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+    "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+    "source": "hackernews",
+    "category": "vulnerabilidades"
+  },
+  {
+    "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
+    "url": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
     "source": "hackernews",
     "category": "ciberataques"
   },
   {
-    "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-    "url": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+    "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
+    "url": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
     "source": "hackernews",
     "category": "ciberataques"
   },
   {
-    "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
-    "url": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
+    "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+    "url": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
     "source": "hackernews",
     "category": "algo_mas"
   },
   {
-    "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
-    "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
-    "url": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
-    "url": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
-    "source": "hackernews",
-    "category": "ransomware"
-  },
-  {
-    "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
-    "url": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+    "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+    "url": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
     "source": "hackernews",
     "category": "algo_mas"
   },
   {
-    "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
-    "url": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
-    "source": "hackernews",
-    "category": "algo_mas"
-  },
-  {
-    "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
-    "url": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
-    "source": "hackernews",
-    "category": "ciberataques"
-  },
-  {
-    "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-    "url": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-    "url": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-    "source": "hackernews",
-    "category": "algo_mas"
-  },
-  {
-    "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-    "url": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
+    "title": "The Flood is Coming And The Pipes Were Already Full",
+    "url": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
     "source": "hackernews",
     "category": "algo_mas"
   },
@@ -216,16 +216,16 @@
     "category": "ia"
   },
   {
-    "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
-    "url": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+    "title": "The Collapsed Patch Window: Why Runtime Protection is Now Your First Line of Defense Against AI-Driven Attacks",
+    "url": "https://thehackernews.com/expert-insights/2026/11/the-collapsed-patch-window-why-runtime.html",
     "source": "hackernews",
     "category": "ia"
   },
   {
-    "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
-    "url": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+    "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+    "url": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
     "source": "hackernews",
-    "category": "ia"
+    "category": "algo_mas"
   },
   {
     "title": "Detect Lateral Movement and Evasive Attacks With Corelight's Open NDR Platform",
@@ -282,6 +282,12 @@
     "category": "ia"
   },
   {
+    "title": "Your Attack Surface Is Growing Faster Than Your Team Can Respond\n\n\ue802November 4, 2026\nRead \u279d",
+    "url": "https://thehackernews.com/expert-insights/2026/11/your-attack-surface-is-growing-faster.html",
+    "source": "hackernews",
+    "category": "ciberataques"
+  },
+  {
     "title": "The MSP Margin Math Nobody's Doing: Your Next Technician Might Already be on Payroll\n\n\ue802November 2, 2026\nRead \u279d",
     "url": "https://thehackernews.com/expert-insights/2026/11/the-msp-margin-math-nobodys-doing-your.html",
     "source": "hackernews",
@@ -294,20 +300,8 @@
     "category": "algo_mas"
   },
   {
-    "title": "Your Backup Isn't Ransomware-Proof Just Because It Exists\n\n\ue802October 26, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/expert-insights/2026/10/your-backup-isnt-ransomware-proof-just.html",
-    "source": "hackernews",
-    "category": "ransomware"
-  },
-  {
-    "title": "Why Root and Jailbreak Detection Alone Cannot Guarantee Mobile App Security\n\n\ue802October 26, 2026\nRead \u279d",
-    "url": "https://thehackernews.com/videos/2026/10/why-root-and-jailbreak-detection-alone.html",
-    "source": "hackernews",
-    "category": "ia"
-  },
-  {
-    "title": "Cyware at the FS-ISAC Americas Fall Summit 2026",
-    "url": "https://www.cyware.com/resources/events-and-conferences/cyware-at-the-fs-isac-americas-fall-summit-2026",
+    "title": "Cyware at the Billington Critical Infrastructure Cybersecurity Summit 2026",
+    "url": "https://www.cyware.com/resources/events-and-conferences/cyware-at-billington-critical-infrastructure-cybersecurity-summit-2026",
     "source": "cyware",
     "category": "algo_mas"
   },
@@ -372,7 +366,7 @@
     "category": "algo_mas"
   },
   {
-    "title": "Oct 16, 2026\n\n\n\n            \n        OpenAI, Anthropic and the Growing Battle Over AI | Edition 186\n      \n          \n\n\n                  \n          The world's leading AI companies are facing a new wave of legal, security and regulatory challenges, putting questions\u2026\n      \n                \n\n\n\n\n\n\n\n                    15\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
+    "title": "Oct 16, 2026\n\n\n\n            \n        OpenAI, Anthropic and the Growing Battle Over AI | Edition 186\n      \n          \n\n\n                  \n          The world's leading AI companies are facing a new wave of legal, security and regulatory challenges, putting questions\u2026\n      \n                \n\n\n\n\n\n\n\n                    16\n              \n\n\n \n\n \n\n\n\n\n\n        \n                1 Comment",
     "url": "https://www.linkedin.com/pulse/openai-anthropic-growing-battle-over-syivf?trk=article-ssr-frontend-pulse",
     "source": "linkedin",
     "category": "ia"
@@ -432,28 +426,10 @@
     "category": "algo_mas"
   },
   {
-    "title": "Cybersecurity Daily Digest - June 09, 2026\n      \n \n\n\n\n\n\n\n            Vairav Tech\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      4mo",
-    "url": "https://www.linkedin.com/pulse/cybersecurity-daily-digest-june-09-2026-vairavtechnology-ghwnc",
-    "source": "linkedin",
-    "category": "ia"
-  },
-  {
     "title": "Cyberattack Paralyzes US Healthcare Facilities\n      \n \n\n\n\n\n\n\n            David Rotenberg\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      3y",
     "url": "https://www.linkedin.com/pulse/cyberattack-paralyzes-us-healthcare-facilities-david-rotenberg",
     "source": "linkedin",
     "category": "ciberataques"
-  },
-  {
-    "title": "Cyber Incident Weekly Report - Week of October 14, 2024\n      \n \n\n\n\n\n\n\n            SensCy\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      2y",
-    "url": "https://www.linkedin.com/pulse/cyber-incident-weekly-report-week-october-14-2024-senscy-rmjge",
-    "source": "linkedin",
-    "category": "algo_mas"
-  },
-  {
-    "title": "Enhance Your Security Against Cybercrime In Healthcare\n      \n \n\n\n\n\n\n\n            Dhanya Thakkar\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      11y",
-    "url": "https://www.linkedin.com/pulse/enhance-your-security-against-cybercrime-healthcare-dhanya-thakkar",
-    "source": "linkedin",
-    "category": "ia"
   },
   {
     "title": "What Cybersecurity Measures You Should Take for the Medical Industry\n      \n \n\n\n\n\n\n\n            G'SECURE LABS (A Gateway Group Company)\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
@@ -468,10 +444,22 @@
     "category": "brechas"
   },
   {
+    "title": "Cyber Incident Weekly Report - Week of October 14, 2024\n      \n \n\n\n\n\n\n\n            SensCy\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      2y",
+    "url": "https://www.linkedin.com/pulse/cyber-incident-weekly-report-week-october-14-2024-senscy-rmjge",
+    "source": "linkedin",
+    "category": "algo_mas"
+  },
+  {
     "title": "Protecting Canadian Healthcare: The Rising Threat of Cyber Attacks\n      \n \n\n\n\n\n\n\n            Brett Gallant\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
     "url": "https://www.linkedin.com/pulse/copy-protecting-canadian-healthcare-rising-threat-cyber-brett-gallant-u5pze",
     "source": "linkedin",
     "category": "ciberataques"
+  },
+  {
+    "title": "Enhance Your Security Against Cybercrime In Healthcare\n      \n \n\n\n\n\n\n\n            Dhanya Thakkar\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      11y",
+    "url": "https://www.linkedin.com/pulse/enhance-your-security-against-cybercrime-healthcare-dhanya-thakkar",
+    "source": "linkedin",
+    "category": "ia"
   },
   {
     "title": "Three major healthcare breaches in 2024\n      \n \n\n\n\n\n\n\n            Black Hat MEA\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      1y",
@@ -480,15 +468,15 @@
     "category": "algo_mas"
   },
   {
+    "title": "The Morning Everything Stopped...\n      \n \n\n\n\n\n\n\n            Ryan Sanders, MAA, MBA, MIT, CISM\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      3mo",
+    "url": "https://www.linkedin.com/pulse/morning-everything-stopped-ryan-sanders-maa-mba-mit-cism-oumhe",
+    "source": "linkedin",
+    "category": "algo_mas"
+  },
+  {
     "title": "Cyber Attack Spreads Globally - Hospitals Affected\n      \n \n\n\n\n\n\n\n            Richard Donegan\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      9y",
     "url": "https://www.linkedin.com/pulse/cyber-attack-spreads-globally-hospitals-affected-richard-donegan",
     "source": "linkedin",
     "category": "ciberataques"
-  },
-  {
-    "title": "The New Year Wake-Up Call Neither NZ\u2019s Healthcare System Nor the Rest of Us Wanted\n      \n \n\n\n\n\n\n\n            Sabarish S.\n          \n\n            \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n      10mo",
-    "url": "https://www.linkedin.com/pulse/new-year-wake-up-call-neither-nzs-healthcare-system-nor-shanmugam-2fgde",
-    "source": "linkedin",
-    "category": "algo_mas"
   }
 ]
