@@ -1,0 +1,43 @@
+Cyber Intelligence Brief
+Date: 2026-11-16
+
+Curated cybersecurity signals of the week.
+
+⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More
+Source: https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html Category: vulnerabilidades Signal: general_signal
+
+Google Disrupts UNC2814 GRIDTIDE Campaign
+Source: https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html Category: ia Signal: emerging_threat
+
+When AI Agents Become Your New Attack Surface
+Source: https://thehacker.news/ai-agents-attack-surface?source=recap Category: ia Signal: weak_signal
+
+Anthropic Accuses 3 Chinese Firms of Distillation Attacks
+Source: https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html Category: ciberataques Signal: general_signal
+
+New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs
+Source: https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html Category: ciberataques Signal: general_signal
+
+Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely
+Source: https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html Category: ciberataques Signal: general_signal
+
+Thousands of Public Google Cloud API Keys Exposed with Gemini Access
+Source: https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html Category: algo_mas Signal: general_signal
+
+UAT-10027 Targets U.S. Education and Healthcare Sectors
+Source: https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html Category: algo_mas Signal: emerging_threat
+
+Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration
+Source: https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html Category: algo_mas Signal: general_signal
+
+Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs
+Source: https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html Category: brechas Signal: general_signal
+
+Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data
+Source: https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html Category: brechas Signal: general_signal
+
+Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords
+Source: https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html Category: brechas Signal: general_signal
+
+Hospitals at Risk of BeyondTrust Ransomware Hacks
+Source: https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block Category: ransomware Signal: general_signal
