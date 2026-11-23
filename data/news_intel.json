@@ -35,15 +35,15 @@
     "signal": "general_signal"
   },
   {
-    "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-    "url": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+    "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
+    "url": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
   },
   {
-    "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
-    "url": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+    "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+    "url": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
     "source": "hackernews",
     "category": "ciberataques",
     "signal": "general_signal"
@@ -67,34 +67,6 @@
     "url": "https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html",
     "source": "hackernews",
     "category": "algo_mas",
-    "signal": "general_signal"
-  },
-  {
-    "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
-    "url": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
-    "source": "hackernews",
-    "category": "brechas",
-    "signal": "general_signal"
-  },
-  {
-    "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
-    "url": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
-    "source": "hackernews",
-    "category": "brechas",
-    "signal": "general_signal"
-  },
-  {
-    "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-    "url": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-    "source": "hackernews",
-    "category": "brechas",
-    "signal": "general_signal"
-  },
-  {
-    "title": "Hospitals at Risk of BeyondTrust Ransomware Hacks",
-    "url": "https://www.databreachtoday.co.uk/hospitals-at-risk-beyondtrust-ransomware-hacks-a-30818?trk=article-ssr-frontend-pulse_little-text-block",
-    "source": "linkedin",
-    "category": "ransomware",
     "signal": "general_signal"
   }
 ]
